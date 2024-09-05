@@ -1,0 +1,1001 @@
+﻿Rank,Company,Ticker,Sector,Industry,Profitable,Founder_is_CEO,FemaleCEO,Growth_in_Jobs,Change_in_Rank,Global500,Worlds_Most_Admired_Companies,Best_Companies_to_Work_For,Number_of_employees,MarketCap_March28_M,Revenue,RevenuePercentChange,Profits_M,ProfitsPercentChange,Assets_M,CEO,Country,HeadquartersCity,HeadquartersState,CompanyType
+1,Walmart,WMT,Retailing,General Merchandisers,yes,no,no,no,0,yes,yes,yes,2100000,484852.8,"$648,125,000 ",6%,15511,32.8,252399,C. Douglas McMillon,U.S.,Bentonville,Arkansas,Public
+2,Amazon,AMZN,Retailing,Internet Services and Retailing,yes,no,no,no,0,yes,yes,no,1525000,1873675.8,"$574,785,000 ",12%,30425,,527854,Andrew R. Jassy,U.S.,Seattle,Washington,Public
+3,Apple,AAPL,Technology,"Computers, Office Equipment",yes,no,no,no,1,yes,yes,no,161000,2647973.8,"$383,285,000 ",-3%,96995,-2.8,352583,Timothy D. Cook,U.S.,Cupertino,California,Public
+4,UnitedHealth Group,UNH,Health Care,Health Care: Insurance and Managed Care,yes,no,no,yes,1,yes,yes,no,440000,456080.8,"$371,622,000 ",15%,22381,11.2,273720,Andrew P. Witty,U.S.,Minnetonka,Minnesota,Public
+5,Berkshire Hathaway,BRKA,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,2,yes,yes,no,396500,908919.7,"$364,482,000 ",21%,96223,,1069978,Warren E. Buffett,U.S.,Omaha,Nebraska,Public
+6,CVS Health,CVS,Health Care,Health Care: Pharmacy and Other Services,yes,no,yes,no,0,yes,yes,no,259500,100373.9,"$357,776,000 ",11%,8344,101.1,249728,Karen S. Lynch,U.S.,Woonsocket,Rhode Island,Public
+7,Exxon Mobil,XOM,Energy,Petroleum Refining,yes,no,no,no,-4,yes,no,no,61500,461222.2,"$344,582,000 ",-17%,36010,-35.4,376317,Darren W. Woods,U.S.,Spring,Texas,Public
+8,Alphabet,GOOGL,Technology,Internet Services and Retailing,yes,no,no,no,0,yes,yes,no,182502,1884633,"$307,394,000 ",9%,73795,23,402392,Sundar Pichai,U.S.,Mountain View,California,Public
+9,McKesson,MCK,Health Care,Wholesalers: Health Care,yes,no,no,no,0,yes,no,no,48000,70546.5,"$276,711,000 ",5%,3560,219.6,62320,Brian S. Tyler,U.S.,Irving,Texas,Public
+10,Cencora,COR,Health Care,Wholesalers: Health Care,yes,no,no,yes,1,yes,no,no,44000,48472.1,"$262,173,000 ",10%,1745.3,2.7,62558.7,Steven H. Collis,U.S.,Conshohocken,Pennsylvania,Public
+11,Costco Wholesale,COST,Retailing,General Merchandisers,yes,no,no,yes,1,yes,yes,no,316000,324924.4,"$242,290,000 ",7%,6292,7.7,68994,Ron M. Vachris,U.S.,Issaquah,Washington,Public
+12,JPMorgan Chase,JPM,Financials,Commercial Banks,yes,no,no,yes,11,yes,yes,no,309926,576938.4,"$239,425,000 ",55%,49552,31.5,3875393,James Dimon,U.S.,New York,New York,Public
+13,Microsoft,MSFT,Technology,Computer Software,yes,no,no,no,0,yes,yes,no,221000,3126133.1,"$211,915,000 ",7%,72361,-0.5,411976,Satya Nadella,U.S.,Redmond,Washington,Public
+14,Cardinal Health,CAH,Health Care,Wholesalers: Health Care,yes,no,no,yes,0,yes,no,no,47520,27217.8,"$205,012,000 ",13%,261,,43417,Jason M. Hollar,U.S.,Dublin,Ohio,Public
+15,Chevron,CVX,Energy,Petroleum Refining,yes,no,no,yes,-5,yes,no,no,45600,292965.6,"$200,949,000 ",-18%,21369,-39.7,261632,Michael K. Wirth,U.S.,San Ramon,California,Public
+16,Cigna,CI,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,yes,-1,yes,no,no,71413,103017.9,"$195,265,000 ",8%,5164,-22.6,152761,David M. Cordani,U.S.,Bloomfield,Connecticut,Public
+17,Ford Motor,F,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,2,yes,no,no,177000,53017.8,"$176,191,000 ",12%,4347,,273310,James D. Farley Jr.,U.S.,Dearborn,Michigan,Public
+18,Bank of America,BAC,Financials,Commercial Banks,yes,no,no,no,14,yes,yes,yes,212985,299213,"$171,912,000 ",49%,26515,-3.7,3180151,Brian T. Moynihan,U.S.,Charlotte,North Carolina,Public
+19,General Motors,GM,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,yes,no,2,yes,no,no,163000,52353.5,"$171,842,000 ",10%,10127,1.9,273064,Mary T. Barra,U.S.,Detroit,Michigan,Public
+20,Elevance Health,ELV,Health Care,Health Care: Insurance and Managed Care,yes,no,yes,yes,2,yes,yes,yes,104900,120619.6,"$171,340,000 ",9%,5987,-0.6,108928,Gail K. Boudreaux,U.S.,Indianapolis,Indiana,Public
+21,Citigroup,C,Financials,Commercial Banks,yes,no,yes,no,15,yes,no,no,237925,121122.2,"$156,820,000 ",55%,9228,-37.8,2411834,Jane Fraser,U.S.,New York,New York,Public
+22,Centene,CNC,Health Care,Health Care: Insurance and Managed Care,yes,no,yes,no,3,yes,yes,no,67700,41979.4,"$153,999,000 ",7%,2702,124.8,84641,Sarah M. London,U.S.,St. Louis,Missouri,Public
+23,Home Depot,HD,Retailing,Specialty Retailers: Other,yes,no,no,no,-3,yes,yes,no,463100,380153.7,"$152,669,000 ",-3%,15143,-11.5,76530,Edward P. Decker,U.S.,Atlanta,Georgia,Public
+24,Marathon Petroleum,MPC,Energy,Petroleum Refining,yes,no,no,yes,-8,yes,no,no,18200,72607.7,"$150,307,000 ",-17%,9681,-33.3,85987,Maryann T. Mannen,U.S.,Findlay,Ohio,Public
+25,Kroger,KR,Food & Drug Stores,Food & Drug Stores,yes,no,no,no,-1,yes,no,no,414000,41100.7,"$150,039,000 ",1%,2164,-3.6,50505,W. Rodney McMullen,U.S.,Cincinnati,Ohio,Public
+26,Phillips 66,PSX,Energy,Petroleum Refining,yes,no,no,yes,-9,yes,no,no,14000,69880.8,"$149,890,000 ",-15%,7015,-36.4,75501,Mark E. Lashier,U.S.,Houston,Texas,Public
+27,Fannie Mae,FNMA,Financials,Diversified Financials,yes,no,yes,yes,1,yes,no,no,8100,1818.2,"$141,240,000 ",16%,17408,34.7,4325437,Priscilla Almodovar,U.S.,Washington,District Of Columbia,Public
+28,Walgreens Boots Alliance,WBA,Food & Drug Stores,Food & Drug Stores,no,no,no,yes,-1,yes,no,no,268500,18712.3,"$139,081,000 ",5%,-3080,-171,96628,Timothy Wentworth,U.S.,Deerfield,Illinois,Public
+29,Valero Energy,VLO,Energy,Petroleum Refining,yes,no,no,yes,-11,yes,no,no,9897,56234.5,"$139,001,000 ",-19%,8835,-23.4,63056,R. Lane Riggs,U.S.,San Antonio,Texas,Public
+30,Meta Platforms,META,Technology,Internet Services and Retailing,yes,yes,no,no,1,yes,yes,no,67317,1237940.1,"$134,902,000 ",16%,39098,68.5,229623,Mark Zuckerberg,U.S.,Menlo Park,California,Public
+31,Verizon Communications,VZ,Telecommunications,Telecommunications,yes,no,no,no,-5,yes,yes,no,105400,176651.6,"$133,974,000 ",-2%,11614,-45.4,380255,Hans E. Vestberg,U.S.,New York,New York,Public
+32,AT&T,T,Telecommunications,Telecommunications,yes,no,no,no,-2,yes,yes,no,150470,125889.1,"$122,428,000 ",1%,14400,,407060,John T. Stankey,U.S.,Dallas,Texas,Public
+33,Comcast,CMCSA,Telecommunications,Telecommunications,yes,no,no,no,-4,yes,yes,yes,186000,172180,"$121,572,000 ",0%,15388,186.6,264811,Brian L. Roberts,U.S.,Philadelphia,Pennsylvania,Public
+34,Wells Fargo,WFC,Financials,Commercial Banks,yes,no,no,no,13,yes,no,no,226000,205201.8,"$115,340,000 ",39%,19142,45.2,1932468,Charles W. Scharf,U.S.,San Francisco,California,Public
+35,Goldman Sachs Group,GS,Financials,Commercial Banks,yes,no,no,no,20,yes,yes,no,45300,135551.7,"$108,418,000 ",58%,8516,-24.4,1641594,David M. Solomon,U.S.,New York,New York,Public
+36,Freddie Mac,FMCC,Financials,Diversified Financials,yes,no,no,yes,9,yes,no,no,8020,877.6,"$108,050,000 ",25%,10538,13,3280976,Michael T. Hutchins,U.S.,McLean,Virginia,Public
+37,Target,TGT,Retailing,General Merchandisers,yes,no,no,no,-4,yes,yes,yes,415000,81816.1,"$107,412,000 ",-2%,4138,48.8,55356,Brian C. Cornell,U.S.,Minneapolis,Minnesota,Public
+38,Humana,HUM,Health Care,Health Care: Insurance and Managed Care,yes,no,no,yes,4,yes,yes,no,67600,41796.7,"$106,374,000 ",15%,2489,-11.3,47065,James A. Rechtin,U.S.,Louisville,Kentucky,Public
+39,State Farm Insurance,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,5,yes,no,no,65054,,"$104,198,000 ",17%,-6272.3,,339484.7,Michael L. Tipsord,U.S.,Bloomington,Illinois,Private
+40,Tesla,TSLA,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,yes,no,yes,10,yes,no,no,140473,559854.3,"$96,773,000 ",19%,14997,19.4,106618,Elon Musk,U.S.,Austin,Texas,Public
+41,Morgan Stanley,MS,Financials,Commercial Banks,yes,no,no,no,20,yes,yes,no,80006,153976.9,"$96,194,000 ",46%,9087,-17.6,1193693,Edward N. Pick,U.S.,New York,New York,Public
+42,Johnson & Johnson,JNJ,Health Care,Pharmaceuticals,yes,no,no,no,-2,yes,yes,no,131900,381203.6,"$95,195,000 ",0%,35153,95.9,167558,Joaquin Duato,U.S.,New Brunswick,New Jersey,Public
+43,Archer Daniels Midland,ADM,"Food, Beverages & Tobacco",Food Production,yes,no,no,no,-8,yes,yes,no,41008,32023.6,"$93,935,000 ",-8%,3483,-19.7,54631,Juan R. Luciano,U.S.,Chicago,Illinois,Public
+44,PepsiCo,PEP,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,2,yes,yes,no,318000,240552.8,"$91,471,000 ",6%,9074,1.8,100495,Ramon L. Laguarta,U.S.,Purchase,New York,Public
+45,United Parcel Service,UPS,Transportation,"Mail, Package, and Freight Delivery",yes,no,yes,no,-8,yes,yes,no,382550,126828.9,"$90,958,000 ",-9%,6708,-41.9,70857,Carol B. Tom?,U.S.,Atlanta,Georgia,Public
+46,FedEx,FDX,Transportation,"Mail, Package, and Freight Delivery",yes,no,no,no,-5,yes,yes,no,446400,71299.4,"$90,155,000 ",-4%,3972,3.8,87143,Rajesh Subramaniam,U.S.,Memphis,Tennessee,Public
+47,Walt Disney,DIS,Media,Entertainment,yes,no,no,yes,1,yes,yes,no,199125,224445.2,"$88,898,000 ",8%,2354,-25.2,205579,Robert A. Iger,U.S.,Burbank,California,Public
+48,Dell Technologies,DELL,Technology,"Computers, Office Equipment",yes,yes,no,no,-14,yes,yes,no,120000,81450.6,"$88,425,000 ",-14%,3211,31.5,82089,Michael S. Dell,U.S.,Round Rock,Texas,Public
+49,Lowe's,LOW,Retailing,Specialty Retailers: Other,yes,no,no,no,-10,yes,yes,no,226000,145752.5,"$86,377,000 ",-11%,7726,20,41795,Marvin R. Ellison,U.S.,Mooresville,North Carolina,Public
+50,Procter & Gamble,PG,Household Products,Household and Personal Products,yes,no,no,yes,1,yes,yes,no,107000,381777.7,"$82,006,000 ",2%,14653,-0.6,120829,Jon R. Moeller,U.S.,Cincinnati,Ohio,Public
+51,Energy Transfer,ET,Energy,Pipelines,yes,no,no,yes,-8,yes,no,no,13786,52974.8,"$78,586,000 ",-13%,3935,-17.3,113698,Thomas E. Long/Marshall S. McCrea III,U.S.,Dallas,Texas,Public
+52,Boeing,BA,Aerospace & Defense,Aerospace & Defense,no,no,no,yes,6,yes,yes,no,171000,117750,"$77,794,000 ",17%,-2222,,137012,Kelly K. Ortberg,U.S.,Arlington,Virginia,Public
+53,Albertsons,ACI,Food & Drug Stores,Food & Drug Stores,yes,no,no,yes,0,yes,no,no,198650,12350.3,"$77,649,001 ",8%,1513.5,-6.6,26168.2,Vivek Sankaran,U.S.,Boise,Idaho,Public
+54,Sysco,SYY,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,yes,2,yes,no,no,71750,40413.8,"$76,324,001 ",11%,1770.1,30.3,22821.1,Kevin P. Hourican,U.S.,Houston,Texas,Public
+55,RTX,RTX,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,2,yes,yes,no,185000,129680.3,"$68,920,000 ",3%,3195,-38.5,161869,Christopher T. Calio,U.S.,Arlington,Virginia,Public
+56,General Electric,GE,Industrials,Industrial Machinery,yes,no,no,no,-4,yes,no,no,125000,191901.2,"$67,954,000 ",-11%,9481,4113.8,163045,H. Lawrence Culp Jr.,U.S.,Boston,Massachusetts,Public
+57,Lockheed Martin,LMT,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,3,yes,yes,no,122000,109394.2,"$67,571,000 ",2%,6920,20.7,52456,James D. Taiclet Jr.,U.S.,Bethesda,Maryland,Public
+58,American Express,AXP,Financials,Diversified Financials,yes,no,no,no,19,yes,yes,yes,74600,163945.6,"$67,364,000 ",21%,8374,11.4,261108,Stephen J. Squeri,U.S.,New York,New York,Public
+59,Caterpillar,CAT,Industrials,Construction and Farm Machinery,yes,no,no,yes,9,yes,yes,no,113200,182986.8,"$67,060,000 ",13%,10335,54.1,87476,D. James Umpleby III,U.S.,Irving,Texas,Public
+60,MetLife,MET,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,-6,yes,yes,yes,45000,53583,"$66,905,000 ",-4%,1578,-37.8,687584,Michel A. Khalaf,U.S.,New York,New York,Public
+61,HCA Healthcare,HCA,Health Care,Health Care: Medical Facilities,yes,no,no,yes,5,yes,yes,no,265000,88213.8,"$64,968,000 ",8%,5242,-7.1,56211,Samuel N. Hazen,U.S.,Nashville,Tennessee,Public
+62,Progressive,PGR,Financials,Insurance: Property and Casualty (Stock),yes,no,yes,yes,26,yes,yes,yes,61432,121134.1,"$62,108,000 ",25%,3902.4,440.9,88690.8,Susan Patricia  Griffith,U.S.,Mayfield Village,Ohio,Public
+63,IBM,IBM,Technology,Information Technology Services,yes,no,no,no,2,yes,yes,no,296600,175061.6,"$61,860,000 ",2%,7502,357.7,135241,Arvind Krishna,U.S.,Armonk,New York,Public
+64,Deere,DE,Industrials,Construction and Farm Machinery,yes,no,no,yes,17,yes,yes,no,82956,114332.9,"$61,251,000 ",17%,10166,42.6,104087,John C. May,U.S.,Moline,Illinois,Public
+65,Nvidia,NVDA,Technology,Semiconductors and Other Electronic Components,yes,yes,no,yes,87,no,yes,yes,29600,2258900,"$60,922,000 ",126%,29760,581.3,65728,Jensen Huang,U.S.,Santa Clara,California,Public
+66,StoneX Group,SNEX,Financials,Diversified Financials,yes,no,no,yes,-7,yes,no,no,4137,2216.7,"$60,856,000 ",-8%,238.5,15.2,21938.7,Sean M. O'Connor,U.S.,New York,New York,Public
+67,Merck,MRK,Health Care,Pharmaceuticals,yes,no,no,yes,2,yes,yes,yes,71000,334182.4,"$60,115,000 ",1%,365,-97.5,106675,Robert M. Davis,U.S.,Rahway,New Jersey,Public
+68,ConocoPhillips,COP,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-19,yes,no,no,9900,149733.3,"$58,574,000 ",-29%,10957,-41.3,95924,Ryan M. Lance,U.S.,Houston,Texas,Public
+69,Pfizer,PFE,Health Care,Pharmaceuticals,yes,no,no,yes,-31,yes,yes,no,88000,157135.5,"$58,496,000 ",-42%,2119,-93.2,226501,Albert Bourla,U.S.,New York,New York,Public
+70,Delta Air Lines,DAL,Transportation,Airlines,yes,no,no,yes,15,yes,yes,yes,103000,30795.9,"$58,048,000 ",15%,4609,249.7,73644,Edward H. Bastian,U.S.,Atlanta,Georgia,Public
+71,TD Synnex,SNX,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,no,no,no,-7,yes,yes,no,28000,9856.6,"$57,555,000 ",-8%,626.9,-3.7,29412.8,Patrick  Zammit/Richard T. Hume,U.S.,Fremont,California,Public
+72,Publix Super Markets,PFE,Food & Drug Stores,Food & Drug Stores,yes,no,no,yes,6,yes,yes,yes,253000,,"$57,534,000 ",5%,4349,49,34384,Kevin S. Murphy,U.S.,Lakeland,Florida,Private
+73,Allstate,ALL,Financials,Insurance: Property and Casualty (Stock),no,no,no,no,11,yes,yes,no,53200,45513.3,"$57,094,000 ",11%,-188,,103362,Thomas J. Wilson,U.S.,Northbrook,Illinois,Public
+74,Cisco Systems,CSCO,Technology,Network and Other Communications Equipment,yes,no,no,yes,8,yes,no,yes,84900,202094.9,"$56,998,000 ",11%,12613,6.8,101852,Charles H. Robbins,U.S.,San Jose,California,Public
+75,Nationwide,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,no,8,yes,no,yes,24118,,"$54,609,000 ",6%,-45.2,-104.6,290615,Kirt A. Walker,U.S.,Columbus,Ohio,Private
+76,Charter Communications,CHTR,Telecommunications,Telecommunications,yes,no,no,no,3,yes,no,no,101100,51316,"$54,607,000 ",1%,4557,-9.9,147193,Christopher L. Winfrey,U.S.,Stamford,Connecticut,Public
+77,AbbVie,ABBV,Health Care,Pharmaceuticals,yes,no,no,no,-4,yes,yes,yes,50000,322434.8,"$54,318,000 ",-6%,4863,-58.9,134711,Robert A. Michael,U.S.,North Chicago,Illinois,Public
+78,New York Life Insurance,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,yes,-7,yes,yes,no,15384,,"$54,317,000 ",-7%,804.6,,408904.9,Craig DeSanto,U.S.,New York,New York,Private
+79,Intel,INTC,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-17,yes,no,no,124800,188026,"$54,228,000 ",-14%,1689,-78.9,191572,Patrick P. Gelsinger,U.S.,Santa Clara,California,Public
+80,TJX,TJX,Retailing,Specialty Retailers: Apparel,yes,no,no,yes,7,yes,yes,no,349000,115586,"$54,217,000 ",9%,4474,27.9,29747,Ernie L. Herrman,U.S.,Framingham,Massachusetts,Public
+81,Prudential Financial,PRU,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,-14,yes,yes,no,40366,42191.2,"$53,979,000 ",-10%,2488,,721123,Charles F. Lowrey,U.S.,Newark,New Jersey,Public
+82,HP,HPQ,Technology,"Computers, Office Equipment",yes,no,no,no,-19,yes,yes,yes,58000,29569.7,"$53,718,000 ",-15%,3263,4.2,37004,Enrique J. Lores,U.S.,Palo Alto,California,Public
+83,United Airlines Holdings,UAL,Transportation,Airlines,yes,no,no,yes,13,yes,yes,no,103300,15705.9,"$53,717,000 ",20%,2618,255.2,71104,J. Scott Kirby,U.S.,Chicago,Illinois,Public
+84,Performance Food Group,PFGC,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,no,7,yes,no,no,34825,11612.9,"$53,354,000 ",13%,397.2,253.1,12499,George L. Holm,U.S.,Richmond,Virginia,Public
+85,Tyson Foods,TSN,"Food, Beverages & Tobacco",Food Production,no,no,no,no,-5,yes,no,no,139000,20928.3,"$52,881,000 ",-1%,-648,-120,36251,Donnie D. King,U.S.,Springdale,Arkansas,Public
+86,American Airlines Group,AAL,Transportation,Airlines,yes,no,no,yes,3,yes,no,no,132100,10050.5,"$52,788,000 ",8%,822,547.2,63058,Robert D. Isom,U.S.,Fort Worth,Texas,Public
+87,Liberty Mutual Insurance Group,,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,-1,yes,no,no,45000,,"$52,612,000 ",5%,213,-48.6,165208,Timothy M. Sweeney,U.S.,Boston,Massachusetts,Private
+88,Nike,NKE,Apparel,Apparel,yes,no,no,yes,5,yes,yes,no,83700,142391.2,"$51,217,000 ",10%,5070,-16.1,37531,John J. Donahoe II,U.S.,Beaverton,Oregon,Public
+89,Oracle,ORCL,Technology,Computer Software,yes,no,yes,yes,12,yes,yes,no,164000,345240.8,"$49,954,000 ",18%,8503,26.6,134384,Safra A. Catz,U.S.,Austin,Texas,Public
+90,Enterprise Products Partners,EPD,Energy,Pipelines,yes,no,no,yes,-18,yes,no,no,7500,63269.4,"$49,715,000 ",-15%,5532,0.8,70982,A. James Teague/W. Randall Fowler,U.S.,Houston,Texas,Public
+91,Capital One Financial,COF,Financials,Commercial Banks,yes,yes,no,no,15,yes,yes,yes,51987,56891.2,"$49,484,000 ",29%,4887,-33.6,478464,Richard D. Fairbank,U.S.,McLean,Virginia,Public
+92,Plains GP Holdings,PAGP,Energy,Pipelines,yes,no,no,yes,-18,yes,no,no,4200,3597.5,"$48,712,000 ",-15%,198,17.9,28597,Wilfred C.W. Chiang,U.S.,Houston,Texas,Public
+93,World Kinect,WKC,Energy,Energy,yes,no,no,yes,-23,yes,no,no,5289,1583,"$47,710,000 ",-19%,52.9,-53.6,7375.3,Michael J. Kasbar,U.S.,Miami,Florida,Public
+94,AIG,AIG,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,-18,yes,no,no,25200,53230.1,"$46,802,000 ",-17%,3643,-64.5,539306,Peter S. Zaffino,U.S.,New York,New York,Public
+95,Coca-Cola,KO,"Food, Beverages & Tobacco",Beverages,yes,no,no,no,5,yes,yes,no,79100,263758.6,"$45,754,000 ",6%,10714,12.3,97703,James R. Quincey,U.S.,Atlanta,Georgia,Public
+96,TIAA,,Financials,"Insurance: Life, Health (Mutual)",no,no,yes,no,7,yes,yes,no,16023,,"$45,734,000 ",12%,-1408.9,-385.4,629369.9,Thasunda Brown Duckett,U.S.,New York,New York,Private
+97,CHS,,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,-7,yes,no,no,10609,,"$45,590,000 ",-5%,1900.4,13.2,18957.4,Jay D. Debertin,U.S.,Inver Grove Heights,Minnesota,Private
+98,Bristol-Myers Squibb,BMY,Health Care,Pharmaceuticals,yes,no,no,no,-3,yes,yes,no,34100,109911.1,"$45,006,000 ",-3%,8025,26.8,95159,Christopher S. Boerner,U.S.,Princeton,New Jersey,Public
+99,Dow,DOW,Chemicals,Chemicals,yes,no,no,no,-24,yes,yes,yes,35900,40740.3,"$44,622,000 ",-22%,589,-87.1,57967,James R. Fitterling,U.S.,Midland,Michigan,Public
+100,Best Buy,BBY,Retailing,Specialty Retailers: Other,yes,no,yes,yes,-6,yes,yes,no,85000,17667.7,"$43,452,000 ",-6%,1241,-12.5,14967,Corie S. Barry,U.S.,Richfield,Minnesota,Public
+101,Thermo Fisher Scientific,TMO,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,no,-4,yes,yes,no,122000,221622.5,"$42,857,000 ",-5%,5995,-13.7,98726,Marc N. Casper,U.S.,Waltham,Massachusetts,Public
+102,Massachusetts Mutual Life Insurance,,Financials,"Insurance: Life, Health (Mutual)",no,no,no,yes,2,yes,yes,no,11323,,"$42,641,000 ",6%,-771.6,-152,397895,Roger W. Crandall,U.S.,Springfield,Massachusetts,Private
+103,USAA,,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,11,yes,yes,no,37376,,"$42,493,000 ",17%,1213.5,,211637.6,Wayne Peacock,U.S.,San Antonio,Texas,Private
+104,General Dynamics,GD,Aerospace & Defense,Aerospace & Defense,yes,no,yes,yes,1,yes,yes,no,111600,77506.3,"$42,272,000 ",7%,3315,-2.2,54810,Phebe N. Novakovic,U.S.,Reston,Virginia,Public
+105,Travelers,TRV,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,7,yes,yes,no,33133,52731,"$41,364,000 ",12%,2991,5.2,125978,Alan D. Schnitzer,U.S.,New York,New York,Public
+106,Warner Bros. Discovery,WBD,Media,Entertainment,no,no,no,no,12,yes,no,no,35300,21298.5,"$41,321,000 ",22%,-3126,,122757,David M. Zaslav,U.S.,New York,New York,Public
+107,U.S. Bancorp,USB,Financials,Commercial Banks,yes,no,no,no,42,no,yes,no,75465,69656.5,"$40,624,000 ",48%,5429,-6.8,663491,Andrew J. Cecere,U.S.,Minneapolis,Minnesota,Public
+108,Abbott Laboratories,ABT,Health Care,Medical Products and Equipment,yes,no,no,no,-9,yes,yes,no,114000,197221,"$40,109,000 ",-8%,5723,-17.5,73214,Robert B. Ford,U.S.,Abbott Park,Illinois,Public
+109,Northrop Grumman,NOC,Aerospace & Defense,Aerospace & Defense,yes,no,yes,yes,4,yes,yes,no,101000,70908.8,"$39,290,000 ",7%,2056,-58,46544,Kathy J. Warden,U.S.,Falls Church,Virginia,Public
+110,Northwestern Mutual,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,no,1,yes,yes,no,8239,,"$38,788,000 ",5%,711.4,-22,358828.6,John E. Schlifske,U.S.,Milwaukee,Wisconsin,Private
+111,Dollar General,DG,Retailing,Specialty Retailers: Other,yes,no,no,yes,-3,yes,no,no,185800,34281.9,"$38,691,000 ",2%,1661.3,-31.2,30795.6,Todd J. Vasos,U.S.,Goodlettsville,Tennessee,Public
+112,PBF Energy,PBF,Energy,Petroleum Refining,yes,no,no,yes,-20,yes,no,no,3776,6860.3,"$38,324,000 ",-18%,2140.5,-25.6,14387.8,Matthew C. Lucey,U.S.,Parsippany,New Jersey,Public
+113,Uber Technologies,UBER,Technology,Internet Services and Retailing,yes,no,no,no,14,yes,yes,no,30400,160258.1,"$37,281,000 ",17%,1887,,38699,Dara Khosrowshahi,U.S.,San Francisco,California,Public
+114,Honeywell International,HON,Industrials,Industrial Machinery,yes,no,no,no,1,yes,yes,no,95000,133860.3,"$36,662,000 ",3%,5658,13.9,61525,Vimal Kapur,U.S.,Charlotte,North Carolina,Public
+115,Mondelez International,MDLZ,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,16,yes,yes,no,91000,94253.4,"$36,016,000 ",14%,4959,82.5,71391,Dirk Van de Put,U.S.,Chicago,Illinois,Public
+116,Starbucks,SBUX,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,no,9,yes,yes,no,381000,103471.8,"$35,976 ",12%,4124.5,25.7,29445.5,Rachel Ruggeri,U.S.,Seattle,Washington,Public
+117,Qualcomm,QCOM,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-19,yes,yes,no,50000,188938.8,"$35,820,000 ",-19%,7232,-44.1,51040,Cristiano R. Amon,U.S.,San Diego,California,Public
+118,Broadcom,AVGO,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,5,yes,no,no,20000,614223.1,"$35,819,000 ",8%,14082,22.5,72861,Hock E. Tan,U.S.,Palo Alto,California,Public
+119,US Foods Holding,USFD,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,yes,-2,yes,no,no,30000,13217.4,"$35,597,000 ",5%,506,90.9,13187,David E. Flitman,U.S.,Rosemont,Illinois,Public
+120,D.R. Horton,DHI,Engineering & Construction,Homebuilders,yes,no,no,yes,0,yes,yes,no,13450,54600.5,"$35,460 ",6%,4745.7,-19,32582.4,Paul J. Romanowski,U.S.,Arlington,Texas,Public
+121,Philip Morris International,PM,"Food, Beverages & Tobacco",Tobacco,yes,no,no,yes,7,yes,no,no,82700,142428,"$35,174,000 ",11%,7813,-13.6,65304,Jacek Olczak,U.S.,Stamford,Connecticut,Public
+122,Paccar,PCAR,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,18,no,no,no,32400,64919.7,"$35,127 ",22%,4600.8,52.8,40823.4,R. Preston Feight,U.S.,Bellevue,Washington,Public
+123,Salesforce,CRM,Technology,Computer Software,yes,yes,no,no,10,yes,yes,yes,72682,292144.6,"$34,857,000 ",11%,4136,1888.5,99823,Marc R. Benioff,U.S.,San Francisco,California,Public
+124,Nucor,NUE,Materials,Metals,yes,no,no,yes,-22,yes,yes,no,32000,47492,"$34,714 ",-16%,4524.8,-40.5,35340.5,Leon J. Topalian,U.S.,Charlotte,North Carolina,Public
+125,Jabil,JBL,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-4,yes,yes,no,236000,17084.7,"$34,702,000 ",4%,818,-17.9,19424,Michael K. Dastoor,U.S.,St. Petersburg,Florida,Public
+126,Lennar,LEN,Engineering & Construction,Homebuilders,yes,no,no,yes,-7,yes,yes,no,12284,47374.8,"$34,233 ",2%,3938.5,-14.6,39234.3,Jonathan M. Jaffe/Stuart A. Miller,U.S.,Miami,Florida,Public
+127,Eli Lilly,LLY,Health Care,Pharmaceuticals,yes,no,no,yes,15,no,yes,no,43000,739658,"$34,124 ",20%,5240.4,-16.1,64006.3,David A. Ricks,U.S.,Indianapolis,Indiana,Public
+128,Molina Healthcare,MOH,Health Care,Health Care: Insurance and Managed Care,yes,no,no,yes,-2,yes,yes,no,18000,24068,"$34,072,000 ",7%,1091,37.8,14892,Joseph M. Zubretsky,U.S.,Long Beach,California,Public
+129,Cummins,CMI,Industrials,Industrial Machinery,yes,no,yes,yes,17,no,yes,no,75500,41798.1,"$34,065,000 ",21%,735,-65.8,32005,Jennifer Rumsey,U.S.,Columbus,Indiana,Public
+130,Bank of New York Mellon,BK,Financials,Commercial Banks,yes,no,no,yes,71,no,yes,no,53400,43380.4,"$33,805,000 ",69%,3286,27.7,409953,Robin Vince,U.S.,New York,New York,Public
+131,Netflix,NFLX,Media,Entertainment,yes,no,no,yes,-2,yes,yes,no,13000,262827.9,"$33,723 ",7%,5408,20.4,48732,Ted Sarandos/Gregory K. Peters,U.S.,Los Gatos,California,Public
+132,Truist Financial,TFC,Financials,Commercial Banks,no,no,no,no,25,no,no,no,49935,52022.4,"$33,246,000 ",31%,-1091,-117.4,535349,William H. Rogers Jr.,U.S.,Charlotte,North Carolina,Public
+133,Arrow Electronics,ARW,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,no,no,no,-24,yes,yes,no,22100,6988.1,"$33,107 ",-11%,903.5,-36.7,21726.2,Sean J. Kerins,U.S.,Centennial,Colorado,Public
+134,3M,MMM,Chemicals,Chemicals,no,no,no,no,-18,yes,yes,no,85000,58695,"$32,681,000 ",-5%,-6995,-221.1,50580,William M. Brown,U.S.,St. Paul,Minnesota,Public
+135,Visa,V,Business Services,Financial Data Services,yes,no,no,yes,2,no,yes,yes,28800,560847.5,"$32,653,000 ",11%,17273,15.5,90499,Ryan McInerney,U.S.,San Francisco,California,Public
+136,Apollo Global Management,APO,Financials,Securities,yes,yes,no,yes,220,no,no,no,6855,63889.7,"$32,644,000 ",181%,5047,,313488,Marc Rowan,U.S.,New York,New York,Public
+137,HF Sinclair,DINO,Energy,Petroleum Refining,yes,no,no,no,-30,yes,no,no,5218,11987.6,"$31,964 ",-16%,1589.7,-45.6,17716.3,Tim Go,U.S.,Dallas,Texas,Public
+138,CBRE Group,CBRE,Financials,Real estate,yes,no,no,yes,-3,no,yes,no,130000,29725.9,"$31,949,000 ",4%,986,-29.9,22548,Robert E. Sulentic,U.S.,Dallas,Texas,Public
+139,PNC Financial Services Group,PNC,Financials,Commercial Banks,yes,no,no,no,29,no,yes,no,55612,64291.8,"$31,882,000 ",35%,5578,-7.7,561580,William S. Demchak,U.S.,Pittsburgh,Pennsylvania,Public
+140,Lithia Motors,LAD,Retailing,"Automotive Retailing, Services",yes,no,no,yes,5,no,no,no,25051,8283,"$31,311 ",11%,1000.8,-20,19632.5,Bryan B. DeBoer,U.S.,Medford,Oregon,Public
+141,CarMax,KMX,Retailing,"Automotive Retailing, Services",yes,no,no,no,-17,yes,no,yes,30621,13756.5,"$31,126 ",-6%,484.8,-57.9,26182.7,William D. Nash,U.S.,Richmond,Virginia,Public
+142,Paramount Global,PARA,Media,Entertainment,no,no,no,no,-8,yes,no,no,24150,8099,"$30,610,000 ",-2%,-608,-155.1,53543,George Cheeks/Chris McCarthy/Brian Robbins,U.S.,New York,New York,Public
+143,Dollar Tree,DLTR,Retailing,Specialty Retailers: Other,no,no,no,yes,1,no,no,no,138860,29024.4,"$30,604 ",8%,-998.4,-161.8,22023.5,Richard W. Dreiling,U.S.,Chesapeake,Virginia,Public
+144,United Natural Foods,UNFI,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,no,-5,no,no,no,29455,682.9,"$30,272,000 ",5%,24,-90.3,7394,Sandy Douglas,U.S.,Providence,Rhode Island,Public
+145,PayPal Holdings,PYPL,Business Services,Financial Data Services,yes,no,no,no,3,no,yes,no,27200,71796,"$29,771,000 ",8%,4246,75.5,82166,Alex Chriss,U.S.,San Jose,California,Public
+146,Penske Automotive Group,PAG,Retailing,"Automotive Retailing, Services",yes,no,no,yes,1,no,yes,no,28000,10861,"$29,527 ",6%,1053.2,-23.7,15671.5,Roger S. Penske,U.S.,Bloomfield Hills,Michigan,Public
+147,Hewlett Packard Enterprise,HPE,Technology,"Computers, Office Equipment",yes,no,no,yes,-4,no,yes,yes,62000,23049,"$29,135,000 ",2%,2025,133.3,57153,Antonio F. Neri,U.S.,Spring,Texas,Public
+148,Duke Energy,DUK,Energy,Utilities: Gas and Electric,yes,no,yes,no,-7,no,yes,no,27037,74607.9,"$28,932,000 ",1%,2841,11.4,176893,Lynn J. Good,U.S.,Charlotte,North Carolina,Public
+149,Occidental Petroleum,OXY,Energy,"Mining, Crude-Oil Production",yes,no,yes,yes,-39,yes,no,no,12570,57611.3,"$28,918,000 ",-22%,4696,-64.7,74008,Vicki A. Hollub,U.S.,Houston,Texas,Public
+150,NRG Energy,NRG,Energy,Energy,no,no,no,yes,-20,yes,no,no,18131,14535.4,"$28,823,000 ",-9%,-202,-116.5,26038,Lawrence S. Coben,U.S.,Houston,Texas,Public
+151,Amgen,AMGN,Health Care,Pharmaceuticals,yes,no,no,yes,3,no,yes,no,26700,152372.5,"$28,190,000 ",7%,6717,2.5,97154,Robert A. Bradway,U.S.,Thousand Oaks,California,Public
+152,NextEra Energy,NEE,Energy,Utilities: Gas and Electric,yes,no,no,yes,35,no,yes,no,16800,131170.7,"$28,114,000 ",34%,7310,76.3,177489,John W. Ketchum,U.S.,Juno Beach,Florida,Public
+153,Danaher,DHR,Health Care,Medical Products and Equipment,yes,no,no,no,-21,yes,yes,no,62000,184928.7,"$27,602,000 ",-12%,4764,-33.9,84488,Rainer M. Blair,U.S.,Washington,District Of Columbia,Public
+154,Gilead Sciences,GILD,Health Care,Pharmaceuticals,yes,no,no,yes,-4,no,no,no,18000,91340.5,"$27,116,000 ",-1%,5665,23.4,62125,Daniel P. O'Day,U.S.,Foster City,California,Public
+155,AutoNation,AN,Retailing,"Automotive Retailing, Services",yes,no,no,yes,-4,no,yes,no,25300,6902.1,"$26,949 ",0%,1021.1,-25.9,11980,Michael M. Manley,U.S.,Fort Lauderdale,Florida,Public
+156,Kraft Heinz,KHC,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,-3,no,no,no,36000,44857,"$26,640,000 ",1%,2855,20.8,90339,Carlos Abrams-Rivera,U.S.,Chicago,Illinois,Public
+157,Avnet,AVT,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,no,no,yes,6,no,yes,no,15800,4480.2,"$26,537 ",9%,770.8,11.3,12477.2,Philip R. Gallagher,U.S.,Phoenix,Arizona,Public
+158,Applied Materials,AMAT,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,-3,no,yes,no,34000,171356,"$26,517,000 ",3%,6856,5.1,30729,Gary E. Dickerson,U.S.,Santa Clara,California,Public
+159,Southwest Airlines,LUV,Transportation,Airlines,yes,no,no,yes,6,no,yes,no,74806,17416.6,"$26,091,000 ",10%,465,-13.7,36487,Robert E. Jordan,U.S.,Dallas,Texas,Public
+160,Charles Schwab,SCHW,Financials,Securities,yes,no,no,no,15,no,yes,no,33000,131974.9,"$25,521,000 ",14%,5067,-29.5,493178,Walter W. Bettinger II,U.S.,Westlake,Texas,Public
+161,Baker Hughes,BKR,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,24,no,no,no,58000,33529.5,"$25,506,000 ",21%,1943,,36945,Lorenzo Simonelli,U.S.,Houston,Texas,Public
+162,McDonald's,MCD,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,no,7,no,yes,no,150000,203582.4,"$25,494 ",10%,8468.8,37.1,56146.8,Christopher J. Kempczinski,U.S.,Chicago,Illinois,Public
+163,Southern Company,SO,Energy,Utilities: Gas and Electric,yes,no,no,yes,-25,no,yes,no,27960,78269.4,"$25,253,000 ",-14%,3976,12.8,139331,Christopher C. Womack,U.S.,Atlanta,Georgia,Public
+164,Mastercard,MA,Business Services,Financial Data Services,yes,no,no,yes,13,no,yes,yes,33400,449252.6,"$25,098,000 ",13%,11195,12.7,42448,Michael Miebach,U.S.,Purchase,New York,Public
+165,Constellation Energy,CEG,Energy,Energy,yes,no,no,yes,-3,no,no,no,13842,58250.1,"$24,918,000 ",2%,1623,,50758,Joseph Dominguez,U.S.,Baltimore,Maryland,Public
+166,Hartford Financial Services Group,HIG,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,8,no,no,no,18700,30636.6,"$24,527,000 ",10%,2504,38,76780,Christopher J. Swift,U.S.,Hartford,Connecticut,Public
+167,PG&E,PCG,Energy,Utilities: Gas and Electric,yes,no,yes,yes,13,no,no,no,28010,35759.5,"$24,428,000 ",13%,2242,24.6,125698,Patricia K. Poppe,U.S.,Oakland,California,Public
+168,Coupang,CPNG,Retailing,Internet Services and Retailing,yes,yes,no,yes,27,no,no,no,78000,31903.1,"$24,383,000 ",19%,1360,,13346,Bom Kim,U.S.,Seattle,Washington,Public
+169,EOG Resources,EOG,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-13,no,no,no,3050,73535.6,"$24,186,000 ",-6%,7594,-2.1,43857,Ezra Y. Yacob,U.S.,Houston,Texas,Public
+170,Union Pacific,UNP,Transportation,Railroads,yes,no,no,no,-11,no,yes,no,32973,150041,"$24,119,000 ",-3%,6379,-8.8,67132,Jim Vena,U.S.,Omaha,Nebraska,Public
+171,Rite Aid,RADCQ,Food & Drug Stores,Food & Drug Stores,no,no,no,no,-10,no,no,no,47000,9,"$24,092 ",-2%,-749.9,,7527.4,Jeffrey S. Stein,U.S.,Philadelphia,Pennsylvania,Public
+172,Macy's,M,Retailing,General Merchandisers,yes,no,no,no,-14,no,no,no,85581,5482.7,"$23,866,000 ",-6%,105,-91.1,16246,Tony Spring,U.S.,New York,New York,Public
+173,Marriott International,MAR,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,19,no,yes,yes,148000,72730.7,"$23,713,000 ",14%,3083,30.7,25674,Anthony G. Capuano,U.S.,Bethesda,Maryland,Public
+174,Lear,LEA,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,15,no,yes,no,186600,8263.1,"$23,467 ",12%,572.5,74.7,14695.5,Raymond E. Scott,U.S.,Southfield,Michigan,Public
+175,Genuine Parts,GPC,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,4,no,no,no,60000,21600.9,"$23,091 ",5%,1316.5,11.3,17968.5,William P. Stengel II,U.S.,Atlanta,Georgia,Public
+176,Sherwin-Williams,SHW,Chemicals,Chemicals,yes,no,yes,no,2,no,yes,no,64088,88255.4,"$23,052 ",4%,2388.8,18.3,22954.4,Heidi G. Petz,U.S.,Cleveland,Ohio,Public
+177,Halliburton,HAL,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,20,no,no,no,48000,35087.8,"$23,018,000 ",13%,2638,67.8,24683,Jeffrey A. Miller,U.S.,Houston,Texas,Public
+178,Freeport-McMoRan,FCX,Energy,"Mining, Crude-Oil Production",yes,no,yes,yes,-7,no,no,no,27200,67445.9,"$22,855,000 ",0%,1848,-46.7,52506,Kathleen L. Quirk,U.S.,Phoenix,Arizona,Public
+179,Live Nation Entertainment,LYV,Media,Entertainment,yes,no,no,yes,69,no,yes,no,23200,24411.5,"$22,749 ",36%,563.3,90.3,19074,Michael Rapino,U.S.,Beverly Hills,California,Public
+180,Marsh & McLennan,MMC,Financials,Diversified Financials,yes,no,no,no,13,no,yes,no,85000,101657.8,"$22,736,000 ",10%,3756,23.1,48030,John Q. Doyle,U.S.,New York,New York,Public
+181,Advanced Micro Devices,AMD,Technology,Semiconductors and Other Electronic Components,yes,no,yes,yes,-14,no,yes,no,26000,291697.1,"$22,680,000 ",-4%,854,-35.3,67885,Lisa T. Su,U.S.,Santa Clara,California,Public
+182,First Citizens BancShares,FCNCA,Financials,Commercial Banks,yes,no,no,yes,420,no,no,no,15868,23620.4,"$22,466,000 ",305%,11466,944.3,213758,Frank B. Holding Jr.,U.S.,Raleigh,North Carolina,Public
+183,WESCO International,WCC,Wholesalers,Wholesalers: Diversified,yes,no,no,no,-2,no,yes,no,20000,8727.3,"$22,385 ",5%,765.5,-11,15060.9,John J. Engel,U.S.,Pittsburgh,Pennsylvania,Public
+184,Carrier Global,CARR,Industrials,Industrial Machinery,yes,no,no,yes,12,no,yes,no,53000,52323,"$22,098,000 ",8%,1349,-61.8,32822,David L. Gitlin,U.S.,Palm Beach Gardens,Florida,Public
+185,Cleveland-Cliffs,CLF,Materials,Metals,yes,no,no,yes,-15,no,no,no,28000,11331.1,"$21,996,000 ",-4%,399,-70.1,17537,Lourenco Goncalves,U.S.,Cleveland,Ohio,Public
+186,Block,SQ,Business Services,Financial Data Services,yes,yes,no,yes,48,no,yes,no,12985,52075.3,"$21,916 ",25%,9.8,,34069.9,Jack Dorsey,U.S.,Oakland,California,Public
+187,Exelon,EXC,Energy,Utilities: Gas and Electric,yes,no,no,yes,31,no,yes,no,19962,37560,"$21,727,000 ",14%,2328,7.3,101546,Calvin G. Butler Jr.,U.S.,Chicago,Illinois,Public
+188,KKR,KKR,Financials,Securities,yes,no,no,yes,308,no,no,no,4490,89013.9,"$21,685 ",198%,3732.3,,317294.2,Joseph Y. Bae/Scott C. Nuttall,U.S.,New York,New York,Public
+189,CDW,CDW,Technology,Information Technology Services,yes,no,yes,no,-23,no,no,no,15100,34329.5,"$21,376,000 ",-10%,1104.3,-0.9,13284.6,Christine A. Leahy,U.S.,Vernon Hills,Illinois,Public
+190,Booking Holdings,BKNG,Technology,Internet Services and Retailing,yes,no,no,yes,53,no,yes,no,23482,123968.4,"$21,365,000 ",25%,4289,40.3,24342,Glenn D. Fogel,U.S.,Norwalk,Connecticut,Public
+191,Synchrony,SYF,Financials,Diversified Financials,yes,no,no,yes,44,no,no,yes,20000,17543.1,"$20,999,000 ",20%,2238,-25.8,117479,Brian D. Doubles,U.S.,Stamford,Connecticut,Public
+192,Quanta Services,PWR,Engineering & Construction,Engineering & Construction,yes,no,no,yes,52,no,yes,no,52500,37865.6,"$20,882 ",22%,744.7,51.6,16237.2,Earl C. Austin Jr.,U.S.,Houston,Texas,Public
+193,Jones Lang LaSalle,JLL,Financials,Real estate,yes,no,no,yes,-3,no,yes,no,106100,9255.6,"$20,761 ",-1%,225.4,-65.6,16064.8,Christian Ulbrich,U.S.,Chicago,Illinois,Public
+194,Discover Financial Services,DFS,Financials,Commercial Banks,yes,no,no,yes,79,no,no,yes,21100,32846.5,"$20,606,000 ",36%,2940,-33.1,151522,J. Michael  Shepherd,U.S.,Riverwoods,Illinois,Public
+195,Tenet Healthcare,THC,Health Care,Health Care: Medical Facilities,yes,no,no,yes,20,no,no,no,95905,10510.5,"$20,548,000 ",7%,611,48.7,28312,Saumya Sutaria,U.S.,Dallas,Texas,Public
+196,Altria Group,MO,"Food, Beverages & Tobacco",Tobacco,yes,no,no,yes,-2,no,no,no,6400,76922.2,"$20,502,000 ",-1%,8130,41,38570,William F. Gifford Jr.,U.S.,Richmond,Virginia,Public
+197,Stryker,SYK,Health Care,Medical Products and Equipment,yes,no,no,yes,27,no,yes,yes,52000,136158.7,"$20,498,000 ",11%,3165,34.2,39912,Kevin A. Lobo,U.S.,Portage,Michigan,Public
+198,Kimberly-Clark,KMB,Household Products,Household and Personal Products,yes,no,no,no,1,no,yes,no,41000,43579.9,"$20,431,000 ",1%,1764,-8.8,17344,Michael D. Hsu,U.S.,Irving,Texas,Public
+199,Waste Management,WM,Business Services,Waste Management,yes,no,no,no,5,no,yes,no,48000,85600.6,"$20,426,000 ",4%,2304,2.9,32823,James C. Fish Jr.,U.S.,Houston,Texas,Public
+200,Cheniere Energy,LNG,Energy,Pipelines,yes,no,no,yes,-78,yes,no,no,1605,37851.2,"$20,394,000 ",-39%,9881,591.9,43076,Jack A. Fusco,U.S.,Houston,Texas,Public
+201,Ross Stores,ROST,Retailing,Specialty Retailers: Apparel,yes,no,yes,yes,22,no,no,no,108000,49409.1,"$20,377 ",9%,1874.5,24,14300.1,Barbara Rentler,U.S.,Dublin,California,Public
+202,WestRock,,Materials,"Packaging, Containers",no,no,no,yes,-19,no,no,no,56100,12707,"$20,310,000 ",-5%,-1649,-274.6,27443.7,David B. Sewell,U.S.,Atlanta,Georgia,Private
+203,General Mills,GIS,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,16,no,yes,no,34000,39501.5,"$20,094 ",6%,2593.9,-4.2,31451.7,Jeffrey L. Harmening,U.S.,Minneapolis,Minnesota,Public
+204,Goodyear Tire & Rubber,GT,Motor Vehicles & Parts,Motor Vehicles & Parts,no,no,no,no,-13,no,no,no,71000,3901.3,"$20,066,000 ",-4%,-689,-441.1,21582,Mark W. Stewart,U.S.,Akron,Ohio,Public
+205,BJ's Wholesale Club,BJ,Retailing,General Merchandisers,yes,no,no,no,5,no,no,no,34000,10058.5,"$19,969 ",3%,523.7,2.1,6677.6,Robert W. Eddy,U.S.,Marlborough,Massachusetts,Public
+206,GE HealthCare Technologies,GEHC,Health Care,Medical Products and Equipment,yes,no,no,no,0,no,no,no,51000,41396.5,"$19,552,000 ",,1568,,32454,Peter J. Arduini,U.S.,Chicago,Illinois,Public
+207,Colgate-Palmolive,CL,Household Products,Household and Personal Products,yes,no,no,yes,21,no,yes,no,34000,74019.9,"$19,457,000 ",8.3,2300,28.9,16393,Noel R. Wallace,U.S.,New York,New York,Public
+208,Whirlpool,WHR,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-5,no,yes,no,59000,6515.3,"$19,455,000 ",-1.4,481,,17312,Marc R. Bitzer,U.S.,Benton Harbor,Michigan,Public
+209,L3Harris Technologies,LHX,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,37,no,no,no,50000,40508.1,"$19,419,000 ",13.8,1227,15.5,41687,Christopher E. Kubasik,U.S.,Melbourne,Florida,Public
+210,Adobe,ADBE,Technology,Computer Software,yes,no,no,yes,23,no,yes,yes,29945,226060.8,"$19,409,000 ",10.2,5428,14.1,29779,Shantanu Narayen,U.S.,San Jose,California,Public
+211,Becton Dickinson,BDX,Health Care,Medical Products and Equipment,yes,no,no,no,-2,no,no,no,73000,71488.9,"$19,372,000 ",-0.2,1484,-16.6,52780,Thomas E. Polen,U.S.,Franklin Lakes,New Jersey,Public
+212,Pioneer Natural Resources,PXD,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-48,no,no,no,2213,61326.1,"$19,362,000 ",-20.3,4894,-37.6,36613,Richard P. Dealy,U.S.,Irving,Texas,Private
+213,Cognizant Technology Solutions,CTSH,Technology,Information Technology Services,yes,no,no,no,-5,no,no,no,347700,36486.8,"$19,353,000 ",-0.4,2126,-7.2,18483,Ravi Kumar S,U.S.,Teaneck,New Jersey,Public
+214,Murphy USA,MUSA,Retailing,Specialty Retailers: Other,yes,no,no,yes,-32,no,no,no,10750,8726.5,"$19,238 ",-9.5,556.8,-17.3,4340.1,R. Andrew Clyde,U.S.,El Dorado,Arkansas,Public
+215,Fiserv,FI,Business Services,Financial Data Services,yes,no,no,yes,15,no,yes,no,42000,94358.1,"$19,093,000 ",7.6,3068,21.3,90890,Frank J. Bisignano,U.S.,Milwaukee,Wisconsin,Public
+216,Parker-Hannifin,PH,Industrials,Industrial Machinery,yes,no,yes,yes,45,no,no,no,62730,71369.5,"$19,065 ",20.2,2082.9,58.3,29964.5,Jennifer A. Parmentier,U.S.,Cleveland,Ohio,Public
+217,American Electric Power,AEP,Energy,Utilities: Gas and Electric,yes,no,no,yes,-12,no,no,no,17250,45339.4,"$18,982 ",-3.3,2208.1,-4.3,96684,William J. Fehrman,U.S.,Columbus,Ohio,Public
+218,International Paper,IP,Materials,"Packaging, Containers",yes,no,no,no,-34,no,yes,no,39000,13514.7,"$18,916,000 ",-10.6,288,-80.9,23261,Andrew K. Silvernail,U.S.,Memphis,Tennessee,Public
+219,ManpowerGroup,MAN,Business Services,Temporary Help,yes,no,no,no,-17,no,no,no,27900,3756.3,"$18,915 ",-4.6,88.8,-76.2,8830.2,Jonas Prising,U.S.,Milwaukee,Wisconsin,Public
+220,Aramark,ARMK,Business Services,Diversified Outsourcing Services,yes,no,no,no,33,no,no,no,262550,8535,"$18,854 ",15.5,674.1,246.6,16871.2,John J. Zillmer,U.S.,Philadelphia,Pennsylvania,Public
+221,Steel Dynamics,STLD,Materials,Metals,yes,yes,no,yes,-45,no,yes,no,12600,23412.5,"$18,795 ",-15.6,2450.9,-36.5,14908.4,Mark D. Millett,U.S.,Fort Wayne,Indiana,Public
+222,Aflac,AFL,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,-15,no,yes,no,12785,49404.5,"$18,701,000 ",-4.1,4659,10.9,126724,Daniel P. Amos,U.S.,Columbus,Georgia,Public
+223,Reinsurance Group of America,RGA,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,34,no,yes,no,3900,12683.2,"$18,567,000 ",14.2,902,44.8,97623,Tony Cheng,U.S.,Chesterfield,Missouri,Public
+224,Emerson Electric,EMR,Industrials,Industrial Machinery,yes,no,no,no,-18,no,no,no,67000,64842.2,"$18,370,000 ",-6.4,13219,309.1,42746,S.L. Karsanbhai,U.S.,St. Louis,Missouri,Public
+225,State Street,STT,Financials,Commercial Banks,yes,no,no,yes,80,no,yes,no,46451,23346.3,"$18,366,000 ",34.1,1944,-29.9,297258,Ronald P. O'Hanley,U.S.,Boston,Massachusetts,Public
+226,PPG Industries,PPG,Chemicals,Chemicals,yes,no,no,yes,6,no,yes,no,53000,34103.8,"$18,246,000 ",3.4,1270,23.8,21647,Timothy M. Knavish,U.S.,Pittsburgh,Pennsylvania,Public
+227,United States Steel,X,Materials,Metals,yes,no,no,no,-41,no,no,no,21803,9168,"$18,053,000 ",-14.3,895,-64.5,20451,David B. Burritt,U.S.,Pittsburgh,Pennsylvania,Public
+228,Automatic Data Processing,ADP,Business Services,Diversified Outsourcing Services,yes,no,yes,yes,23,no,yes,no,63000,102590.8,"$18,012 ",9.2,3412,15.7,50971,Maria Black,U.S.,Roseland,New Jersey,Public
+229,Group 1 Automotive,GPI,Retailing,"Automotive Retailing, Services",yes,no,no,yes,23,no,no,no,16011,3999.4,"$17,874 ",8.9,601.6,-19.9,7774.1,Daryl A. Kenningham,U.S.,Houston,Texas,Public
+230,Dominion Energy,D,Energy,Utilities: Gas and Electric,yes,no,no,yes,12,no,no,no,17700,41201.2,"$17,867,000 ",4,1994,100.6,109032,Robert M. Blue,U.S.,Richmond,Virginia,Public
+231,BlackRock,BLK,Financials,Securities,yes,yes,no,no,-2,no,yes,no,19800,124173.4,"$17,859,000 ",-0.1,5502,6.3,123211,Laurence D. Fink,U.S.,New York,New York,Public
+232,Oneok,OKE,Energy,Pipelines,yes,no,no,yes,-59,no,no,no,4775,46751.9,"$17,677,000 ",-21,2659,54.4,44266,Pierce H. Norton II,U.S.,Tulsa,Oklahoma,Public
+233,C.H. Robinson Worldwide,CHRW,Transportation,Transportation and Logistics,yes,no,no,no,-73,no,yes,no,15246,8907.9,"$17,596 ",-28.7,325.1,-65.4,5225.3,David P. Bozeman,U.S.,Eden Prairie,Minnesota,Public
+234,Texas Instruments,TXN,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,-34,no,no,no,34000,158540.8,"$17,519,000 ",-12.5,6510,-25.6,32348,Haviv Ilan,U.S.,Dallas,Texas,Public
+235,Kohl's,KSS,Retailing,General Merchandisers,yes,no,no,no,-9,no,yes,no,66000,3232.9,"$17,476,000 ",-3.4,317,,14009,Thomas A. Kingsbury,U.S.,Menomonee Falls,Wisconsin,Public
+236,AutoZone,AZO,Retailing,Specialty Retailers: Other,yes,no,no,yes,22,no,yes,no,95200,54532.7,"$17,457 ",7.4,2528.4,4.1,15985.9,Philip B. Daniele III,U.S.,Memphis,Tennessee,Public
+237,Lam Research,LRCX,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,3,no,yes,no,17200,127375.7,"$17,429 ",1.2,4510.9,-2,18781.6,Timothy M. Archer,U.S.,Fremont,California,Public
+238,Corteva,CTVA,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,0,no,yes,no,22500,40304.4,"$17,226,000 ",-1.3,735,-35.9,42996,Charles V. Magro,U.S.,Indianapolis,Indiana,Public
+239,Peter Kiewit Sons',,Engineering & Construction,Engineering & Construction,yes,no,no,yes,68,no,no,no,31100,,"$17,118,000 ",25.3,1176,65.6,9724,Rick Lanoha,U.S.,Omaha,Nebraska,Private
+240,Builders FirstSource,BLDR,Materials,"Building Materials, Glass",yes,no,no,no,-68,no,no,no,29000,25430.6,"$17,097 ",-24.8,1540.6,-44,10499.5,Dave Rush,U.S.,Irving,Texas,Public
+241,Kyndryl Holdings,KD,Technology,Information Technology Services,no,no,no,no,-16,no,no,no,90000,5007,"$17,026,000 ",-7,-1374,,11464,Martin J. Schroeter,U.S.,New York,New York,Public
+242,EchoStar,SATS,Telecommunications,Telecommunications,no,no,no,yes,0,no,no,no,15300,3869.1,"$17,016 ",751.6,-1702.1,-1061.3,57108.9,Hamid Akhavan,U.S.,Englewood,Colorado,Public
+243,American Family Insurance Group,,Financials,Insurance: Property and Casualty (Stock),no,no,no,no,58,no,no,no,12417,,"$17,000 ",23.1,-891,,38023.5,William Westrate,U.S.,Madison,Wisconsin,Private
+244,Delek US Holdings,DK,Energy,Petroleum Refining,yes,no,no,no,-46,no,no,no,3591,1968,"$16,917 ",-16.4,19.8,-92.3,7171.8,Avigal Soreq,U.S.,Brentwood,Tennessee,Public
+245,Land O'Lakes,,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,yes,no,-32,no,no,no,9000,,"$16,795 ",-12.6,254.2,5.4,9464.3,Beth E. Ford,U.S.,Arden Hills,Minnesota,Private
+246,Sempra,SRE,Energy,Utilities: Gas and Electric,yes,no,no,yes,39,no,yes,no,16835,45438.8,"$16,720,000 ",15.8,3074,43.8,87181,Jeffrey W. Martin,U.S.,San Diego,California,Public
+247,Global Partners,GLP,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,-27,no,yes,no,4273,1508.7,"$16,492 ",-12.6,152.5,-57.9,3446,Eric Slifka,U.S.,Waltham,Massachusetts,Public
+248,Grainger,GWW,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,24,no,yes,yes,24650,49983.2,"$16,478,000 ",8.2,1829,18.2,8147,D.G.  Macpherson,U.S.,Lake Forest,Illinois,Public
+249,Jacobs Solutions,J,Business Services,Diversified Outsourcing Services,yes,no,no,yes,28,no,no,no,58550,19316.3,"$16,352 ",9.6,665.8,3.4,14617.1,Bob Pragada,U.S.,Dallas,Texas,Public
+250,Edison International,EIX,Energy,Utilities: Gas and Electric,yes,no,no,yes,-9,no,no,no,14346,27208.4,"$16,338,000 ",-5.1,1197,95.6,81758,Pedro J. Pizarro,U.S.,Rosemead,California,Public
+251,MGM Resorts International,MGM,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,64,no,no,no,67000,14966.3,"$16,164 ",23.1,1142.2,-22.5,42368.5,William J. Hornbuckle,U.S.,Las Vegas,Nevada,Public
+252,Guardian Life Ins. Co. of America,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,no,29,no,no,no,7561,,"$16,137,000 ",10.1,375,428.2,96202,Andrew J. McMahon,U.S.,New York,New York,Private
+253,Illinois Tool Works,ITW,Industrials,Industrial Machinery,yes,no,no,no,7,no,yes,no,45000,80162.3,"$16,107,000 ",1.1,2957,-2.5,15518,Christopher A. O'Herlihy,U.S.,Glenview,Illinois,Public
+254,Ameriprise Financial,AMP,Financials,Diversified Financials,yes,no,no,yes,35,no,no,no,13800,43927.7,"$16,096,000 ",12.2,2556,-0.1,175191,James M. Cracchiolo,U.S.,Minneapolis,Minnesota,Public
+255,PulteGroup,PHM,Engineering & Construction,Homebuilders,yes,no,no,no,4,no,yes,yes,6382,25449.4,"$16,062 ",-1,2602.4,-0.6,16087.1,Ryan R. Marshall,U.S.,Atlanta,Georgia,Public
+256,Targa Resources,TRGP,Energy,Pipelines,yes,no,no,yes,-68,no,no,no,3182,24921.7,"$16,060 ",-23.3,1345.9,12.6,20671.8,Matthew J. Meloy,U.S.,Houston,Texas,Public
+257,Ally Financial,ALLY,Financials,Diversified Financials,yes,no,no,no,81,no,no,yes,11100,12337.7,"$15,971,000 ",30.9,1020,-40.5,196392,Michael G. Rhodes,U.S.,Detroit,Michigan,Public
+258,BorgWarner,BWA,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,4,no,yes,no,39900,8023.4,"$15,921,000 ",0.8,625,-33.8,14453,Frederic B. Lissalde,U.S.,Auburn Hills,Michigan,Public
+259,EstÃ©e Lauder,EL,Household Products,Household and Personal Products,yes,no,no,no,-29,no,yes,no,53010,55258.7,"$15,910,000 ",-10.3,1006,-57.9,23415,Fabrizio Freda,U.S.,New York,New York,Public
+260,Loews,L,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,37,no,no,no,12280,17396.1,"$15,901,000 ",13.2,1434,41.7,79197,James S. Tisch,U.S.,New York,New York,Public
+261,O'Reilly Automotive,ORLY,Retailing,Specialty Retailers: Other,yes,no,no,yes,26,no,no,no,82958,66634.4,"$15,812 ",9.7,2346.6,8,13873,Brad Beckham,U.S.,Springfield,Missouri,Public
+262,Markel Group,MKL,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,90,no,no,no,21600,19946.7,"$15,804 ",35.4,1996.1,,55045.7,Thomas S. Gayner,U.S.,Glen Allen,Virginia,Public
+263,Stanley Black & Decker,SWK,Household Products,"Home Equipment, Furnishings",no,no,no,no,-36,no,yes,no,50500,15062,"$15,781 ",-12.3,-310.5,-129.2,23663.8,Donald Allan Jr.,U.S.,New Britain,Connecticut,Public
+264,Micron Technology,MU,Technology,Semiconductors and Other Electronic Components,no,no,no,no,-128,no,no,no,43000,130547.6,"$15,540,000 ",-49.5,-5833,-167.1,64254,Sanjay Mehrotra,U.S.,Boise,Idaho,Public
+265,Fluor,FLR,Engineering & Construction,Engineering & Construction,yes,no,no,no,38,no,no,no,30187,7192.3,"$15,474,000 ",12.6,139,-4.1,6973,David E. Constable,U.S.,Irving,Texas,Public
+266,Leidos Holdings,LDOS,Technology,Information Technology Services,yes,no,no,yes,22,no,no,no,47000,17700.6,"$15,438,000 ",7.2,199,-70.9,12695,Thomas A. Bell,U.S.,Reston,Virginia,Public
+267,Viatris,VTRS,Health Care,Pharmaceuticals,yes,no,no,yes,-11,no,no,no,38000,14179.6,"$15,427 ",-5.1,54.7,-97.4,47685.5,Scott A. Smith,U.S.,Canonsburg,Pennsylvania,Public
+268,Kinder Morgan,KMI,Energy,Pipelines,yes,no,yes,yes,-54,no,no,no,10891,40703.3,"$15,334,000 ",-20.1,2391,-6.2,71020,Kimberly A. Dang,U.S.,Houston,Texas,Public
+269,Ecolab,ECL,Chemicals,Chemicals,yes,no,no,yes,24,no,yes,no,48000,66017.1,"$15,320 ",8,1372.3,25.7,21846.6,Christophe Beck,U.S.,St. Paul,Minnesota,Public
+270,Baxter International,BAX,Health Care,Medical Products and Equipment,yes,no,no,no,4,no,no,no,60000,21704.5,"$15,282,000 ",1.1,2656,,28276,Jos? E. Almeida,U.S.,Deerfield,Illinois,Public
+271,Devon Energy,DVN,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-55,no,no,no,1900,31864.3,"$15,258,000 ",-20.4,3747,-37.7,24490,Richard E. Muncrief,U.S.,Oklahoma City,Oklahoma,Public
+272,Kellanova,K,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,-2,no,no,no,23000,19579.4,"$15,207,000 ",-0.7,951,-0.9,15621,Steven A. Cahillane,U.S.,Chicago,Illinois,Public
+273,Farmers Insurance Exchange,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,no,22,no,no,no,9685,,"$15,194 ",7.8,-652.9,,23677.7,Raul Vargas,U.S.,Woodland Hills,California,Private
+274,Casey's General Stores,CASY,Retailing,Specialty Retailers: Other,yes,no,no,yes,42,no,no,no,31637,11788.1,"$15,095 ",16.5,446.7,31.5,5943.3,Darren M. Rebelez,U.S.,Ankeny,Iowa,Public
+275,IQVIA Holdings,IQV,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,yes,11,no,yes,no,87000,46029.4,"$14,984,000 ",4,1358,24.5,26681,Ari Bousbib,U.S.,Durham,North Carolina,Public
+276,Republic Services,RSG,Business Services,Waste Management,yes,no,no,yes,33,no,yes,no,41000,60229,"$14,965 ",10.8,1731,16.4,31410.1,Jon Vander Ark,U.S.,Phoenix,Arizona,Public
+277,Fox,FOXA,Media,Entertainment,yes,no,no,no,23,no,no,no,10400,14225.1,"$14,913,000 ",6.7,1239,2.8,21866,Lachlan K. Murdoch,U.S.,New York,New York,Public
+278,Gap,GPS,Retailing,Specialty Retailers: Apparel,yes,no,no,no,-13,no,no,no,85000,10290.3,"$14,889,000 ",-4.7,502,,11044,Richard Dickson,U.S.,San Francisco,California,Public
+279,Keurig Dr Pepper,KDP,"Food, Beverages & Tobacco",Beverages,yes,no,no,yes,17,no,yes,no,28100,42557.4,"$14,814,000 ",5.4,2181,51.9,52130,Timothy P. Cofer,U.S.,Burlington,Massachusetts,Public
+280,Reliance,RS,Materials,Metals,yes,no,yes,yes,-33,no,yes,no,15250,19190.4,"$14,806 ",-13,1335.9,-27.4,10480.3,Karla R. Lewis,U.S.,Scottsdale,Arizona,Public
+281,Asbury Automotive Group,ABG,Retailing,"Automotive Retailing, Services",yes,no,no,yes,-13,no,no,no,15000,4810.9,"$14,803 ",-4.1,602.5,-39.6,10159.4,David W. Hult,U.S.,Duluth,Georgia,Public
+282,Pacific Life,,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,30,no,no,no,4181,,"$14,802,000 ",10.8,875,14.7,217386,Darryl D. Button,U.S.,Newport Beach,California,Private
+283,Vistra,VST,Energy,Energy,yes,no,no,no,21,no,no,no,4870,24230.2,"$14,779,000 ",7.7,1493,,32966,James A. Burke,U.S.,Irving,Texas,Public
+284,Western & Southern Financial Group,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,yes,30,no,no,no,2669,,"$14,775 ",12.3,484.8,56.8,75968.9,John F. Barrett,U.S.,Cincinnati,Ohio,Private
+285,Andersons,ANDE,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,-46,no,no,no,2297,1953.4,"$14,750 ",-15,101.2,-22.8,3855,Patrick E. Bowe,U.S.,Maumee,Ohio,Public
+286,Nordstrom,JWN,Retailing,General Merchandisers,yes,no,no,no,-19,no,yes,no,54000,3309.2,"$14,693,000 ",-5.4,134,-45.3,8444,Erik B. Nordstrom,U.S.,Seattle,Washington,Public
+287,Omnicom Group,OMC,Business Services,"Advertising, marketing",yes,no,no,yes,3,no,no,no,75900,19081.1,"$14,692 ",2.8,1391.4,5.7,28044.6,John D. Wren,U.S.,New York,New York,Public
+288,Fidelity National Information Services,FIS,Business Services,Financial Data Services,no,no,yes,no,-5,no,no,no,60000,42762.2,"$14,680,000 ",1,-6654,,55105,Stephanie L. Ferris,U.S.,Jacksonville,Florida,Public
+289,Consolidated Edison,ED,Energy,Utilities: Gas and Electric,yes,no,no,yes,-25,no,no,no,14592,31375.8,"$14,663,000 ",-6.4,2519,51.7,66331,Timothy P. Cawley,U.S.,New York,New York,Public
+290,CSX,CSX,Transportation,Railroads,yes,no,no,yes,-11,no,yes,no,23232,72568,"$14,657,000 ",-1.3,3715,-10.8,42408,Joseph R. Hinrichs,U.S.,Jacksonville,Florida,Public
+291,AECOM,ACM,Engineering & Construction,Engineering & Construction,yes,no,no,yes,19,no,yes,no,52000,13341.2,"$14,591 ",8.1,55.3,-82.2,11233.4,W. Troy Rudd,U.S.,Dallas,Texas,Public
+292,Lumen Technologies,LUMN,Telecommunications,Telecommunications,no,no,yes,no,-55,no,no,no,28000,1585,"$14,557,000 ",-16.7,-10298,,34018,Kathleen E. Johnson,U.S.,Monroe,Louisiana,Public
+293,Tractor Supply,TSCO,Retailing,Specialty Retailers: Other,yes,no,no,yes,-2,no,no,no,37500,28248,"$14,556 ",2.5,1107.2,1.7,9188.2,Harry A. Lawton III,U.S.,Brentwood,Tennessee,Public
+294,DXC Technology,DXC,Technology,Information Technology Services,no,no,no,no,-39,no,no,no,130000,3878.7,"$14,430,000 ",-11.3,-568,-179.1,15845,Raul J. Fernandez,U.S.,Ashburn,Virginia,Public
+295,AGCO,AGCO,Industrials,Construction and Farm Machinery,yes,no,no,yes,29,no,yes,no,27900,9179.5,"$14,412 ",13.9,1171.4,31.7,11421.2,Eric P. Hansotia,U.S.,Duluth,Georgia,Public
+296,Sonic Automotive,SAH,Retailing,"Automotive Retailing, Services",yes,no,no,yes,3,no,no,no,10500,1941.7,"$14,372 ",2.7,178.2,101.4,5364.6,David Bruton Smith,U.S.,Charlotte,North Carolina,Public
+297,Intuit,INTU,Technology,Computer Software,yes,no,no,yes,24,no,yes,yes,22900,181986.4,"$14,368,000 ",12.9,2384,15.4,27780,Sasan K. Goodarzi,U.S.,Mountain View,California,Public
+298,United Rentals,URI,Business Services,Equipment Leasing,yes,no,no,yes,57,no,no,no,26300,48437.2,"$14,332,000 ",23.1,2424,15.2,25589,Matthew J. Flannery,U.S.,Stamford,Connecticut,Public
+299,Universal Health Services,UHS,Health Care,Health Care: Medical Facilities,yes,no,no,yes,12,no,yes,no,85025,12265.2,"$14,282,000 ",6.6,717.8,6.2,13967.6,Marc D. Miller,U.S.,King of Prussia,Pennsylvania,Public
+300,Boston Scientific,BSX,Health Care,Medical Products and Equipment,yes,no,no,yes,23,no,yes,no,48000,100673.1,"$14,240,000 ",12.3,1592,128.1,35136,Michael F. Mahoney,U.S.,Marlborough,Massachusetts,Public
+301,Otis Worldwide,OTIS,Industrials,Industrial Machinery,yes,no,yes,yes,5,no,yes,no,71000,40249.5,"$14,209,000 ",3.8,1406,12.2,10117,Judith F. Marks,U.S.,Farmington,Connecticut,Public
+302,Xcel Energy,XEL,Energy,Utilities: Gas and Electric,yes,no,no,no,-31,no,yes,no,11311,29839.6,"$14,206,000 ",-7.2,1771,2,64079,Robert C. Frenzel,U.S.,Minneapolis,Minnesota,Public
+303,Edward Jones,,Financials,Securities,yes,no,yes,yes,30,no,yes,yes,54000,,"$14,080,000 ",13.4,1612,14.8,28003,Penny Pennington,U.S.,Des Peres,Missouri,Private
+304,Ball,BALL,Materials,"Packaging, Containers",yes,no,no,no,-35,no,yes,no,21000,21206.3,"$14,029,000 ",-8.6,707,-1.7,19303,Daniel W. Fisher,U.S.,Westminster,Colorado,Public
+305,LKQ,LKQ,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,14,no,no,no,49000,14248.5,"$13,866,000 ",8.4,936,-18.5,15079,Justin Jude,U.S.,Chicago,Illinois,Public
+306,Mutual of Omaha,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,no,22,no,no,no,6231,,"$13,856 ",10.6,47.7,,51838.6,James T. Blackledge,U.S.,Omaha,Nebraska,Private
+307,Mosaic,MOS,Chemicals,Chemicals,yes,no,no,yes,-90,no,no,no,14049,10442,"$13,696 ",-28.4,1164.9,-67.5,23032.8,Bruce M. Bodine,U.S.,Tampa,Florida,Public
+308,Textron,TXT,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,10,no,yes,no,35000,18500.5,"$13,683,000 ",6.3,921,7,16856,Scott C. Donnelly,U.S.,Providence,Rhode Island,Public
+309,Labcorp Holdings,LH,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,no,-31,no,yes,no,61975,18372.5,"$13,668 ",-8.1,418,-67.3,16725.1,Adam H. Schechter,U.S.,Burlington,North Carolina,Public
+310,Principal Financial,PFG,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,-74,no,no,no,19800,20357.8,"$13,666 ",-21.9,623.2,-87,305046.7,Daniel J. Houston,U.S.,Des Moines,Iowa,Public
+311,Regeneron Pharmaceuticals,REGN,Health Care,Pharmaceuticals,yes,yes,no,yes,28,no,no,no,13450,105644.7,"$13,117 ",7.8,3953.6,-8.9,33080.2,Leonard S. Schleifer,U.S.,Tarrytown,New York,Public
+312,Raymond James Financial,RJF,Financials,Securities,yes,no,no,yes,51,no,yes,no,18000,26843.3,"$12,992,000 ",14.9,1739,15.2,78360,Paul C. Reilly,U.S.,St. Petersburg,Florida,Public
+313,Dick's Sporting Goods,DKS,Retailing,Specialty Retailers: Other,yes,no,yes,yes,21,no,no,no,37200,18539.3,"$12,984 ",5,1046.5,0.3,9311.8,Lauren R. Hobart,U.S.,Coraopolis,Pennsylvania,Public
+314,Auto-Owners Insurance,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,48,no,no,no,6946,,"$12,938 ",13.4,-912.4,,36238.2,Jamie Whisnant,U.S.,Lansing,Michigan,Private
+315,Expedia Group,EXPE,Retailing,Internet Services and Retailing,yes,no,yes,yes,38,no,no,no,17100,18773.7,"$12,839,000 ",10,797,126.4,21642,Ariane  Gorin,U.S.,Seattle,Washington,Public
+316,J.B. Hunt Transport Services,JBHT,Transportation,"Trucking, Truck Leasing",yes,no,no,no,-36,no,yes,no,34718,20582.2,"$12,830 ",-13.4,728.3,-24.9,8538.3,Shelley Simpson,U.S.,Lowell,Arkansas,Public
+317,M&T Bank,MTB,Financials,Commercial Banks,yes,no,no,no,122,no,no,no,21980,24233.4,"$12,752,000 ",48.2,2741,37.6,208264,Ren? F. Jones,U.S.,Buffalo,New York,Public
+318,DTE Energy,DTE,Energy,Utilities: Gas and Electric,yes,no,no,no,-106,no,yes,no,9950,23204.6,"$12,745,000 ",-33.7,1397,29,44755,Gerardo Norcia,U.S.,Detroit,Michigan,Public
+319,AES,AES,Energy,Utilities: Gas and Electric,yes,no,no,yes,8,no,yes,no,9600,12744.8,"$12,668,000 ",0.4,249,,44799,Andr?s R. Gluski,U.S.,Arlington,Virginia,Public
+320,Berry Global Group,BERY,Materials,"Packaging, Containers",yes,no,no,no,-36,no,no,no,44000,7009.6,"$12,664,000 ",-12.6,609,-20.5,16587,Kevin Kwilinski,U.S.,Evansville,Indiana,Public
+321,Fifth Third Bancorp,FITB,Financials,Commercial Banks,yes,no,no,no,90,no,yes,no,18724,25434.9,"$12,641,000 ",35.2,2349,-4,214574,Timothy N. Spence,U.S.,Cincinnati,Ohio,Public
+322,Air Products & Chemicals,APD,Chemicals,Chemicals,yes,no,no,yes,0,no,no,no,21850,53856.9,"$12,600,000 ",-0.8,2300.2,2,32002.5,Seifi Ghasemi,U.S.,Allentown,Pennsylvania,Public
+323,Corning,GLW,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-31,no,no,no,49800,28192.4,"$12,588,000 ",-11.3,581,-55.9,28500,Wendell P. Weeks,U.S.,Corning,New York,Public
+324,EMCOR Group,EME,Engineering & Construction,Engineering & Construction,yes,no,no,yes,45,no,yes,no,38300,16482.1,"$12,583 ",13.6,633,55.9,6609.7,Anthony J. Guzzi,U.S.,Norwalk,Connecticut,Public
+325,Amphenol,APH,Technology,Network and Other Communications Equipment,yes,no,no,yes,1,no,yes,no,95000,69193.3,"$12,555 ",-0.5,1928,1.4,16526.4,R. Adam Norwitt,U.S.,Wallingford,Connecticut,Public
+326,Westlake,WLK,Chemicals,Chemicals,yes,no,no,no,-63,no,no,no,15520,19636.5,"$12,548,000 ",-20.6,479,-78.7,21035,Jean-Marc Gilson,U.S.,Houston,Texas,Public
+327,DuPont,DD,Chemicals,Chemicals,yes,no,no,yes,-77,no,no,no,24000,32016.1,"$12,528,000 ",-24.3,423,-92.8,38552,Edward D. Breen,U.S.,Wilmington,Delaware,Public
+328,Liberty Media,LSXMA,Media,Entertainment,yes,no,no,no,12,no,yes,no,6486,9699.7,"$12,525,000 ",3,761,-58.1,41168,Gregory B. Maffei,U.S.,Englewood,Colorado,Public
+329,S&P Global,SPGI,Business Services,Financial Data Services,yes,no,no,yes,37,no,yes,no,40450,136253.3,"$12,497,000 ",11.8,2626,-19.2,60589,Douglas L. Peterson,U.S.,New York,New York,Public
+330,Community Health Systems,CYH,Health Care,Health Care: Medical Facilities,no,no,no,no,7,no,no,no,54500,486.4,"$12,490,000 ",2.3,-133,-389.1,14455,Tim L. Hingtgen,U.S.,Franklin,Tennessee,Public
+331,FirstEnergy,FE,Energy,Utilities: Gas and Electric,yes,no,no,no,12,no,no,no,12042,22226.4,"$12,450,000 ",3.3,1102,171.4,48767,Brian X. Tierney,U.S.,Akron,Ohio,Public
+332,Unum Group,UNM,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,15,no,no,no,10683,10298.6,"$12,386 ",3.3,1283.8,-2.3,63255.2,Richard P. McKenney,U.S.,Chattanooga,Tennessee,Public
+333,Henry Schein,HSIC,Health Care,Wholesalers: Health Care,yes,no,no,yes,-8,no,no,no,25000,9704.8,"$12,339,000 ",-2.4,416,-22.7,10573,Stanley M. Bergman,U.S.,Melville,New York,Public
+334,Western Digital,WDC,Technology,"Computers, Office Equipment",no,no,no,no,-113,no,yes,no,53000,22278.8,"$12,318,000 ",-34.5,-1706,-213.7,24429,David V. Goeckeler,U.S.,San Jose,California,Public
+335,Analog Devices,ADI,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,9,no,no,no,26000,98085.7,"$12,306 ",2.4,3314.6,20.6,48794.5,Vincent T. Roche,U.S.,Wilmington,Massachusetts,Public
+336,Conagra Brands,CAG,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,24,no,no,no,18600,14168.1,"$12,277,000 ",6.4,683.6,-23,22052.6,Sean M. Connolly,U.S.,Chicago,Illinois,Public
+337,Citizens Financial Group,CFG,Financials,Commercial Banks,yes,no,no,no,82,no,yes,no,17570,16635.3,"$12,187,000 ",34.4,1608,-22.4,221964,Bruce W. Van Saun,U.S.,Providence,Rhode Island,Public
+338,Norfolk Southern,NSC,Transportation,Railroads,yes,no,no,yes,-18,no,no,no,20700,57570.4,"$12,156,000 ",-4.6,1827,-44.1,41652,Alan H. Shaw,U.S.,Atlanta,Georgia,Public
+339,Entergy,ETR,Energy,Utilities: Gas and Electric,yes,no,no,yes,-37,no,no,no,12177,22535.5,"$12,147 ",-11.7,2356.5,113.6,59703.4,Andrew S. Marsh,U.S.,New Orleans,Louisiana,Public
+340,W.R. Berkley,WRB,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,27,no,no,no,8329,22689.2,"$12,143 ",8.7,1381.4,,37202,W. Robert Berkley Jr.,U.S.,Greenwich,Connecticut,Public
+341,DaVita,DVA,Health Care,Health Care: Medical Facilities,yes,no,no,no,16,no,yes,no,70000,12107,"$12,140 ",4.6,691.5,23.4,16893.6,Javier J. Rodriguez,U.S.,Denver,Colorado,Public
+342,Northern Trust,NTRS,Financials,Commercial Banks,yes,no,no,no,135,no,yes,no,23100,18141.4,"$12,117 ",56.3,1107.3,-17.1,150783.1,Michael G. O'Grady,U.S.,Chicago,Illinois,Public
+343,Hormel Foods,HRL,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,-13,no,yes,no,20000,19108.8,"$12,110,000 ",-2.8,793.6,-20.6,13448.8,James P. Snee,U.S.,Austin,Minnesota,Public
+344,Crown Holdings,CCK,Materials,"Packaging, Containers",yes,no,no,no,-27,no,no,no,25000,9574.2,"$12,010,000 ",-7.2,450,-38.1,15034,Timothy J. Donahue,U.S.,Tampa,Florida,Public
+345,Avis Budget Group,CAR,Retailing,"Automotive Retailing, Services",yes,no,no,no,1,no,no,no,21250,4344,"$12,008,000 ",0.1,1632,-41,32569,Joseph A. Ferraro,U.S.,Parsippany,New Jersey,Public
+346,Wayfair,W,Retailing,Internet Services and Retailing,no,yes,no,no,-10,no,no,no,12800,8174.7,"$12,003,000 ",-1.8,-738,,3474,Niraj S. Shah,U.S.,Boston,Massachusetts,Public
+347,MasTec,MTZ,Engineering & Construction,Engineering & Construction,no,no,no,yes,47,no,yes,no,34000,7393,"$11,996 ",22.7,-49.9,-249.8,9373.5,Jos? R. Mas,U.S.,Coral Gables,Florida,Public
+348,Eversource Energy,ES,Energy,Utilities: Gas and Electric,no,no,no,yes,-13,no,no,no,10171,20962.9,"$11,911 ",-3.1,-442.2,-131.5,55612.2,Joseph R. Nolan Jr.,U.S.,Springfield,Massachusetts,Public
+349,Newmont,NEM,Energy,"Mining, Crude-Oil Production",no,no,no,yes,-1,no,no,no,21700,41315.9,"$11,812,000 ",-0.9,-2494,,55506,Thomas R. Palmer,U.S.,Denver,Colorado,Public
+350,Ryder System,R,Transportation,Transportation and Logistics,yes,no,no,no,-5,no,yes,no,47500,5320.5,"$11,783,000 ",-1.9,406,-53.2,15778,Robert E. Sanchez,U.S.,Coral Gables,Florida,Public
+351,Fidelity National Financial,FNF,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,8,no,no,no,22293,14507.3,"$11,752,000 ",1.7,517,-54.5,80614,Michael J. Nolan,U.S.,Jacksonville,Florida,Public
+352,Molson Coors Beverage,TAP,"Food, Beverages & Tobacco",Beverages,yes,no,no,no,22,no,no,no,16500,14297.8,"$11,702 ",9.4,948.9,,26375.1,Gavin D.K. Hattersley,U.S.,Chicago,Illinois,Public
+353,Caesars Entertainment,CZR,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,1,no,no,no,51000,9461,"$11,673,000 ",0.2,786,,33366,Thomas R. Reeg,U.S.,Reno,Nevada,Public
+354,Lincoln National,LNC,Financials,"Insurance: Life, Health (stock)",no,no,yes,no,-132,no,no,no,11024,5417.5,"$11,645,000 ",-37.9,-752,,372413,Ellen G. Cooper,U.S.,Radnor,Pennsylvania,Public
+355,VF,VFC,Apparel,Apparel,yes,no,no,no,-6,no,no,no,26400,5964.4,"$11,613 ",-1.9,118.6,-91.5,13990.5,Bracken P. Darrell,U.S.,Denver,Colorado,Public
+356,International Flavors & Fragrances,IFF,Chemicals,Chemicals,no,no,no,no,-24,no,no,no,21500,21954.9,"$11,479,000 ",-7.7,-2567,,30978,J. Erik  Fyrwald,U.S.,New York,New York,Public
+357,Huntington Ingalls Industries,HII,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,18,no,no,no,44000,11544.7,"$11,454,000 ",7.3,681,17.6,11215,Christopher D. Kastner,U.S.,Newport News,Virginia,Public
+358,Advance Auto Parts,AAP,Retailing,Specialty Retailers: Other,yes,no,no,yes,10,no,no,no,54500,5072.2,"$11,288 ",1.2,29.7,-93.6,12276.3,Shane M. O'Kelly,U.S.,Raleigh,North Carolina,Public
+359,Public Service Enterprise Group,PEG,Energy,Utilities: Gas and Electric,yes,no,no,yes,33,no,no,no,12543,33295.6,"$11,237,000 ",14.7,2563,148.6,50741,Ralph A. LaRossa,U.S.,Newark,New Jersey,Public
+360,Ulta Beauty,ULTA,Retailing,Specialty Retailers: Other,yes,no,no,yes,23,no,no,no,38000,25238.8,"$11,207 ",9.8,1291,3.9,5707,David C. Kimbell,U.S.,Bolingbrook,Illinois,Public
+361,Hershey,HSY,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,yes,yes,19,no,no,no,19578,39719.1,"$11,165,000 ",7.2,1861.8,13.2,11902.9,Michele G. Buck,U.S.,Hershey,Pennsylvania,Public
+362,Chewy,CHWY,Retailing,Internet Services and Retailing,yes,no,no,no,27,no,yes,no,18100,6919.5,"$11,148 ",10.4,39.6,-19.6,3186.9,Sumit Singh,U.S.,Plantation,Florida,Public
+363,American Tower,AMT,Financials,Real estate,yes,no,no,no,10,no,no,no,5643,92146.5,"$11,144 ",4,1483.3,-16,66027.6,Steven O. Vondran,U.S.,Boston,Massachusetts,Public
+364,Mohawk Industries,MHK,Household Products,"Home Equipment, Furnishings",no,no,no,yes,-13,no,no,no,43300,8337.2,"$11,135 ",-5.1,-439.5,-1840.9,13559.9,Jeffrey S. Lorberbaum,U.S.,Calhoun,Georgia,Public
+365,Assurant,AIZ,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,19,no,no,no,13600,9784.3,"$11,132 ",9.2,642.5,132.3,33635.2,Keith W. Demmings,U.S.,Atlanta,Georgia,Public
+366,Thor Industries,THO,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,-112,no,no,no,24900,6257.1,"$11,122 ",-31.8,374.3,-67.1,7260.8,Robert W. Martin,U.S.,Elkhart,Indiana,Public
+367,Graybar Electric,,Wholesalers,Wholesalers: Diversified,yes,no,yes,yes,11,no,yes,no,9500,,"$11,042 ",4.8,463.4,2.3,4006.1,Kathleen M. Mazzarella,U.S.,St. Louis,Missouri,Private
+368,Yum China Holdings,YUMC,"Hotels, Restaurants & Leisure",Food Services,yes,no,yes,yes,37,no,yes,no,293500,15598.8,"$10,978,000 ",14.7,827,87.1,12031,Joey Wat,U.S.,Plano,Texas,Public
+369,Celanese,CE,Chemicals,Chemicals,yes,no,yes,no,27,no,no,no,12410,19173.3,"$10,940,000 ",13.1,1960,3.5,26597,Lori J. Ryerkerk,U.S.,Irving,Texas,Public
+370,Qurate Retail,QRTEA,Retailing,Internet Services and Retailing,no,no,no,no,-28,no,no,no,20386,510.9,"$10,915,000 ",-9.8,-145,,11368,David L. Rawlinson II,U.S.,Englewood,Colorado,Public
+371,Williams,WMB,Energy,Pipelines,yes,no,no,yes,-1,no,no,no,5601,47482,"$10,907,000 ",-0.5,3179,55.1,52627,Alan S. Armstrong,U.S.,Tulsa,Oklahoma,Public
+372,Interpublic Group,IPG,Business Services,"Advertising, marketing",yes,no,no,no,-1,no,no,no,57400,12357.8,"$10,889 ",-0.4,1098.4,17.1,19267.3,Philippe Krakowsky,U.S.,New York,New York,Public
+373,Ovintiv,OVV,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-44,no,no,no,1743,13958.7,"$10,883,000 ",-12.7,2085,-42.7,19987,Brendan M. McCracken,U.S.,Denver,Colorado,Public
+374,Icahn Enterprises,IEP,Financials,Diversified Financials,no,no,no,no,-80,no,no,no,15038,7297.9,"$10,847,000 ",-23.1,-684,,20858,Andrew  Teno,U.S.,Sunny Isles Beach,Florida,Public
+375,Huntington Bancshares,HBAN,Financials,Commercial Banks,yes,no,no,yes,91,no,no,no,19955,20308.6,"$10,837,000 ",36.3,1951,-12.8,189368,Stephen D. Steinour,U.S.,Columbus,Ohio,Public
+376,Erie Insurance Group,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,38,no,no,no,6510,,"$10,813 ",16.3,-526.6,,27515.2,Timothy G. NeCastro,U.S.,Erie,Pennsylvania,Private
+377,Carvana,CVNA,Retailing,"Automotive Retailing, Services",yes,yes,no,no,-69,no,no,no,13700,16943.7,"$10,771,000 ",-20.8,450,,7071,Ernest C. Garcia III,U.S.,Tempe,Arizona,Public
+378,Hess,HES,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-20,no,no,no,1756,46883.7,"$10,645,000 ",-8,1382,-34.1,24007,John B. Hess,U.S.,New York,New York,Public
+379,Dana,DAN,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,8,no,no,no,41800,1840.9,"$10,555,000 ",3.9,38,,7965,James K. Kamsickas,U.S.,Maumee,Ohio,Public
+380,Alcoa,AA,Materials,Metals,no,no,no,yes,-49,no,no,no,13600,6067.3,"$10,551,000 ",-15.3,-651,,14155,William F. Oplinger,U.S.,Pittsburgh,Pennsylvania,Public
+381,Equitable Holdings,EQH,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,-83,no,no,no,10700,12532.3,"$10,528,000 ",-24.9,1302,-27.1,276814,Mark Pearson,U.S.,New York,New York,Public
+382,KLA,KLAC,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,34,no,no,no,15105,94470.2,"$10,496 ",13.9,3387.3,2,14072.4,Richard P. Wallace,U.S.,Milpitas,California,Public
+383,Darden Restaurants,DRI,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,yes,19,no,no,no,187384,19959.5,"$10,488 ",8.9,981.9,3.1,10241.5,Ricardo Cardenas,U.S.,Orlando,Florida,Public
+384,Autoliv,ALV,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,45,no,no,no,66434,9809.7,"$10,475,000 ",18.5,488,15.4,8332,Mikael Bratt,U.S.,Auburn Hills,Michigan,Public
+385,Alaska Air Group,ALK,Transportation,Airlines,yes,no,no,yes,13,no,no,no,24610,5408.1,"$10,426,000 ",8.1,235,305.2,14613,Benito Minicucci,U.S.,Seattle,Washington,Public
+386,KeyCorp,KEY,Financials,Commercial Banks,yes,no,no,yes,73,no,no,no,17692,14663.3,"$10,397,000 ",27.9,967,-49.6,188281,Christopher M. Gorman,U.S.,Cleveland,Ohio,Public
+387,Las Vegas Sands,LVS,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,326,no,yes,no,38550,38840.4,"$10,372,000 ",139.1,1221,-33.4,21778,Robert G. Goldstein,U.S.,Las Vegas,Nevada,Public
+388,Owens & Minor,OMI,Health Care,Wholesalers: Health Care,no,no,no,no,2,no,no,no,22200,2122.5,"$10,334,000 ",3.8,-41.3,-284.5,5093.3,Edward A. Pesicka,U.S.,Mechanicsville,Virginia,Public
+389,Hilton Worldwide Holdings,HLT,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,42,no,yes,yes,178000,53788.4,"$10,235,000 ",16.7,1141,-9.1,15401,Christopher J. Nassetta,U.S.,McLean,Virginia,Public
+390,Ebay,EBAY,Technology,Internet Services and Retailing,yes,no,no,yes,3,no,no,no,12300,27340,"$10,112,000 ",3.2,2767,,21620,Jamie Iannone,U.S.,San Jose,California,Public
+391,Arthur J. Gallagher,AJG,Financials,Diversified Financials,yes,no,no,yes,52,no,no,no,52118,54584.4,"$10,072 ",17.8,969.5,-13,51615.8,J. Patrick Gallagher Jr.,U.S.,Rolling Meadows,Illinois,Public
+392,LPL Financial Holdings,LPLA,Financials,Securities,yes,no,no,yes,48,no,no,no,7372,19735.9,"$10,053 ",16.9,1066.3,26.1,10385.5,Dan H. Arnold,U.S.,San Diego,California,Public
+393,Cincinnati Financial,CINF,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,141,no,no,no,5426,19456.1,"$10,013 ",52.7,1843.3,,32769.5,Stephen M. Spray,U.S.,Fairfield,Ohio,Public
+394,Toll Brothers,TOL,Engineering & Construction,Homebuilders,yes,no,no,no,-12,no,yes,no,4800,13476.5,"$9,995 ",-2.7,1372.1,6.7,12527,Douglas C. Yearley Jr.,U.S.,Fort Washington,Pennsylvania,Public
+395,Motorola Solutions,MSI,Technology,Network and Other Communications Equipment,yes,no,no,yes,23,no,no,no,21000,59141.7,"$9,978,000 ",9.5,1709,25.4,13336,Gregory Q. Brown,U.S.,Chicago,Illinois,Public
+396,Airbnb,ABNB,Technology,Internet Services and Retailing,yes,yes,no,yes,54,no,yes,no,6907,106739.8,"$9,917,000 ",18.1,4792,153.1,20645,Brian Chesky,U.S.,San Francisco,California,Public
+397,Intercontinental Exchange,ICE,Financials,Securities,yes,yes,no,yes,4,no,no,no,13222,78694.7,"$9,903,000 ",2.8,2368,63.8,136084,Jeffrey C. Sprecher,U.S.,Atlanta,Georgia,Public
+398,News Corp.,NWSA,Media,"Publishing, Printing",yes,no,no,no,-17,no,no,no,25000,15120.1,"$9,879,000 ",-4.9,149,-76.1,16921,Robert J. Thomson,U.S.,New York,New York,Public
+399,Chipotle Mexican Grill,CMG,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,yes,39,no,yes,no,116068,79707,"$9,872 ",14.3,1228.7,36.7,8044.4,Scott Boatwright,U.S.,Newport Beach,California,Public
+400,Vertex Pharmaceuticals,VRTX,Health Care,Pharmaceuticals,yes,no,yes,yes,27,no,no,yes,5400,107975.3,"$9,869 ",10.5,3619.6,9,22730.2,Reshma Kewalramani,U.S.,Boston,Massachusetts,Public
+401,Biogen,BIIB,Health Care,Pharmaceuticals,yes,no,no,no,-15,no,no,no,7570,31344.1,"$9,836 ",-3.3,1161.1,-61.9,26844.8,Christopher A. Viehbacher,U.S.,Cambridge,Massachusetts,Public
+402,GXO Logistics,GXO,Transportation,Transportation and Logistics,yes,no,no,no,21,no,no,no,109000,6411.5,"$9,778,000 ",8.7,229,16.2,9507,Malcolm Wilson,U.S.,Greenwich,Connecticut,Public
+403,SpartanNash,SPTN,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,no,-4,no,no,no,13500,699.6,"$9,729 ",0.9,52.2,51.3,2355.6,Tony B. Sarsam,U.S.,Grand Rapids,Michigan,Public
+404,Burlington Stores,BURL,Retailing,Specialty Retailers: Apparel,yes,no,no,yes,30,no,no,no,44050,14841.4,"$9,728 ",11.8,339.6,47.6,7706.8,Michael B. O?Sullivan,U.S.,Burlington,New Jersey,Public
+405,Thrivent Financial for Lutherans,,Financials,"Insurance: Life, Health (Mutual)",yes,no,yes,yes,7,no,no,no,3810,,"$9,720 ",4,347.2,-68,115628.7,Teresa J. Rasmussen,U.S.,Minneapolis,Minnesota,Private
+406,NVR,NVR,Engineering & Construction,Homebuilders,yes,no,no,no,-30,no,no,no,6300,25904.2,"$9,687 ",-8.4,1591.6,-7.8,6601.8,Eugene J. Bredow,U.S.,Reston,Virginia,Public
+407,Owens Corning,OC,Materials,"Building Materials, Glass",yes,no,no,no,-12,no,no,no,18000,14510.2,"$9,677,000 ",-0.9,1196,-3.6,11237,Brian D. Chambers,U.S.,Toledo,Ohio,Public
+407,Westinghouse Air Brake Technologies,WAB,Industrials,Industrial Machinery,yes,no,no,yes,46,no,no,no,29000,25789.6,"$9,677,000 ",15.7,815,28.8,18988,Rafael O. Santana,U.S.,Pittsburgh,Pennsylvania,Public
+409,Oshkosh,OSK,Industrials,Construction and Farm Machinery,yes,no,no,yes,46,no,no,no,17300,8178.1,"$9,658 ",16.6,598,243.9,9129.2,John C. Pfeifer,U.S.,Oshkosh,Wisconsin,Public
+410,Global Payments,GPN,Business Services,Financial Data Services,yes,no,no,yes,15,no,no,no,27000,34094.6,"$9,654 ",7.6,986.2,784.6,50570.2,Cameron M. Bready,U.S.,Atlanta,Georgia,Public
+411,Lululemon athletica,LULU,Retailing,Specialty Retailers: Apparel,yes,no,no,yes,50,no,no,no,38000,49225.1,"$9,619 ",18.6,1550.2,81.4,7091.9,Calvin McDonald,U.S.,Sumner,Washington,Public
+412,Albemarle,ALB,Chemicals,Chemicals,yes,no,no,yes,81,no,no,no,9000,15482.7,"$9,617 ",31.4,1573.5,-41.5,18270.7,J. Kent Masters,U.S.,Charlotte,North Carolina,Public
+413,JetBlue Airways,JBLU,Transportation,Airlines,no,no,yes,yes,4,no,no,no,21310,2523.8,"$9,615,000 ",5,-310,,13853,Joanna  Geraghty,U.S.,Long Island City,New York,Public
+414,Seaboard,SEB,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,-50,no,no,no,12847,3130.6,"$9,562,000 ",-15,226,-61,7566,Robert L. Steer,U.S.,Merriam,Kansas,Public
+415,Constellation Brands,STZ,"Food, Beverages & Tobacco",Beverages,no,no,no,no,15,no,no,no,9400,49683.2,"$9,453 ",7.2,-71,,24662.3,William A. Newlands,U.S.,Victor,New York,Public
+416,Graphic Packaging Holding,GPK,Materials,"Packaging, Containers",yes,no,no,no,-7,no,yes,no,23500,8930.6,"$9,428,000 ",-0.1,723,38.5,11175,Michael P. Doss,U.S.,Atlanta,Georgia,Public
+417,Hertz Global Holdings,HTZ,Retailing,"Automotive Retailing, Services",yes,no,no,yes,18,no,no,no,27000,2390.5,"$9,371,000 ",7.9,616,-70.1,24605,Gil  West,U.S.,Estero,Florida,Public
+418,FM Global,,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,290,no,no,no,5667,,"$9,359,000 ",113.1,3748.5,,34479,Malcolm C. Roberts,U.S.,Johnston,Rhode Island,Private
+419,Campbell Soup,CPB,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,23,no,no,no,14500,13250.7,"$9,357,000 ",9.3,858,13.3,12058,Mark A. Clouse,U.S.,Camden,New Jersey,Public
+420,Expeditors Intl. of Washington,EXPD,Transportation,Transportation and Logistics,yes,no,no,no,-175,no,no,no,18452,17248.7,"$9,300 ",-45.5,752.9,-44.5,4523.8,Jeffrey S. Musser,U.S.,Seattle,Washington,Public
+421,A-Mark Precious Metals,AMRK,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,37,no,no,no,421,701.4,"$9,287 ",13.8,156.4,18,1545.6,Gregory N. Roberts,U.S.,El Segundo,California,Public
+422,Booz Allen Hamilton Holding,BAH,Technology,Information Technology Services,yes,no,no,yes,30,no,yes,no,31900,19259.5,"$9,259 ",10.7,271.8,-41.8,6550.7,Horacio D. Rozanski,U.S.,McLean,Virginia,Public
+423,Quest Diagnostics,DGX,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,no,-32,no,yes,no,44000,14782.7,"$9,252,000 ",-6.4,854,-9.7,14022,James E. Davis,U.S.,Secaucus,New Jersey,Public
+424,Altice USA,ATUS,Telecommunications,Telecommunications,yes,no,no,no,-27,no,no,no,10600,1190.5,"$9,237 ",-4.3,53.2,-72.7,31923.6,Dennis Mathew,U.S.,Long Island City,New York,Public
+425,PVH,PVH,Apparel,Apparel,yes,no,no,no,-3,no,no,no,23000,8385.6,"$9,218 ",2.1,663.6,231.1,11172.9,Stefan Larsson,U.S.,New York,New York,Public
+426,Eastman Chemical,EMN,Chemicals,Chemicals,yes,no,no,no,-49,no,no,no,14000,11786.2,"$9,210,000 ",-12.9,894,12.7,14633,Mark J. Costa,U.S.,Kingsport,Tennessee,Public
+427,Insight Enterprises,NSIT,Technology,Information Technology Services,yes,no,yes,yes,-48,no,no,no,14437,6046.1,"$9,176 ",-12,281.3,0.2,6286.4,Joyce A. Mullen,U.S.,Chandler,Arizona,Public
+428,Regions Financial,RF,Financials,Commercial Banks,yes,no,no,yes,55,no,no,no,20101,19332.9,"$9,153,000 ",21.5,2074,-7.6,152194,John M. Turner Jr.,U.S.,Birmingham,Alabama,Public
+429,Beacon Roofing Supply,BECN,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,20,no,no,no,8063,6217.6,"$9,120 ",8.2,435,-5.1,6207.7,Julian G. Francis,U.S.,Herndon,Virginia,Public
+430,Rockwell Automation,ROK,Industrials,"Electronics, Electrical Equip.",yes,no,no,yes,46,no,no,no,29000,33384.1,"$9,058,000 ",16.7,1387.4,48.8,11304,Blake D. Moret,U.S.,Milwaukee,Wisconsin,Public
+431,Polaris,PII,Transportation,Transportation Equipment,yes,no,no,yes,-7,no,no,no,18500,5654.8,"$9,015 ",0.3,502.8,12.5,5516.3,Michael T. Speetzen,U.S.,Medina,Minnesota,Public
+432,ServiceNow,NOW,Technology,Computer Software,yes,no,no,yes,67,no,yes,yes,22668,156292,"$8,971,000 ",23.8,1731,432.6,17387,William R. McDermott,U.S.,Santa Clara,California,Public
+433,Sanmina,SANM,Technology,Semiconductors and Other Electronic Components,yes,yes,no,no,38,no,no,no,36000,3468.2,"$8,935,000 ",12.8,310,28.9,4874,Jure Sola,U.S.,San Jose,California,Public
+434,UGI,UGI,Energy,Utilities: Gas and Electric,no,no,no,yes,-46,no,no,no,10500,5142.4,"$8,928,000 ",-11.7,-1502,-240,15401,Mario  Longhi,U.S.,King of Prussia,Pennsylvania,Public
+435,WEC Energy Group,WEC,Energy,Utilities: Gas and Electric,yes,no,no,no,-31,no,no,no,7000,25935.2,"$8,893,000 ",-7.3,1331.7,-5.4,43939.7,Scott J. Lauber,U.S.,Milwaukee,Wisconsin,Public
+436,BrightSpring Health Services,BGST,Health Care,Health Care: Pharmacy and Other Services,no,no,no,no,0,no,no,no,35000,1860.8,"$8,826 ",14.3,-154.6,,5532.7,Jon B. Rousseau,U.S.,Louisville,Kentucky,Public
+437,Cintas,CTAS,Business Services,Diversified Outsourcing Services,yes,no,no,yes,36,no,yes,no,44500,69695.1,"$8,816 ",12.2,1348,9.1,8546.4,Todd M. Schneider,U.S.,Cincinnati,Ohio,Public
+438,Commercial Metals,CMC,Materials,Metals,yes,no,no,yes,-10,no,no,no,13022,6800.2,"$8,800 ",-1.3,859.8,-29.4,6639.1,Peter R. Matt,U.S.,Irving,Texas,Public
+439,Continental Resources,CLR,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-32,no,no,no,1457,,"$8,732 ",-7.8,3095.8,-23.1,22387.4,Robert D. Lawler,U.S.,Oklahoma City,Oklahoma,Private
+440,Chesapeake Energy,CHK,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-90,no,no,no,1000,11618.5,"$8,721,000 ",-25.7,2419,-51,14376,Domenic J. Dell'Osso Jr.,U.S.,Oklahoma City,Oklahoma,Public
+441,CenterPoint Energy,CNP,Energy,Utilities: Gas and Electric,yes,no,no,no,-28,no,no,no,8827,18035.1,"$8,696,000 ",-6.7,917,-13.2,39715,Jason P. Wells,U.S.,Houston,Texas,Public
+442,NGL Energy Partners,NGL,Energy,Pipelines,yes,no,no,no,25,no,no,no,638,763.3,"$8,695 ",9.4,51.4,,5456.1,H. Michael Krimbill,U.S.,Tulsa,Oklahoma,Public
+443,DoorDash,DASH,Technology,Internet Services and Retailing,no,yes,no,yes,88,no,no,no,19300,55639.5,"$8,635,000 ",31.2,-558,,10839,Tony Xu,U.S.,San Francisco,California,Public
+444,NOV,NOV,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,57,no,no,no,33676,7690.9,"$8,583,000 ",18.6,993,540.6,11294,Clay C. Williams,U.S.,Houston,Texas,Public
+445,Zoetis,ZTS,Health Care,Pharmaceuticals,yes,no,yes,yes,18,no,no,no,14100,77475.7,"$8,544,000 ",5.7,2344,10.9,14286,Kristin C. Peck,U.S.,Parsippany,New Jersey,Public
+446,J.M. Smucker,SJM,"Food, Beverages & Tobacco",Food Consumer Products,no,no,no,no,19,no,no,no,5800,13364.3,"$8,529 ",6.6,-91.3,-114.5,14991.4,Mark T. Smucker,U.S.,Orrville,Ohio,Public
+447,Microchip Technology,MCHP,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,75,no,no,no,22600,48478.2,"$8,439 ",23.7,2237.7,74.1,16370.3,Ganesh Moorthy,U.S.,Chandler,Arizona,Public
+448,Dover,DOV,Industrials,Industrial Machinery,yes,no,no,no,-3,no,no,no,25000,24341.7,"$8,438 ",-0.8,1056.8,-0.8,11348.5,Richard J. Tobin,U.S.,Downers Grove,Illinois,Public
+449,Diamondback Energy,FANG,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-49,no,no,no,1023,35362.8,"$8,412,000 ",-12.8,3143,-28.3,29001,Travis D. Stice,U.S.,Midland,Texas,Public
+450,Avery Dennison,AVY,Materials,"Packaging, Containers",yes,no,no,no,-29,no,yes,no,35000,17976.2,"$8,364 ",-7.5,503,-33.6,8209.8,Dean M. Stander,U.S.,Mentor,Ohio,Public
+451,PPL,PPL,Energy,Utilities: Gas and Electric,yes,no,no,yes,19,no,no,no,6629,20306.2,"$8,312,000 ",5.2,740,-2.1,39236,Vincent Sorgi,U.S.,Allentown,Pennsylvania,Public
+452,ON Semiconductor,ON,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,2,no,no,no,30050,31430,"$8,253,000 ",-0.9,2183.7,14.8,13215.2,Hassane S. El-Khoury,U.S.,Scottsdale,Arizona,Public
+453,ARKO,ARKO,Retailing,Specialty Retailers: Other,yes,no,no,yes,7,no,no,no,13481,662.2,"$8,239 ",1.4,34.4,-52.1,3650.4,Arie Kotler,U.S.,Richmond,Virginia,Public
+454,Par Pacific Holdings,PARR,Energy,Petroleum Refining,yes,no,no,yes,38,no,no,no,1814,2199.2,"$8,232,000 ",12.4,728.6,100.1,3864,William  Monteleone,U.S.,Houston,Texas,Public
+455,APA,APA,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-114,no,no,no,2271,10367.4,"$8,192,000 ",-32.5,2855,-22.3,15244,John J. Christmann IV,U.S.,Houston,Texas,Public
+456,Equinix,EQIX,Financials,Real estate,yes,no,no,yes,41,no,no,no,13151,78093.9,"$8,188 ",12.7,969.2,37.6,32650.7,Charles J. Meyers,U.S.,Redwood City,California,Public
+457,New York Community Bancorp,NYCB,Financials,Commercial Banks,no,no,no,yes,0,no,no,no,8766,2569.3,"$8,178,000 ",249.6,-79,-112.2,114057,Joseph M. Otting,U.S.,Hicksville,New York,Public
+458,Foot Locker,FL,Retailing,Specialty Retailers: Apparel,no,no,yes,no,-26,no,no,no,30591,2693.1,"$8,168,000 ",-6.7,-330,-196.5,6868,Mary N. Dillon,U.S.,New York,New York,Public
+459,Ingredion,INGR,"Food, Beverages & Tobacco",Food Production,yes,no,no,no,9,no,yes,no,11600,7665.9,"$8,160,000 ",2.7,643,30.7,7642,James P. Zallie,U.S.,Westchester,Illinois,Public
+460,Newell Brands,NWL,Household Products,"Home Equipment, Furnishings",no,no,no,no,-52,no,yes,no,24600,3333.7,"$8,133,000 ",-14,-388,-297,12163,Christopher H. Peterson,U.S.,Atlanta,Georgia,Public
+461,ABM Industries,ABM,Business Services,Diversified Outsourcing Services,yes,no,no,no,14,no,no,no,123000,2824.1,"$8,096 ",3.7,251.3,9.1,4933.7,Scott B. Salmirs,U.S.,New York,New York,Public
+462,Securian Financial Group,,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,105,no,no,no,5565,,"$8,067,000 ",30.6,226.6,,73457.5,Christopher M. Hilger,U.S.,St. Paul,Minnesota,Private
+463,Prologis,PLD,Financials,Real estate,yes,yes,no,yes,112,no,yes,no,2574,120459.8,"$8,024 ",34.3,3059.2,-9.1,93020.8,Hamid R. Moghadam,U.S.,San Francisco,California,Public
+464,Blackstone,BX,Financials,Diversified Financials,yes,yes,no,yes,-20,no,no,no,4735,93882.8,"$8,023 ",-5.8,1390.9,-20.4,40287.5,Stephen A. Schwarzman,U.S.,New York,New York,Public
+465,Skechers U.S.A.,SKX,Apparel,Apparel,yes,yes,no,yes,23,no,no,no,13550,9389.7,"$8,000 ",7.5,545.8,46.3,7547.4,Robert Greenberg,U.S.,Manhattan Beach,California,Public
+466,Masco,MAS,Household Products,"Home Equipment, Furnishings",yes,no,no,no,-30,no,no,no,18000,17335.1,"$7,967,000 ",-8.2,908,7.6,5363,Keith J. Allman,U.S.,Livonia,Michigan,Public
+467,Rush Enterprises,RUSHB,Retailing,"Automotive Retailing, Services",yes,no,no,yes,40,no,no,no,8449,4164.4,"$7,925,000 ",11.6,347.1,-11.3,4364.2,W.M. Rush,U.S.,New Braunfels,Texas,Public
+468,Franklin Resources,BEN,Financials,Securities,yes,no,yes,no,-12,no,no,no,9200,14801.5,"$7,849 ",-5.1,882.8,-31.7,30121.2,Jennifer M. Johnson,U.S.,San Mateo,California,Public
+469,ODP,ODP,Retailing,Specialty Retailers: Other,yes,no,no,no,-23,no,no,no,20000,1942.6,"$7,831,000 ",-7.8,139,-16.3,3886,Gerry P. Smith,U.S.,Boca Raton,Florida,Public
+470,American Financial Group,AFG,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,40,no,no,no,8500,11418.1,"$7,827,000 ",11.2,852,-5.1,29787,Carl H. Lindner lll/S. Craig Lindner,U.S.,Cincinnati,Ohio,Public
+471,Packaging Corp. of America,PKG,Materials,"Packaging, Containers",yes,no,no,no,-24,no,yes,no,14900,17033.7,"$7,802 ",-8,765.2,-25.7,8681.1,Mark W. Kowlzan,U.S.,Lake Forest,Illinois,Public
+472,Vulcan Materials,VMC,Materials,"Building Materials, Glass",yes,no,no,no,22,no,no,no,10961,36099.6,"$7,782 ",6.4,933.2,62.1,14545.7,J. Thomas Hill,U.S.,Birmingham,Alabama,Public
+473,Interactive Brokers Group,IBKR,Financials,Securities,yes,no,no,yes,263,no,no,no,2932,47328.3,"$7,776,000 ",90.4,600,57.9,128423,Milan Galik,U.S.,Greenwich,Connecticut,Public
+474,Williams-Sonoma,WSM,Retailing,Specialty Retailers: Other,yes,no,yes,no,-37,no,no,no,15000,20357.6,"$7,751 ",-10.6,949.8,-15.8,5273.5,Laura J. Alber,U.S.,San Francisco,California,Public
+475,XPO,XPO,Transportation,Transportation and Logistics,yes,no,no,no,3,no,no,no,39450,14169.3,"$7,744,000 ",0.3,189,-71.6,7492,Mario A. Harik,U.S.,Greenwich,Connecticut,Public
+476,Weyerhaeuser,WY,Materials,Forest and Paper Products,yes,no,no,yes,-91,no,no,no,9318,26200.5,"$7,674,000 ",-24.6,839,-55.4,16983,Devin W. Stockfish,U.S.,Seattle,Washington,Public
+477,Genworth Financial,GNW,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,9,no,no,no,2700,2825.7,"$7,488,000 ",-0.3,76,-87.5,90817,Thomas J. McInerney,U.S.,Richmond,Virginia,Public
+478,CMS Energy,CMS,Energy,Utilities: Gas and Electric,yes,no,no,no,-37,no,no,no,8356,18018.6,"$7,462,000 ",-13.2,887,6,33517,Garrick J. Rochow,U.S.,Jackson,Michigan,Public
+479,Science Applications International,SAIC,Technology,Information Technology Services,yes,no,yes,no,0,no,yes,no,24000,6734.4,"$7,444,000 ",-3.4,477,59,5314,Toni Townes-Whitley,U.S.,Reston,Virginia,Public
+480,Jefferies Financial Group,JEF,Financials,Diversified Financials,yes,no,no,yes,22,no,no,no,7564,9347.9,"$7,441 ",4.1,277.7,-64.6,57905.2,Richard B. Handler,U.S.,New York,New York,Public
+481,Bath & Body Works,BBWI,Retailing,Specialty Retailers: Other,yes,no,yes,yes,1,no,no,no,33069,11249.3,"$7,429,000 ",-1.7,878,9.8,5463,Gina R. Boswell,U.S.,Columbus,Ohio,Public
+482,Electronic Arts,EA,Media,Entertainment,yes,no,no,yes,30,no,yes,no,13400,35469.4,"$7,426,000 ",6.2,802,1.6,13459,Andrew Wilson,U.S.,Redwood City,California,Public
+483,Taylor Morrison Home,TMHC,Engineering & Construction,Homebuilders,yes,no,yes,no,-26,no,no,no,2800,6616.7,"$7,418 ",-9.8,768.9,-27,8672.1,Sheryl D. Palmer,U.S.,Scottsdale,Arizona,Public
+484,Zimmer Biomet Holdings,ZBH,Health Care,Medical Products and Equipment,yes,no,no,no,25,no,no,no,18000,27116.8,"$7,394 ",4.3,1024,342.5,21496.9,Ivan Tornos,U.S.,Warsaw,Indiana,Public
+485,Clorox,CLX,Household Products,Household and Personal Products,yes,no,yes,no,20,no,no,no,8700,19001.9,"$7,389,000 ",4,149,-67.7,5945,Linda Rendle,U.S.,Oakland,California,Public
+486,Xylem,XYL,Industrials,Industrial Machinery,yes,no,no,yes,117,no,no,no,23000,31246.4,"$7,364,000 ",33.4,609,71.5,16112,Matthew F. Pine,U.S.,Washington,District Of Columbia,Public
+487,Voya Financial,VOYA,Financials,Diversified Financials,yes,no,yes,yes,92,no,no,no,9000,7510.9,"$7,348,000 ",24.1,625,22.5,157085,Heather H. Lavallee,U.S.,New York,New York,Public
+488,Fastenal,FAST,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,26,no,yes,no,20721,44157,"$7,347 ",5.2,1155,6.3,4462.9,Daniel L. Florness,U.S.,Winona,Minnesota,Public
+489,Watsco,WSO,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,6,no,no,no,7388,17061.3,"$7,284 ",0.1,536.3,-10.8,3729.2,Albert H. Nahmad,U.S.,Miami,Florida,Public
+490,Workday,WDAY,Technology,Computer Software,yes,no,no,yes,72,no,yes,no,18800,72006,"$7,259,000 ",16.8,1381,,16452,Carl M. Eschenbach,U.S.,Pleasanton,California,Public
+491,Old Republic International,ORI,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,-29,no,no,no,9200,8463.5,"$7,258 ",-10.2,598.6,-12.8,26501.4,Craig R. Smiddy,U.S.,Chicago,Illinois,Public
+492,RPM International,RPM,Chemicals,Chemicals,yes,no,no,yes,34,no,no,no,17274,15329.3,"$7,256 ",8.2,478.7,-2.6,6782,Frank C. Sullivan,U.S.,Medina,Ohio,Public
+493,UFP Industries,UFPI,Materials,"Building Materials, Glass",yes,no,no,yes,-90,no,no,no,15800,7568.8,"$7,218 ",-25,514.3,-25.7,4017.8,Matthew J. Missad,U.S.,Grand Rapids,Michigan,Public
+494,Ameren,AEE,Energy,Utilities: Gas and Electric,yes,no,no,yes,-14,no,no,no,9372,19711.1,"$7,213,000 ",-5.9,1152,7.3,40830,Martin J. Lyons Jr.,U.S.,St. Louis,Missouri,Public
+495,Knight-Swift Transportation Hldgs.,KNX,Transportation,"Trucking, Truck Leasing",yes,no,no,yes,-5,no,no,no,34550,8885.4,"$7,142 ",-3.9,217.1,-71.8,12870.8,Adam W. Miller,U.S.,Phoenix,Arizona,Public
+496,Monster Beverage,MNST,"Food, Beverages & Tobacco",Beverages,yes,no,no,yes,60,no,no,no,5629,61688.9,"$7,140,000 ",13.1,1631,36.9,9686.5,Rodney C. Sacks/Hilton H. Schlosberg,U.S.,Corona,California,Public
+497,Intuitive Surgical,ISRG,Health Care,Medical Products and Equipment,yes,no,no,yes,63,no,no,no,13676,141456.9,"$7,124 ",14.5,1798,36,15441.5,Gary S. Guthart,U.S.,Sunnyvale,California,Public
+498,Super Micro Computer,SMCI,Technology,"Computers, Office Equipment",yes,yes,no,yes,138,no,no,no,5126,59137.7,"$7,124 ",37.1,640,124.4,3674.7,Charles Liang,U.S.,San Jose,California,Public
+499,Concentrix,CNXC,Technology,Information Technology Services,yes,no,no,yes,54,no,no,no,440000,4342.2,"$7,115 ",12.5,313.8,-27.9,12491.8,Christopher A. Caldwell,U.S.,Newark,California,Public
+500,O-I Glass,OI,Materials,"Packaging, Containers",no,no,no,no,19,no,no,no,23000,2549.4,"$7,105,000 ",3.6,-103,-117.6,9669,Gordon J. Hardie,U.S.,Perrysburg,Ohio,Public
+501,Yum Brands,YUM,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,no,20,no,yes,no,25438,39007.3,"$7,076,000 ",3.4,1597,20.5,6231,David W. Gibbs,U.S.,Louisville,Kentucky,Public
+502,Domtar,,Materials,Forest and Paper Products,yes,no,no,yes,166,no,no,no,13000,,"$7,059,000 ",49.2,288,-15,7531,Steven M. Henry,U.S.,Fort Mill,South Carolina,Private
+503,CommScope Holding,COMM,Technology,Network and Other Communications Equipment,no,no,no,no,-88,no,no,no,20000,278,"$6,999 ",-24.2,-1450.9,,9371.9,Charles L. Treadway,U.S.,Claremont,South Carolina,Public
+504,Post Holdings,POST,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,41,no,no,no,11430,6449.2,"$6,991,000 ",9.4,301.3,-60.2,11646.7,Robert V. Vitale,U.S.,St. Louis,Missouri,Public
+505,Crown Castle,CCI,Financials,Real estate,yes,no,no,no,8,no,no,no,4700,45953,"$6,981,000 ",-0.1,1502,-10.3,38527,Steven J. Moskowitz,U.S.,Houston,Texas,Public
+506,Avantor,AVTR,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,no,-21,no,no,no,14500,17366.5,"$6,967 ",-7.3,321.1,-53.2,12972.7,Michael Stubblefield,U.S.,Radnor,Pennsylvania,Public
+507,KBR,KBR,Technology,Information Technology Services,no,no,no,yes,25,no,no,no,34000,8598.7,"$6,956,000 ",6,-265,-239.5,5565,Stuart J.B. Bradie,U.S.,Houston,Texas,Public
+508,Opendoor Technologies,OPEN,Technology,Internet Services and Retailing,no,no,yes,no,-242,no,no,no,1982,2059.3,"$6,946,000 ",-55.4,-275,,3567,Carrie A. Wheeler,U.S.,Tempe,Arizona,Public
+509,APi Group,APG,Engineering & Construction,Engineering & Construction,yes,no,no,yes,24,no,no,no,29000,9587.9,"$6,928,000 ",5.6,153,109.6,7590,Russell A. Becker,U.S.,New Brighton,Minnesota,Public
+510,EQT,EQT,Energy,Energy,yes,no,no,yes,-23,no,no,no,881,16337.5,"$6,909 ",-7.9,1735.2,-2,25285.1,Toby Z. Rice,U.S.,Pittsburgh,Pennsylvania,Public
+511,EnLink Midstream,ENLC,Energy,Pipelines,yes,no,no,no,-105,no,no,no,1072,6181.3,"$6,900 ",-27.7,206.2,-42.9,8328.6,Jesse Arenivas,U.S.,Dallas,Texas,Public
+512,Palo Alto Networks,PANW,Technology,Network and Other Communications Equipment,yes,no,no,yes,92,no,no,no,13948,91802.4,"$6,893 ",25.3,439.7,,14501.1,Nikesh Arora,U.S.,Santa Clara,California,Public
+513,Xerox Holdings,XRX,Technology,"Computers, Office Equipment",yes,no,no,no,-8,no,no,no,20100,2222.9,"$6,886,000 ",-3.1,1,,10008,Steven J. Bandrowczak,U.S.,Norwalk,Connecticut,Public
+514,Ingersoll Rand,IR,Industrials,Industrial Machinery,yes,no,no,yes,64,no,no,no,18000,38306.2,"$6,876 ",16.1,778.7,28.8,15563.5,Vicente Reynal,U.S.,Davidson,North Carolina,Public
+515,Dillard's,DDS,Retailing,General Merchandisers,yes,no,no,yes,-4,no,no,no,24900,7654.8,"$6,874 ",-1.7,738.8,-17.1,3448.9,William T. Dillard II,U.S.,Little Rock,Arkansas,Public
+516,Martin Marietta Materials,MLM,Materials,"Building Materials, Glass",yes,no,no,no,23,no,no,no,9400,37955.3,"$6,871 ",6.2,1168.9,34.9,15124.9,C. Howard Nye,U.S.,Raleigh,North Carolina,Public
+517,Vertiv Holdings,VRT,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,80,no,no,no,27000,31195.5,"$6,863 ",20.6,460.2,500.8,7998.5,Giordano Albertazzi,U.S.,Westerville,Ohio,Public
+518,Moderna,MRNA,Health Care,Pharmaceuticals,no,no,no,yes,-307,no,yes,no,5600,40799.7,"$6,848,000 ",-64.5,-4714,-156.4,18426,St?phane Bancel,U.S.,Cambridge,Massachusetts,Public
+519,Boise Cascade,BCC,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,-68,no,no,no,7300,6067.9,"$6,838 ",-18.5,483.7,-43.6,3458.6,Nathan R. Jorgensen,U.S.,Boise,Idaho,Public
+520,Sprouts Farmers Market,SFM,Food & Drug Stores,Food & Drug Stores,yes,no,no,yes,21,no,no,no,32000,6526.1,"$6,837 ",6.8,258.9,-0.9,3327.4,Jack L. Sinclair,U.S.,Phoenix,Arizona,Public
+521,Agilent Technologies,A,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,no,-1,no,no,no,18100,42642.5,"$6,833,000 ",-0.2,1240,-1.1,10763,Padraig McDonnell,U.S.,Santa Clara,California,Public
+521,Olin,OLN,Chemicals,Chemicals,yes,no,no,no,-111,no,no,no,7326,7034.9,"$6,833,000 ",-27.1,460.2,-65.3,7713.2,Kenneth T. Lane,U.S.,Clayton,Missouri,Public
+523,Darling Ingredients,DAR,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,12,no,no,no,15800,7431.3,"$6,788 ",3.9,647.7,-12.2,11061.1,Randall C. Stuewe,U.S.,Irving,Texas,Public
+524,Sonoco Products,SON,Materials,"Packaging, Containers",yes,no,no,yes,-26,no,no,no,23000,5665.8,"$6,781 ",-6.5,475,1.8,7192,R. Howard Coker,U.S.,Hartsville,South Carolina,Public
+525,CACI International,CACI,Technology,Information Technology Services,yes,no,no,yes,39,no,yes,no,23000,8442.3,"$6,703 ",8.1,384.7,4.9,6600.8,John S. Mengucci,U.S.,Reston,Virginia,Public
+526,Core & Main,CNM,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,2,no,no,no,5000,11528.5,"$6,702,000 ",0.8,371,1.4,5069,Stephen O. LeClair,U.S.,St. Louis,Missouri,Public
+527,Marathon Oil,MRO,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-63,no,no,no,1681,16195.7,"$6,697,000 ",-16.7,1554,-57,19575,Lee M. Tillman,U.S.,Houston,Texas,Public
+528,Hyatt Hotels,H,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,54,no,yes,yes,51000,16425.1,"$6,667,000 ",13.2,220,-51.6,12833,Mark S. Hoplamazian,U.S.,Chicago,Illinois,Public
+529,Select Medical Holdings,SEM,Health Care,Health Care: Medical Facilities,yes,no,no,yes,23,no,yes,no,46500,3870.1,"$6,664 ",5.2,243.5,53.1,7689.6,David S. Chernow,U.S.,Mechanicsburg,Pennsylvania,Public
+530,McCormick,MKC,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,18,no,no,no,13800,20616.8,"$6,662 ",4.9,680.6,-0.2,12862.3,Brendan M. Foley,U.S.,Hunt Valley,Maryland,Public
+531,Tapestry,TPR,Apparel,Apparel,yes,no,yes,yes,-4,no,yes,no,15550,10890.3,"$6,661 ",-0.4,936,9.3,7116.8,Joanne C. Crevoiserat,U.S.,New York,New York,Public
+532,Coca-Cola Consolidated,COKE,"Food, Beverages & Tobacco",Beverages,yes,no,no,no,33,no,yes,no,16000,7934,"$6,654 ",7.3,408.4,-5.1,4288.9,J. Frank Harrison III,U.S.,Charlotte,North Carolina,Public
+533,Howmet Aerospace,HWM,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,66,no,no,no,23200,28077.1,"$6,640,000 ",17.3,765,63.1,10428,John C. Plant,U.S.,Pittsburgh,Pennsylvania,Public
+534,Welltower,WELL,Financials,Real estate,yes,no,no,yes,49,no,yes,no,533,53156,"$6,638,000 ",13.3,340.1,140.8,44012.2,Shankh S. Mitra,U.S.,Toledo,Ohio,Public
+535,CF Industries Holdings,CF,Chemicals,Chemicals,yes,no,no,yes,-170,no,no,no,2694,15620.7,"$6,632 ",-40.7,1525.2,-54.4,14376.2,W. Anthony Will,U.S.,Northbrook,Illinois,Public
+536,Ametek,AME,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,yes,34,no,no,no,21500,42288.6,"$6,597,000 ",7.3,1313.2,13.3,15023.5,David A. Zapico,U.S.,Berwyn,Pennsylvania,Public
+537,TransDigm Group,TDG,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,76,no,no,no,15500,68484.7,"$6,585,000 ",21.3,1298,49.9,19970,Kevin M. Stein,U.S.,Cleveland,Ohio,Public
+538,Wynn Resorts,WYNN,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,240,no,yes,no,27800,11456.6,"$6,532 ",73.9,730,,13996.2,Craig S. Billings,U.S.,Las Vegas,Nevada,Public
+539,Southwestern Energy,SWN,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-264,no,no,no,1165,8349.1,"$6,522,000 ",-56.5,1557,-15.8,11991,William J. Way,U.S.,Spring,Texas,Public
+540,Amkor Technology,AMKR,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-32,no,no,no,28700,7927.6,"$6,503 ",-8.3,359.8,-53,6771.1,Guillaume Marie Jean Rutten,U.S.,Tempe,Arizona,Public
+541,Insperity,NSP,Business Services,Diversified Outsourcing Services,yes,yes,no,yes,35,no,no,no,4400,4087.3,"$6,486 ",9.2,171.4,-4.4,2119.7,Paul J. Sarvadi,U.S.,Kingwood,Texas,Public
+542,Patterson,PDCO,Health Care,Wholesalers: Health Care,yes,no,no,no,-6,no,no,no,7600,2477.2,"$6,472 ",-0.4,207.6,2.1,2879.1,Donald J. Zurbay,U.S.,St. Paul,Minnesota,Public
+543,T. Rowe Price,TROW,Financials,Securities,yes,no,no,yes,-6,no,yes,no,7906,27266.7,"$6,461 ",-0.4,1788.7,14.8,12278.8,Robert W. Sharps,U.S.,Baltimore,Maryland,Public
+544,Ralph Lauren,RL,Apparel,Apparel,yes,no,no,yes,17,no,yes,no,19100,12002.7,"$6,444 ",3.6,522.7,-12.9,6789.5,Patrice Louvet,U.S.,New York,New York,Public
+545,KB Home,KBH,Engineering & Construction,Homebuilders,yes,no,no,no,-27,no,no,no,2205,5361.6,"$6,411 ",-7.1,590.2,-27.7,6648.4,Jeffrey T. Mezger,U.S.,Los Angeles,California,Public
+546,Brunswick,BC,Transportation,Transportation Equipment,yes,no,no,no,-23,no,no,no,18104,6555.5,"$6,401 ",-6,420.4,-37.9,6230.5,David M. Foulkes,U.S.,Mettawa,Illinois,Public
+547,Robert Half,RHI,Business Services,Temporary Help,yes,no,no,no,-47,no,yes,yes,15000,8340.9,"$6,393 ",-11.7,411.1,-37.5,3010.8,M. Keith Waddell,U.S.,Menlo Park,California,Public
+548,PENN Entertainment,PENN,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",no,no,no,yes,-6,no,no,no,23333,2775.6,"$6,363 ",-0.6,-490,-320.6,16064.2,Jay A. Snowden,U.S.,Wyomissing,Pennsylvania,Public
+549,NetApp,NTAP,Technology,"Computers, Office Equipment",yes,no,no,no,6,no,no,no,12000,21663.4,"$6,362,000 ",0.7,1274,36,9818,George Kurian,U.S.,San Jose,California,Public
+550,Organon,OGN,Health Care,Pharmaceuticals,yes,no,no,no,18,no,no,no,10000,4806,"$6,263,000 ",1.4,1023,11.6,12058,Kevin Ali,U.S.,Jersey City,New Jersey,Public
+551,Petco Health and Wellness,WOOF,Retailing,Specialty Retailers: Other,no,no,no,no,20,no,no,no,29000,698.3,"$6,255 ",3.6,-1280.2,-1509.9,5363.2,Joel D. Anderson,U.S.,San Diego,California,Public
+552,Regal Rexnord,RRX,Industrials,"Electronics, Electrical Equip.",no,no,no,yes,79,no,no,no,32100,11977.1,"$6,251 ",19.8,-57.4,-111.7,15431.4,Louis V. Pinkham,U.S.,Milwaukee,Wisconsin,Public
+553,Resideo Technologies,REZI,Materials,"Building Materials, Glass",yes,no,no,no,-7,no,no,no,14000,3258,"$6,242,000 ",-2,210,-25.8,6645,Jay L. Geldmacher,U.S.,Scottsdale,Arizona,Public
+554,Camping World Holdings,CWH,Retailing,"Automotive Retailing, Services",yes,no,no,no,-38,no,no,no,12459,2354.4,"$6,227 ",-10.6,31,-77.3,4845.7,Marcus A. Lemonis,U.S.,Lincolnshire,Illinois,Public
+555,Huntsman,HUN,Chemicals,Chemicals,yes,no,no,no,-122,no,no,no,6000,4503.1,"$6,199,000 ",-28.9,101,-78,7248,Peter R. Huntsman,U.S.,The Woodlands,Texas,Public
+556,Victoria's Secret,VSCO,Retailing,Specialty Retailers: Apparel,yes,no,no,no,-6,no,no,no,21500,1503.4,"$6,182 ",-2.6,109.2,-68.6,4600,Hillary Super,U.S.,Reynoldsburg,Ohio,Public
+557,Levi Strauss,LEVI,Apparel,Apparel,yes,no,yes,yes,12,no,no,no,19100,7956.6,"$6,179,000 ",0.2,249.6,-56.1,6053.6,Michelle  Gass,U.S.,San Francisco,California,Public
+558,Roper Technologies,ROP,Technology,Computer Software,yes,no,no,yes,49,no,no,no,16800,60022.4,"$6,178 ",12.9,1384.2,-69.5,28167.5,L. Neil Hunn,U.S.,Sarasota,Florida,Public
+559,Academy Sports and Outdoors,ASO,Retailing,Specialty Retailers: Other,yes,no,no,yes,-15,no,no,no,16509,5025.3,"$6,159 ",-3.7,519.2,-17.3,4676.7,Steven P. Lawrence,U.S.,Katy,Texas,Public
+560,Meritage Homes,MTH,Engineering & Construction,Homebuilders,yes,no,no,no,-3,no,no,no,1838,6346.3,"$6,138 ",-2.4,738.7,-25.5,6353.1,Phillippe Lord,U.S.,Scottsdale,Arizona,Public
+561,American Axle & Manufacturing,AXL,Motor Vehicles & Parts,Motor Vehicles & Parts,no,no,no,no,27,no,no,no,19000,865.1,"$6,080 ",4.8,-33.6,-152.3,5356.3,David C. Dauch,U.S.,Detroit,Michigan,Public
+562,Fortive,FTV,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,25,no,no,no,18000,30225.7,"$6,065 ",4.1,865.8,14.6,16911.8,James A. Lico,U.S.,Everett,Washington,Public
+563,Nasdaq,NDAQ,Financials,Securities,yes,no,yes,yes,-4,no,no,no,8525,36295.5,"$6,064,000 ",-2.6,1059,-5.9,32294,Adena T. Friedman,U.S.,New York,New York,Public
+564,Broadridge Financial Solutions,BR,Business Services,Financial Data Services,yes,no,no,yes,32,no,yes,no,14700,24126.8,"$6,061 ",6.2,630.6,17,8233.2,Timothy C. Gokey,U.S.,Lake Success,New York,Public
+565,Spirit AeroSystems Holdings,SPR,Aerospace & Defense,Aerospace & Defense,no,no,no,yes,80,no,no,no,20655,4192.2,"$6,048 ",20.2,-616.2,,6950.1,Patrick M. Shanahan,U.S.,Wichita,Kansas,Public
+566,Warner Music Group,WMG,Media,Entertainment,yes,no,no,no,15,no,yes,no,5900,17100.4,"$6,037,000 ",2,430,-22,8545,Robert Kyncl,U.S.,New York,New York,Public
+567,Chemours,CC,Chemicals,Chemicals,no,no,yes,no,-43,no,no,no,6200,3907.5,"$6,027,000 ",-11.3,-238,-141.2,8251,Denise  Dignam,U.S.,Wilmington,Delaware,Public
+568,ADT,ADT,Business Services,Diversified Outsourcing Services,yes,no,no,no,-25,no,no,no,14300,6117.7,"$6,018 ",-5.9,463,249,15964.1,James D. DeVries,U.S.,Boca Raton,Florida,Public
+569,Edwards Lifesciences,EW,Health Care,Medical Products and Equipment,yes,no,no,yes,48,no,no,no,19800,57520.1,"$6,005 ",11.6,1402.4,-7.9,9363.2,Bernard J. Zovighian,U.S.,Irvine,California,Public
+570,First American Financial,FAF,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,-89,no,no,yes,19210,6294.3,"$6,004 ",-21.1,216.8,-17.6,16802.8,Kenneth D. DeGiorgio,U.S.,Santa Ana,California,Public
+571,Hanover Insurance Group,THG,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,37,no,no,no,4800,4892.5,"$5,994 ",9.6,35.3,-69.6,14612.6,John C. Roche,U.S.,Worcester,Massachusetts,Public
+572,Silgan Holdings,SLGN,Materials,"Packaging, Containers",yes,no,no,no,-32,no,no,no,14400,5185,"$5,988 ",-6.6,326,-4.4,7611.2,Adam J. Greenlee,U.S.,Stamford,Connecticut,Public
+573,Endeavor Group Holdings,EDR,Media,Entertainment,yes,yes,no,no,53,no,no,no,10000,17817.4,"$5,960 ",13.1,356.5,176.1,21544.8,Ariel Emanuel,U.S.,Beverly Hills,California,Public
+574,Moody's,MCO,Business Services,Financial Data Services,yes,no,no,yes,36,no,yes,no,15151,71752.2,"$5,916,000 ",8.2,1607,17,14622,Robert S. Fauber,U.S.,New York,New York,Public
+575,Coterra Energy,CTRA,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-155,no,no,no,1083,20946,"$5,914,000 ",-34.7,1625,-60,20415,Thomas E. Jorden,U.S.,Houston,Texas,Public
+576,Gartner,IT,Technology,Information Technology Services,yes,no,no,yes,30,no,yes,no,20237,37165,"$5,907,000 ",7.9,882.5,9.2,7835.9,Eugene A. Hall,U.S.,Stamford,Connecticut,Public
+577,Under Armour,UAA,Apparel,Apparel,yes,yes,no,no,17,no,no,no,11078,3157.4,"$5,904 ",3.1,386.8,73.7,4857.1,Kevin A. Plank,U.S.,Baltimore,Maryland,Public
+578,Ingles Markets,IMKTA,Food & Drug Stores,Food & Drug Stores,yes,no,no,yes,20,no,no,no,19540,1456.5,"$5,893 ",3.8,210.8,-22.7,2473.8,James W. Lanning,U.S.,Black Mountain,North Carolina,Public
+579,Church & Dwight,CHD,Household Products,Household and Personal Products,yes,no,no,yes,39,no,no,no,5550,25441.7,"$5,868 ",9.2,755.6,82.6,8569.2,Matthew T. Farrell,U.S.,Ewing,New Jersey,Public
+580,Old Dominion Freight Line,ODFL,Transportation,"Trucking, Truck Leasing",yes,no,no,no,-22,no,no,no,22902,47738.1,"$5,866 ",-6.3,1239.5,-10,5512.4,Kevin M. Freeman,U.S.,Thomasville,North Carolina,Public
+581,U-Haul Holding,UHAL,Transportation,"Trucking, Truck Leasing",yes,no,no,yes,12,no,no,no,26501,13091.3,"$5,865 ",2.2,923,-17.8,18124.6,Edward J. Shoen,U.S.,Reno,Nevada,Public
+582,Oscar Health,OSCR,Health Care,Health Care: Insurance and Managed Care,no,no,no,no,164,no,no,no,2400,3416,"$5,863 ",47.9,-270.7,,3601.5,Mark T. Bertolini,U.S.,New York,New York,Public
+583,Arista Networks,ANET,Technology,Network and Other Communications Equipment,yes,no,yes,yes,126,no,no,no,4023,90657.5,"$5,860 ",33.8,2087.3,54.3,9946.8,Jayshree V. Ullal,U.S.,Santa Clara,California,Public
+584,Synopsys,SNPS,Technology,Computer Software,yes,no,no,yes,58,no,no,no,20300,87178.7,"$5,843 ",15,1229.9,24.9,10333.1,Sassine Ghazi,U.S.,Sunnyvale,California,Public
+585,Harley-Davidson,HOG,Transportation,Transportation Equipment,yes,no,no,yes,7,no,no,no,6400,5973.3,"$5,837 ",1.4,706.6,-4.7,12140.6,Jochen Zeitz,U.S.,Milwaukee,Wisconsin,Public
+586,Frontier Communications,FYBR,Telecommunications,Telecommunications,yes,no,no,no,4,no,no,no,13297,6022.6,"$5,751,000 ",-0.6,29,-93.4,20693,Nick Jeffery,U.S.,Dallas,Texas,Public
+587,Primoris Services,PRIM,Engineering & Construction,Engineering & Construction,yes,no,no,yes,114,no,no,no,14058,2282.6,"$5,715 ",29.3,126.1,-5.2,3827.4,Thomas E. McCormick,U.S.,Dallas,Texas,Public
+588,Carlisle,CSL,Materials,"Building Materials, Glass",yes,no,no,no,-58,no,no,no,11100,18732,"$5,700 ",-13.5,767.4,-16.9,6620,D. Christian Koch,U.S.,Scottsdale,Arizona,Public
+589,Simon Property Group,SPG,Financials,Real estate,yes,no,no,no,35,no,yes,no,2750,50980.3,"$5,659 ",6.9,2283.1,6.7,34283.5,David E. Simon,U.S.,Indianapolis,Indiana,Public
+590,Hanesbrands,HBI,Apparel,Apparel,no,no,no,no,-39,no,no,no,47520,2039,"$5,637 ",-11,-17.7,,5640.3,Stephen B. Bratspies,U.S.,Winston-Salem,North Carolina,Public
+591,Anywhere Real Estate,HOUS,Financials,Real estate,no,no,no,no,-74,no,no,no,8028,686.5,"$5,636,000 ",-18.4,-97,,5839,Ryan M. Schneider,U.S.,Madison,New Jersey,Public
+592,Teledyne Technologies,TDY,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,19,no,no,no,14900,20341.7,"$5,636 ",3.2,885.7,12.3,14527.9,Edwin Roks,U.S.,Thousand Oaks,California,Public
+593,CME Group,CME,Financials,Securities,yes,no,no,yes,53,no,no,no,3565,77510.5,"$5,579 ",11.1,3226.2,19.9,129706.1,Terrence A. Duffy,U.S.,Chicago,Illinois,Public
+594,Juniper Networks,JNPR,Technology,Network and Other Communications Equipment,yes,no,no,yes,29,no,no,no,11144,12021.6,"$5,565 ",5,310.2,-34.1,9518.5,Rami Rahim,U.S.,Sunnyvale,California,Public
+595,Coty,COTY,Household Products,Household and Personal Products,yes,no,yes,yes,27,no,no,no,11350,10706.2,"$5,554 ",4.7,508.2,95.8,12661.6,Sue Y. Nabi,U.S.,New York,New York,Public
+596,Pool,POOL,Wholesalers,Wholesalers: Diversified,yes,no,no,no,-30,no,no,no,6100,15528.9,"$5,542 ",-10.3,523.2,-30.1,3428.1,Peter D. Arvan,U.S.,Covington,Louisiana,Public
+597,Evergy,EVRG,Energy,Utilities: Gas and Electric,yes,no,no,yes,-13,no,no,no,4658,12263.8,"$5,508 ",-6,731.3,-2.8,30976.1,David A. Campbell,U.S.,Kansas City,Missouri,Public
+598,Marvell Technology,MRVL,Technology,Semiconductors and Other Electronic Components,no,no,no,no,-18,no,no,no,6544,61382.1,"$5,508 ",-7,-933.4,,21228.5,Matthew J. Murphy,U.S.,Wilmington,Delaware,Public
+599,NiSource,NI,Energy,Utilities: Gas and Electric,yes,no,no,yes,-13,no,no,no,7388,12378.5,"$5,505 ",-5.9,714.3,-11.2,31077.2,Lloyd M. Yates,U.S.,Merrillville,Indiana,Public
+600,SS&C Technologies Holdings,SSNC,Technology,Computer Software,yes,yes,no,no,25,no,no,no,26600,15907.2,"$5,503 ",4.2,607.1,-6.6,18102.5,William C. Stone,U.S.,Windsor,Connecticut,Public
+601,Schneider National,SNDR,Transportation,Transportation and Logistics,yes,no,no,yes,-72,no,no,no,17300,3992.5,"$5,499 ",-16.7,238.5,-47.9,4557.2,Mark B. Rourke,U.S.,Green Bay,Wisconsin,Public
+602,Autodesk,ADSK,Technology,Computer Software,yes,no,no,no,46,no,no,no,13700,55707.8,"$5,497,000 ",9.8,906,10.1,9912,Andrew Anagnost,U.S.,San Francisco,California,Public
+603,Sealed Air,SEE,Materials,"Packaging, Containers",yes,no,no,yes,-3,no,no,no,17000,5375.2,"$5,489 ",-2.7,341.6,-30.5,7200.6,Patrick Kivits,U.S.,Charlotte,North Carolina,Public
+604,Iron Mountain,IRM,Business Services,Diversified Outsourcing Services,yes,no,no,yes,37,no,no,no,27000,23443.4,"$5,480 ",7.4,184.2,-66.9,17473.8,William L. Meaney,U.S.,Portsmouth,New Hampshire,Public
+605,Digital Realty Trust,DLR,Financials,Real estate,yes,no,no,yes,68,no,no,no,3664,44982.8,"$5,477 ",16.7,948.8,151.2,44113.3,Andrew P. Power,U.S.,Austin,Texas,Public
+606,Keysight Technologies,KEYS,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,no,8,no,no,no,14900,27297,"$5,464,000 ",0.8,1057,-6,8683,Satish Dhanasekaran,U.S.,Santa Rosa,California,Public
+607,Globe Life,GL,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,25,no,no,no,3636,10943.1,"$5,448 ",4.5,970.8,31.2,28051.5,Frank M. Svoboda,U.S.,McKinney,Texas,Public
+608,Parsons,PSN,Aerospace & Defense,Aerospace & Defense,yes,no,yes,yes,115,no,no,no,18500,8778.6,"$5,443 ",29.7,161.1,66.7,4804.1,Carey A. Smith,U.S.,Chantilly,Virginia,Public
+609,Mattel,MAT,Household Products,"Toys, Sporting Goods",yes,no,no,no,3,no,no,no,33000,6814.6,"$5,441 ",0.1,214.4,-45.6,6435.8,Ynon Kreiz,U.S.,El Segundo,California,Public
+610,Southwest Gas Holdings,SWX,Energy,Utilities: Gas and Electric,yes,no,yes,yes,43,no,no,no,14943,5453.5,"$5,434,000 ",9.6,150.9,,11869.9,Karen S. Haller,U.S.,Las Vegas,Nevada,Public
+611,CUNA Mutual Group (TruStage),,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,24,no,no,no,4100,,"$5,426 ",4.3,139.7,-59.3,44970.3,Terrance  Williams,U.S.,Madison,Wisconsin,Private
+612,Clean Harbors,CLH,Business Services,Waste Management,yes,no,no,yes,25,no,no,no,21280,10858.8,"$5,409 ",4.7,377.9,-8.2,6382.9,Eric W. Gerstenberg,U.S.,Norwell,Massachusetts,Public
+613,Cornerstone Building Brands,,Materials,"Building Materials, Glass",no,no,yes,no,-75,no,no,no,17600,,"$5,402 ",-16.6,-75.5,-118,6933.3,Rose Lee,U.S.,Cary,North Carolina,Private
+614,Hubbell,HUBB,Industrials,"Electronics, Electrical Equip.",yes,no,no,yes,37,no,no,no,18317,22281,"$5,373 ",8,759.8,39.2,6914,Gerben W. Bakker,U.S.,Shelton,Connecticut,Public
+615,Spirit Airlines,SAVE,Transportation,Airlines,no,no,no,yes,28,no,no,no,13167,529.9,"$5,363 ",5.8,-447.5,,9417.2,Edward M. Christie III,U.S.,Miramar,Florida,Public
+616,Lamb Weston Holdings,LW,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,117,no,no,no,10300,15380,"$5,351 ",30.5,1008.9,402.2,6519.8,Thomas P. Werner,U.S.,Eagle,Idaho,Public
+617,Take-Two Interactive Software,TTWO,Media,Entertainment,no,no,no,yes,201,no,no,no,11580,25330.4,"$5,350 ",52.6,-1124.7,-369.1,15862.1,Strauss H. Zelnick,U.S.,New York,New York,Public
+618,GMS,GMS,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,60,no,no,no,7007,3877.4,"$5,329 ",15,333,21.8,3267,John C. Turner Jr.,U.S.,Tucker,Georgia,Public
+619,Penn Mutual Life Insurance,,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,70,no,no,no,3370,,"$5,319 ",16.4,201,12,46740.7,David M. O'Malley,U.S.,Horsham,Pennsylvania,Private
+620,Landstar System,LSTR,Transportation,"Trucking, Truck Leasing",yes,no,no,yes,-131,no,no,no,1468,6893.5,"$5,314 ",-28.6,264.4,-38.6,1801.8,Frank A. Lonegro,U.S.,Jacksonville,Florida,Public
+621,Host Hotels & Resorts,HST,Financials,Real estate,yes,no,no,no,35,no,no,no,163,14550.9,"$5,311,000 ",8.2,740,16.9,12243,James F. Risoleo,U.S.,Bethesda,Maryland,Public
+622,Fortinet,FTNT,Technology,Computer Software,yes,yes,no,yes,81,no,no,no,13568,52122.6,"$5,305 ",20.1,1147.8,33.9,7258.9,Ken Xie,U.S.,Sunnyvale,California,Public
+623,OneMain Holdings,OMF,Financials,Diversified Financials,yes,no,no,no,21,no,no,no,9100,6118.8,"$5,299,000 ",4.6,641,-27,24294,Douglas H. Shulman,U.S.,Evansville,Indiana,Public
+624,GameStop,GME,Retailing,Specialty Retailers: Other,yes,no,no,no,-47,no,no,no,15750,3829.5,"$5,273 ",-11,6.7,,2709,Ryan Cohen,U.S.,Grapevine,Texas,Public
+625,Equifax,EFX,Business Services,Financial Data Services,yes,no,no,yes,15,no,no,no,14900,33234.3,"$5,265 ",2.8,545.3,-21.7,12280,Mark W. Begor,U.S.,Atlanta,Georgia,Public
+626,American Eagle Outfitters,AEO,Retailing,Specialty Retailers: Apparel,yes,no,no,yes,23,no,no,no,26700,5084.7,"$5,262 ",5.4,170,35.9,3557.9,Jay L. Schottenstein,U.S.,Pittsburgh,Pennsylvania,Public
+627,Comerica,CMA,Financials,Commercial Banks,yes,no,no,yes,158,no,no,no,7701,7285.6,"$5,253,000 ",40.5,881,-23.5,85834,Curtis C. Farmer,U.S.,Dallas,Texas,Public
+628,Greif,GEF,Materials,"Packaging, Containers",yes,no,no,no,-79,no,no,no,12000,3263.7,"$5,219 ",-17.8,359.2,-4.6,5960.8,Ole G. Rosgaard,U.S.,Delaware,Ohio,Public
+629,Comfort Systems USA,FIX,Engineering & Construction,Engineering & Construction,yes,no,no,yes,99,no,no,no,15800,11337.4,"$5,207 ",25.8,323.4,31.5,3305.6,Brian E. Lane,U.S.,Houston,Texas,Public
+630,TopBuild,BLD,Engineering & Construction,Engineering & Construction,yes,no,no,yes,17,no,no,no,14012,14021.8,"$5,195 ",3.7,614.3,10.5,5162.9,Robert M. Buck,U.S.,Daytona Beach,Florida,Public
+631,Bread Financial Holdings,BFH,Business Services,Financial Data Services,yes,no,no,no,83,no,no,no,7000,1840.6,"$5,168,000 ",19.4,718,222,23141,Ralph J. Andretta,U.S.,Columbus,Ohio,Public
+632,Coherent,COHR,Technology,Semiconductors and Other Electronic Components,no,no,no,yes,216,no,no,no,26622,9202.9,"$5,160 ",55.6,-259.5,-210.5,13711.1,Vincent D. Mattera Jr.,U.S.,Saxonburg,Pennsylvania,Public
+633,Telephone & Data Systems,TDS,Telecommunications,Telecommunications,no,no,no,no,-18,no,no,no,8800,1810.3,"$5,160,000 ",-4.7,-500,-906.5,13921,LeRoy T. Carlson Jr.,U.S.,Chicago,Illinois,Public
+634,Stifel Financial,SF,Financials,Securities,yes,no,no,no,52,no,no,no,9000,8035.6,"$5,159 ",12.3,522.5,-21.1,37727.5,Ronald J. Kruszewski,U.S.,St. Louis,Missouri,Public
+635,Urban Outfitters,URBN,Retailing,Specialty Retailers: Apparel,yes,yes,no,yes,31,no,no,no,19460,4028.8,"$5,153 ",7.5,287.7,80.1,4111.2,Richard A. Hayne,U.S.,Philadelphia,Pennsylvania,Public
+636,Terex,TEX,Industrials,Construction and Farm Machinery,yes,no,no,yes,66,no,no,no,10200,4314.8,"$5,152 ",16.6,518,72.7,3615.5,Simon  Meester,U.S.,Norwalk,Connecticut,Public
+637,Ryerson Holding,RYI,Materials,Metals,yes,no,no,yes,-83,no,no,no,4600,1139.6,"$5,109 ",-19.2,145.7,-62.7,2569.6,Edward J. Lehner,U.S.,Chicago,Illinois,Public
+638,Snap-on,SNA,Industrials,Industrial Machinery,yes,no,no,yes,23,no,no,no,13200,15651.8,"$5,108 ",5.5,1011.1,10.9,7544.9,Nicholas T. Pinchuk,U.S.,Kenosha,Wisconsin,Public
+639,Flowers Foods,FLO,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,25,no,no,no,9300,5001,"$5,091 ",5.9,123.4,-46,3427,A. Ryals McMullian,U.S.,Thomasville,Georgia,Public
+640,First Horizon,FHN,Financials,Commercial Banks,yes,no,no,no,181,no,no,no,7314,8546.1,"$5,027,000 ",43.7,897,-0.3,81661,D. Bryan Jordan,U.S.,Memphis,Tennessee,Public
+641,Paychex,PAYX,Business Services,Diversified Outsourcing Services,yes,no,no,yes,40,no,no,no,16600,44186.1,"$5,007 ",8.6,1557.3,11.8,10546.4,John B. Gibson,U.S.,Rochester,New York,Public
+642,Hasbro,HAS,Household Products,"Toys, Sporting Goods",no,no,no,no,-57,no,no,no,5502,7844.5,"$5,003 ",-14.6,-1489.3,-831.8,6540.9,Christian P. Cocks,U.S.,Pawtucket,Rhode Island,Public
+643,Sentry Insurance Group,,Financials,Insurance: Property and Casualty (Mutual),yes,no,no,yes,54,no,no,no,4507,,"$4,994 ",11.6,373,11.8,24980.9,Peter G. McPartland,U.S.,Stevens Point,Wisconsin,Private
+644,Ares Management,ARES,Financials,Securities,yes,yes,no,yes,139,no,no,no,2850,41170.7,"$4,992 ",33.4,474.3,183.1,24730.5,Michael J. Arougheti,U.S.,Los Angeles,California,Public
+645,Lennox International,LII,Industrials,Industrial Machinery,yes,no,no,no,25,no,no,no,12600,17393.3,"$4,982 ",5.6,590.1,18.7,2798.3,Alok Maskara,U.S.,Richardson,Texas,Public
+646,Peabody Energy,BTU,Energy,"Mining, Crude-Oil Production",yes,no,no,no,4,no,no,no,5400,3088.1,"$4,947 ",-0.7,759.6,-41.4,5962.1,James C. Grech,U.S.,St. Louis,Missouri,Public
+647,Kemper,KMPR,Financials,Insurance: Property and Casualty (Stock),no,no,no,no,-46,no,no,no,8100,3983.6,"$4,944 ",-11.3,-272.1,,12742.7,Joseph P. Lacher Jr.,U.S.,Chicago,Illinois,Public
+648,Nexstar Media Group,NXST,Media,Entertainment,yes,yes,no,yes,-15,no,no,no,12586,5759.4,"$4,933,000 ",-5.3,346,-64.4,12078,Perry A. Sook,U.S.,Irving,Texas,Public
+649,TelevisaUnivision,,Media,Entertainment,no,no,no,no,31,no,no,no,14000,,"$4,928,000 ",6.5,-873.6,,17297.8,Wade C. Davis,U.S.,New York,New York,Private
+650,Tempur Sealy International,TPX,Household Products,"Home Equipment, Furnishings",yes,no,no,no,5,no,no,no,12000,9864.7,"$4,925 ",0.1,368.1,-19.2,4553.9,Scott L. Thompson,U.S.,Lexington,Kentucky,Public
+651,TriNet Group,TNET,Business Services,Diversified Outsourcing Services,yes,no,no,no,7,no,no,no,3600,6699.7,"$4,922,000 ",0.8,375,5.6,3693,Mike  Simonds,U.S.,Dublin,California,Public
+652,Worthington Enterprises,WOR,Materials,Metals,yes,no,no,no,-23,no,no,no,8200,3111.2,"$4,916 ",-6.2,256.5,-32.4,3650.9,B. Andrew Rose,U.S.,Columbus,Ohio,Public
+653,Maximus,MMS,Technology,Information Technology Services,yes,no,no,yes,26,no,no,no,39600,5120.5,"$4,905 ",5.9,161.8,-20.6,3985.8,Bruce L. Caswell,U.S.,McLean,Virginia,Public
+654,Compass,COMP,Technology,Internet Services and Retailing,no,yes,no,no,-82,no,no,no,2549,1768.6,"$4,885,000 ",-18.8,-321.3,,1160.3,Robert L. Reffkin,U.S.,New York,New York,Public
+655,Brink's,BCO,Business Services,Diversified Outsourcing Services,yes,no,no,no,38,no,no,no,67100,4131.7,"$4,875 ",7.5,87.7,-48.6,6601.8,Mark Eubanks,U.S.,Richmond,Virginia,Public
+656,Kelly Services,KELYA,Business Services,Temporary Help,yes,no,no,no,-4,no,no,no,6200,883.5,"$4,836 ",-2.6,36.4,,2581.6,Peter W. Quigley,U.S.,Troy,Michigan,Public
+657,Navient,NAVI,Financials,Diversified Financials,yes,no,no,yes,107,no,no,no,4500,1961.8,"$4,828,000 ",25.8,228,-64.7,61375,David L. Yowan,U.S.,Herndon,Virginia,Public
+658,Puget Energy,,Energy,Utilities: Gas and Electric,yes,no,yes,yes,62,no,no,no,3340,,"$4,817 ",14.1,53.7,-87,17732.5,Mary E. Kipp,U.S.,Bellevue,Washington,Private
+659,AMC Entertainment Holdings,AMC,Media,Entertainment,no,no,no,yes,103,no,no,no,18347,979.4,"$4,813 ",23,-396.6,,9009.2,Adam M. Aron,U.S.,Leawood,Kansas,Public
+660,Encompass Health,EHC,Health Care,Health Care: Medical Facilities,yes,no,no,yes,-3,no,yes,no,30059,8269.6,"$4,801 ",-1.8,352,29.9,6102.4,Mark J. Tarr,U.S.,Birmingham,Alabama,Public
+661,Skyworks Solutions,SWKS,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-56,no,no,no,9701,17379.4,"$4,772 ",-13,982.8,-22.9,8426.7,Liam K. Griffin,U.S.,Irvine,California,Public
+662,Timken,TKR,Industrials,Industrial Machinery,yes,no,no,yes,34,no,no,no,19602,6154.1,"$4,769,000 ",6.1,394.1,-3.3,6541.7,Richard G. Kyle,U.S.,North Canton,Ohio,Public
+663,Liberty Energy,LBRT,Energy,"Oil and Gas Equipment, Services",yes,yes,no,yes,62,no,no,no,5500,3441.3,"$4,748 ",14.4,556.3,39.2,3033.6,Christopher A. Wright,U.S.,Denver,Colorado,Public
+664,Marriott Vacations Worldwide,VAC,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,11,no,yes,no,22000,3789.7,"$4,727,000 ",1.5,254,-35,9680,John E. Geller Jr.,U.S.,Orlando,Florida,Public
+665,Leggett & Platt,LEG,Household Products,"Home Equipment, Furnishings",no,no,no,no,-27,no,yes,no,19300,2562.4,"$4,725 ",-8.2,-136.8,-144.2,4634.5,J. Mitchell Dolloff,U.S.,Carthage,Missouri,Public
+666,Big Lots,BIG,Retailing,Specialty Retailers: Other,no,no,no,no,-57,no,no,no,21150,126.5,"$4,722 ",-13.6,-481.9,,3325.3,Bruce K. Thorn,U.S.,Columbus,Ohio,Public
+667,Weis Markets,WMK,Food & Drug Stores,Food & Drug Stores,yes,no,no,no,5,no,no,no,23000,1732.3,"$4,697,000 ",,103.8,-17.1,2039.6,Jonathan H. Weis,U.S.,Sunbury,Pennsylvania,Public
+668,Pinnacle West Capital,PNW,Energy,Utilities: Gas and Electric,yes,no,no,yes,47,no,no,no,6133,9215.1,"$4,696,000 ",8.6,501.6,3.7,24661.2,Jeffrey B Guldner,U.S.,Phoenix,Arizona,Public
+669,EPAM Systems,EPAM,Technology,Information Technology Services,yes,yes,no,no,-6,no,no,no,53150,15969.6,"$4,691 ",-2.8,417.1,-0.6,4352.4,Arkadiy Dobkin,U.S.,Newtown,Pennsylvania,Public
+670,Antero Resources,AR,Energy,"Mining, Crude-Oil Production",yes,yes,no,yes,-166,no,no,no,604,8803.5,"$4,682,000 ",-34.4,242.9,-87.2,13619.4,Paul M. Rady,U.S.,Denver,Colorado,Public
+671,Bloomin' Brands,BLMN,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,no,33,no,no,no,87000,2497.2,"$4,672 ",5.8,247.4,142.8,3424.1,David J. Deno,U.S.,Tampa,Florida,Public
+672,MDU Resources Group,MDU,Energy,Energy,yes,no,yes,no,-157,no,no,no,9145,5138,"$4,657 ",-33.2,414.7,12.8,7833.2,Nicole A. Kivisto,U.S.,Bismarck,North Dakota,Public
+673,MDC Holdings,,Engineering & Construction,Homebuilders,yes,no,no,yes,-78,no,no,no,1760,4721.3,"$4,643 ",-18.8,401,-28.7,5631.1,David D. Mandarich,U.S.,Denver,Colorado,Private
+674,Texas Roadhouse,TXRH,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,yes,66,no,no,no,91000,10322.9,"$4,632 ",15.4,304.9,13,2793.4,Gerald L. Morgan,U.S.,Louisville,Kentucky,Public
+675,Mercury General,MCY,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,121,no,no,no,4100,2857.2,"$4,630 ",27.1,96.3,,7103.4,Gabriel Tirador,U.S.,Los Angeles,California,Public
+676,Fortune Brands Innovations,FBIN,Materials,"Building Materials, Glass",yes,no,no,yes,-207,no,no,no,11700,10643.1,"$4,626 ",-41.6,404.5,-41.1,6565,Nicholas I. Fink,U.S.,Deerfield,Illinois,Public
+677,Zions Bancorp.,ZION,Financials,Commercial Banks,yes,no,no,no,168,no,no,no,9679,6405.8,"$4,624,000 ",38.6,680,-25,87203,Paul E. Burdiss,U.S.,Salt Lake City,Utah,Public
+678,JELD-WEN Holding,JELD,Materials,"Building Materials, Glass",yes,no,no,no,-39,no,no,no,17700,1825.2,"$4,606 ",-10.2,62.4,36.6,2980.1,William J. Christensen,U.S.,Charlotte,North Carolina,Public
+679,Snap,SNAP,Technology,Internet Services and Retailing,no,yes,no,yes,5,no,no,no,5289,18949.2,"$4,606 ",0.1,-1322.5,,7967.8,Evan Spiegel,U.S.,Santa Monica,California,Public
+680,Zebra Technologies,ZBRA,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-89,no,no,no,9750,15493.3,"$4,584,000 ",-20.7,296,-36.1,7306,William J. Burns,U.S.,Lincolnshire,Illinois,Public
+681,Agilon Health,AGL,Health Care,Health Care: Pharmacy and Other Services,no,no,no,yes,260,no,no,no,1117,2498.2,"$4,583 ",69.2,-262.6,,1740.9,Steven J. Sell,U.S.,Austin,Texas,Public
+682,Toro,TTC,Industrials,Construction and Farm Machinery,yes,no,no,no,12,no,yes,no,10706,9566.8,"$4,553 ",0.9,329.7,-25.6,3644.3,Richard M. Olson,U.S.,Bloomington,Minnesota,Public
+683,Zoom Video Communications,ZM,Technology,Computer Software,yes,yes,no,no,24,no,yes,no,7420,20105.2,"$4,527 ",3.1,637.5,514.7,9929.8,Eric S. Yuan,U.S.,San Jose,California,Public
+684,Tetra Tech,TTEK,Engineering & Construction,Engineering & Construction,yes,no,no,yes,135,no,no,no,27000,9875.8,"$4,523 ",29.1,273.4,3.9,3820.5,Dan L. Batrack,U.S.,Pasadena,California,Public
+685,Public Storage,PSA,Financials,Real estate,yes,no,no,yes,39,no,no,no,6200,50964.6,"$4,518 ",8,2148.3,-50.6,19809.2,Joseph D. Russell Jr.,U.S.,Glendale,California,Public
+686,Illumina,ILMN,Technology,"Scientific,Photographic and  Control Equipment",no,no,no,no,1,no,no,no,11490,21820.1,"$4,504,000 ",-1.7,-1161,,10111,Jacob Thaysen,U.S.,San Diego,California,Public
+687,Ventas,VTR,Financials,Real estate,no,no,yes,yes,43,no,no,no,486,17523.2,"$4,498 ",8.9,-41,,24725.4,Debra A. Cafaro,U.S.,Chicago,Illinois,Public
+688,FMC,FMC,Chemicals,Chemicals,yes,no,no,no,-99,no,no,no,6600,7950.8,"$4,487 ",-22.7,1321.5,79.4,11926.2,Pierre R. Brondeau,U.S.,Philadelphia,Pennsylvania,Public
+689,ArcBest,ARCB,Transportation,"Trucking, Truck Leasing",yes,no,yes,no,-68,no,no,no,15000,3349.3,"$4,483 ",-15.8,195.4,-34.5,2485.1,Judy R. McReynolds,U.S.,Fort Smith,Arkansas,Public
+690,Domino's Pizza,DPZ,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,yes,2,no,no,no,8850,17305.7,"$4,479 ",-1.3,519.1,14.8,1674.9,Russell J. Weiner,U.S.,Ann Arbor,Michigan,Public
+691,ASGN,ASGN,Business Services,Diversified Outsourcing Services,yes,no,no,no,-3,no,no,no,15450,4871.3,"$4,451 ",-2.8,219.3,-18.2,3544.6,Theodore S. Hanson,U.S.,Glen Allen,Virginia,Public
+692,Rivian Automotive,RIVN,Motor Vehicles & Parts,Motor Vehicles & Parts,no,yes,no,yes,0,no,no,no,16790,10703.1,"$4,434,000 ",167.4,-5432,,16778,Robert J. Scaringe,U.S.,Irvine,California,Public
+693,Elanco Animal Health,ELAN,Health Care,Pharmaceuticals,no,no,no,yes,12,no,no,no,9800,8025.6,"$4,417,000 ",0.1,-1231,,14362,Jeffrey N. Simmons,U.S.,Greenfield,Indiana,Public
+694,Graham Holdings,GHC,Business Services,Education,yes,no,no,yes,61,no,no,no,17006,3421.6,"$4,415 ",12.5,205.3,206,7187.7,Timothy J. O?Shaughnessy,U.S.,Arlington,Virginia,Public
+695,Floor & Decor Holdings,FND,Retailing,Specialty Retailers: Other,yes,no,no,yes,23,no,no,no,11320,13870.7,"$4,414 ",3.5,246,-17.5,4662.6,Thomas V. Taylor,U.S.,Atlanta,Georgia,Public
+696,Applied Industrial Technologies,AIT,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,74,no,no,no,6200,7639.2,"$4,413 ",15.8,346.7,34.7,2743.3,Neil A. Schrimsher,U.S.,Cleveland,Ohio,Public
+697,PriceSmart,PSMT,Retailing,General Merchandisers,yes,yes,no,yes,40,no,no,no,11000,2563.3,"$4,412 ",8.5,109.2,4.5,2005.6,Robert E. Price,U.S.,San Diego,California,Public
+698,Lyft,LYFT,Technology,Internet Services and Retailing,no,no,no,no,36,no,no,no,2945,7736.3,"$4,404 ",7.5,-340.3,,4564.5,John David Risher,U.S.,San Francisco,California,Public
+699,Ciena,CIEN,Technology,Network and Other Communications Equipment,yes,no,no,yes,98,no,no,no,8398,7150.6,"$4,387 ",20.8,254.8,66.7,5601.5,Gary B. Smith,U.S.,Hanover,Maryland,Public
+700,IAC,IAC,Technology,Internet Services and Retailing,yes,no,no,no,-70,no,no,no,9500,4585.4,"$4,365 ",-16.6,265.9,,10371.2,Joseph M. Levin,U.S.,New York,New York,Public
+701,Country Financial,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,59,no,no,no,3275,,"$4,358 ",11.4,-65.4,-129.5,17272.8,Jim Jacobs,U.S.,Bloomington,Illinois,Private
+702,Western Union,WU,Business Services,Financial Data Services,yes,no,no,yes,-4,no,no,no,9000,4783.9,"$4,357,000 ",-2.6,626,-31.3,8198.8,Devin B. McGranahan,U.S.,Denver,Colorado,Public
+703,Flowserve,FLS,Industrials,Industrial Machinery,yes,no,no,no,97,no,no,no,16000,5994.4,"$4,321 ",19.5,186.7,-1,5108.7,R. Scott Rowe,U.S.,Irving,Texas,Public
+704,Western Alliance Bancorp.,WAL,Financials,Commercial Banks,yes,no,no,no,187,no,no,no,3260,7072.5,"$4,316,000 ",43.1,722.4,-31.7,70862,Kenneth A. Vecchione,U.S.,Phoenix,Arizona,Public
+705,Option Care Health,OPCH,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,no,45,no,no,no,6806,5819.1,"$4,302 ",9.1,267.1,77.4,3217,John C. Rademacher,U.S.,Bannockburn,Illinois,Public
+706,SiteOne Landscape Supply,SITE,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,35,no,no,no,7585,7887.3,"$4,301 ",7.1,173.4,-29.3,2828.9,Doug Black,U.S.,Roswell,Georgia,Public
+707,Topgolf Callaway Brands,MODG,"Hotels, Restaurants & Leisure","Toys, Sporting Goods",yes,no,no,no,36,no,no,no,32000,2968.8,"$4,285 ",7.2,95,-39.8,9120.6,Oliver G. Brewer III,U.S.,Carlsbad,California,Public
+708,eXp World Holdings,EXPI,Financials,Real estate,no,yes,no,yes,-23,no,no,no,2114,1569.7,"$4,281 ",-6.9,-9,-158.1,385.7,Glenn Sanford,U.S.,Bellingham,Washington,Public
+709,Abercrombie & Fitch,ANF,Retailing,Specialty Retailers: Apparel,yes,no,yes,yes,80,no,no,no,19200,6317.3,"$4,281 ",15.8,328.1,11552.1,2974.2,Fran Horowitz,U.S.,New Albany,Ohio,Public
+710,Atmos Energy,ATO,Energy,Utilities: Gas and Electric,yes,no,no,yes,12,no,no,no,5019,17930.3,"$4,275 ",1.8,885.9,14.4,22517,John K. Akers,U.S.,Dallas,Texas,Public
+711,Catalent,CTLT,Health Care,Pharmaceuticals,no,no,no,no,-49,no,no,no,17800,10202.6,"$4,263,000 ",-11.2,-256,-153,10777,Alessandro Maselli,U.S.,Somerset,New Jersey,Public
+712,Brown & Brown,BRO,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,95,no,no,no,16152,24978.7,"$4,257 ",19.1,870.5,29.6,14883.4,J. Powell Brown,U.S.,Daytona Beach,Florida,Public
+713,GoDaddy,GDDY,Technology,Internet Services and Retailing,yes,no,no,no,22,no,no,no,6159,16909.3,"$4,254 ",4,1374.8,290.3,7564.9,Aman Bhutani,U.S.,Tempe,Arizona,Public
+714,American Water Works,AWK,Energy,Utilities: Gas and Electric,yes,no,yes,no,60,no,no,no,6500,23809.2,"$4,234,000 ",11.7,944,15.1,30298,M. Susan Hardwick,U.S.,Camden,New Jersey,Public
+715,Selective Insurance Group,SIGI,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,95,no,no,no,2650,6636.6,"$4,232 ",18.9,365.2,62.4,11802.5,John J. Marchioni,U.S.,Branchville,New Jersey,Public
+716,Brown-Forman,BF.B,"Food, Beverages & Tobacco",Beverages,yes,no,no,yes,35,no,no,no,5600,24616.6,"$4,228,000 ",7.5,783,-6.6,7777,Lawson E. Whiting,U.S.,Louisville,Kentucky,Public
+717,Advantage Solutions,ADV,Business Services,"Advertising, marketing",no,no,no,no,21,no,no,no,45000,1387.4,"$4,225 ",4.3,-63.3,,3779.3,David Peacock,U.S.,Irvine,California,Public
+718,ResMed,RMD,Health Care,Medical Products and Equipment,yes,no,no,yes,86,no,no,no,10140,29086.8,"$4,223,000 ",18,897.6,15.2,6751.7,Michael J. Farrell,U.S.,San Diego,California,Public
+719,Splunk,,Technology,Computer Software,yes,no,no,no,76,no,no,no,7500,,"$4,216 ",15.4,263.7,,6687.4,Gary Steele,U.S.,San Francisco,California,Private
+720,Plexus,PLXS,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,49,no,no,no,25000,2618.1,"$4,210 ",10.5,139.1,0.6,3321.2,Todd P. Kelsey,U.S.,Neenah,Wisconsin,Public
+721,Hub Group,HUBG,Transportation,Transportation and Logistics,yes,no,no,yes,-101,no,no,no,5950,2715.4,"$4,203 ",-21.3,167.5,-53.1,2936,Phillip D. Yeager,U.S.,Oak Brook,Illinois,Public
+722,Lincoln Electric Holdings,LECO,Industrials,Industrial Machinery,yes,no,no,no,55,no,no,no,12000,14515.4,"$4,192 ",11.4,545.2,15.5,3377.3,Steven B. Hedlund,U.S.,Cleveland,Ohio,Public
+723,NCR Atleos,NATL,Business Services,Financial Data Services,no,no,no,no,0,no,no,no,20000,1424,"$4,191,000 ",,-134,,5741,Timothy C. Oliver,U.S.,Atlanta,Georgia,Public
+724,Calumet,CLMT,Energy,Petroleum Refining,yes,no,no,yes,-50,no,no,no,1580,1192.1,"$4,181,000 ",-10.8,48.1,,2751.3,Todd Borgmann,U.S.,Indianapolis,Indiana,Public
+725,Dycom Industries,DY,Engineering & Construction,Engineering & Construction,yes,no,no,yes,46,no,no,no,15611,4175.5,"$4,176 ",9.6,218.9,53.9,2516.9,Steven E. Nielsen,U.S.,Palm Beach Gardens,Florida,Public
+726,Valmont Industries,VMI,Materials,Metals,yes,no,no,no,-15,no,no,no,11125,4607.7,"$4,175 ",-3.9,150.8,-39.9,3477.4,Avner M. Applbaum,U.S.,Omaha,Nebraska,Public
+727,ATI,ATI,Materials,Metals,yes,no,yes,yes,38,no,no,no,7300,6367.6,"$4,174 ",8.8,410.8,213.8,4985.1,Kimberly A. Fields,U.S.,Dallas,Texas,Public
+728,Twilio,TWLO,Technology,Internet Services and Retailing,no,no,no,no,39,no,no,no,5867,11133,"$4,154 ",8.6,-1015.4,,11609.7,Khozema Z. Shipchandler,U.S.,San Francisco,California,Public
+729,CNO Financial Group,CNO,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,77,no,no,no,3500,2985.6,"$4,147 ",15.9,276.5,-30.3,35102.5,Gary C. Bhojwani,U.S.,Carmel,Indiana,Public
+730,Patterson-UTI Energy,PTEN,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,221,no,no,no,10600,4873.8,"$4,147 ",56.6,246.3,59.2,7420,William A. Hendricks Jr.,U.S.,Houston,Texas,Public
+731,Brinker International,EAT,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,yes,42,no,no,no,64323,2197.2,"$4,133 ",8.7,102.6,-12.8,2487,Kevin D. Hochman,U.S.,Dallas,Texas,Public
+732,Charles River Laboratories International,CRL,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,yes,13,no,yes,no,21100,13956.8,"$4,129 ",3.9,474.6,-2.4,8195,James C. Foster,U.S.,Wilmington,Massachusetts,Public
+733,Hyster-Yale,HY,Industrials,Industrial Machinery,yes,no,no,yes,80,no,no,no,8600,1122.3,"$4,118 ",16.1,125.9,,2079.1,Rajiv K. Prasad,U.S.,Cleveland,Ohio,Public
+734,Brighthouse Financial,BHF,Financials,"Insurance: Life, Health (stock)",no,no,no,no,-286,no,no,no,1500,3240.9,"$4,117,000 ",-51.4,-1112,-22340,236340,Eric T. Steigerwalt,U.S.,Charlotte,North Carolina,Public
+735,Service Corp. International,SCI,Business Services,Miscellaneous,yes,no,no,no,-4,no,no,no,21267,10872.8,"$4,100 ",-0.2,537.3,-5,16355.4,Thomas L. Ryan,U.S.,Houston,Texas,Public
+736,CrossAmerica Partners,CAPL,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,-65,no,no,no,2521,865.6,"$4,091 ",-12.9,42.6,-33.1,1181.7,Charles M. Nifong Jr.,U.S.,Allentown,Pennsylvania,Public
+737,Cadence,CDNS,Technology,Computer Software,yes,no,no,yes,72,no,no,yes,11226,84855.2,"$4,090,000 ",14.8,1041.1,22.6,5669.5,Anirudh Devgan,U.S.,San Jose,California,Public
+738,MillerKnoll,MLKN,Household Products,"Home Equipment, Furnishings",yes,no,yes,no,11,no,no,no,10900,1803,"$4,087 ",3.6,42.1,,4274.8,Andrea R. Owen,U.S.,Zeeland,Michigan,Public
+739,Realty Income,O,Financials,Real estate,yes,no,no,yes,103,no,no,no,418,46586.8,"$4,079,000 ",22,872.3,0.3,57779.4,Sumit Roy,U.S.,San Diego,California,Public
+740,Middleby,MIDD,Industrials,Industrial Machinery,yes,no,no,no,-1,no,no,no,10722,8644.6,"$4,037 ",0.1,400.9,-8.2,6906.7,Timothy J. FitzGerald,U.S.,Elgin,Illinois,Public
+741,M/I Homes,MHO,Engineering & Construction,Homebuilders,yes,no,no,no,-12,no,no,no,1607,3789.8,"$4,034 ",-2.4,465.4,-5.2,4022.4,Robert H. Schottenstein,U.S.,Columbus,Ohio,Public
+742,Hologic,HOLX,Health Care,Medical Products and Equipment,yes,no,no,yes,-82,no,no,no,6990,18299.7,"$4,030 ",-17.1,456,-65,9139.3,Stephen P. MacMillan,U.S.,Marlborough,Massachusetts,Public
+743,Alliant Energy,LNT,Energy,Utilities: Gas and Electric,yes,no,yes,yes,-22,no,no,no,3281,12907.5,"$4,027,000 ",-4.2,703,2.5,21237,Lisa M. Barton,U.S.,Madison,Wisconsin,Public
+744,Generac Holdings,GNRC,Industrials,Industrial Machinery,yes,no,no,no,-54,no,no,no,8458,7602.4,"$4,023 ",-11.9,214.6,-46.3,5093.3,Aaron P. Jagdfeld,U.S.,Waukesha,Wisconsin,Public
+745,MSC Industrial Direct,MSM,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,45,no,no,no,7254,5463.4,"$4,009 ",8.6,343.2,1,2544.1,Erik Gershwind,U.S.,Melville,New York,Public
+746,Rocket Companies,RKT,Financials,Diversified Financials,no,no,no,no,-173,no,no,yes,14700,28891.1,"$4,006 ",-33.3,-15.5,-133.4,19231.7,Varun Krishna,U.S.,Detroit,Michigan,Public
+747,Upbound Group,UPBD,Retailing,Specialty Retailers: Other,no,no,no,yes,-28,no,no,no,12970,1916,"$3,992 ",-6,-5.2,-141.9,2721.4,Mitchell E. Fadel,U.S.,Plano,Texas,Public
+748,East West Bancorp,EWBC,Financials,Commercial Banks,yes,no,no,yes,209,no,no,no,3206,11077.8,"$3,989 ",52.3,1161.2,2.9,69612.9,Dominic Ng,U.S.,Pasadena,California,Public
+749,Hilton Grand Vacations,HGV,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,17,no,no,no,15000,4945,"$3,978,000 ",3.7,313,-11.1,8685,Mark D. Wang,U.S.,Orlando,Florida,Public
+750,Grocery Outlet Holding,GO,Food & Drug Stores,Food & Drug Stores,yes,no,no,yes,55,no,no,no,949,2855.8,"$3,970 ",10.9,79.4,22.1,2969.6,Robert J. Sheedy Jr.,U.S.,Emeryville,California,Public
+751,Dentsply Sirona,XRAY,Health Care,Medical Products and Equipment,no,no,no,no,6,no,no,no,15000,6882.4,"$3,965,000 ",1.1,-132,,7370,Simon D. Campion,U.S.,Charlotte,North Carolina,Public
+752,V2X,VVX,Aerospace & Defense,Aerospace & Defense,no,no,no,yes,155,no,no,no,16000,1469.2,"$3,963 ",37.1,-22.6,,3081.9,Jeremy Wensinger,U.S.,McLean,Virginia,Public
+753,Crocs,CROX,Apparel,Apparel,yes,no,no,yes,59,no,no,no,7030,8699.7,"$3,962 ",11.5,792.6,46.7,4643.8,Andrew Rees,U.S.,Broomfield,Colorado,Public
+754,Spectrum Brands Holdings,SPB,Household Products,Household and Personal Products,yes,no,no,no,-87,no,no,no,3100,2694.5,"$3,961 ",-17.2,1801.5,2416.1,5258.4,David M. Maura,U.S.,Middleton,Wisconsin,Public
+755,Visteon,VC,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,24,no,no,no,10000,3233.3,"$3,954,000 ",5.3,486,291.9,2727,Sachin S. Lawande,U.S.,Van Buren Township,Michigan,Public
+756,Acuity Brands,AYI,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-14,no,no,no,12200,8281.4,"$3,952 ",-1.3,346,-9.9,3408.5,Neil M. Ashe,U.S.,Atlanta,Georgia,Public
+757,Greenbrier,GBX,Transportation,Transportation Equipment,yes,no,yes,no,139,no,no,no,13800,1619.8,"$3,944,000 ",32.5,62.5,33.3,3978.4,Lorie L. Tekorius,U.S.,Lake Oswego,Oregon,Public
+758,Webster Financial,WBS,Financials,Commercial Banks,yes,no,no,no,181,no,no,no,4196,8709.8,"$3,943 ",44.7,867.8,34.7,74945.2,John R. Ciulla,U.S.,Stamford,Connecticut,Public
+759,Cabot,CBT,Chemicals,Chemicals,yes,no,no,yes,-43,no,no,no,4268,5110.7,"$3,931,000 ",-9,445,112.9,3604,Sean D. Keohane,U.S.,Boston,Massachusetts,Public
+760,RXO,RXO,Transportation,"Trucking, Truck Leasing",yes,no,no,no,-95,no,no,no,7242,2560.9,"$3,927,000 ",-18.1,4,-95.7,1825,Drew M. Wilkerson,U.S.,Charlotte,North Carolina,Public
+761,Chord Energy,CHRD,Energy,"Mining, Crude-Oil Production",yes,no,no,no,33,no,no,no,514,7404.7,"$3,897 ",6.6,1023.8,-44.8,6926.2,Daniel E. Brown,U.S.,Houston,Texas,Public
+762,Popular,BPOP,Financials,Commercial Banks,yes,no,no,yes,76,no,no,no,9088,6368.4,"$3,896,000 ",15.9,541.3,-50.9,70758.2,Ignacio Alvarez,U.S.,Hato Rey,Puerto Rico,Public
+763,Garrett Motion,GTX,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,38,no,no,no,8650,2263.4,"$3,886,000 ",7.9,261,-33.1,2527,Olivier Rabiller,U.S.,Plymouth,Michigan,Public
+764,Tutor Perini,TPC,Engineering & Construction,Engineering & Construction,no,no,no,yes,12,no,no,no,8200,752.3,"$3,880 ",2.4,-171.2,,4429.9,Ronald N. Tutor,U.S.,Sylmar,California,Public
+765,Copart,CPRT,Retailing,"Automotive Retailing, Services",yes,no,no,yes,55,no,no,no,12000,55687.9,"$3,870 ",10.5,1237.7,13.5,6737.9,Jeffrey Liaw,U.S.,Dallas,Texas,Public
+766,Toast,TOST,Business Services,Financial Data Services,no,yes,no,yes,171,no,no,no,5500,13656.2,"$3,865,000 ",41.5,-246,,1958,Aman Narang,U.S.,Boston,Massachusetts,Public
+767,Align Technology,ALGN,Health Care,Medical Products and Equipment,yes,no,no,no,19,no,no,no,21610,24628.1,"$3,862 ",3.4,445.1,23.1,6083.9,Joseph M. Hogan,U.S.,Tempe,Arizona,Public
+768,A.O. Smith,AOS,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,12,no,no,no,12000,13156.3,"$3,853 ",2.6,556.6,136.1,3213.9,Kevin J. Wheeler,U.S.,Milwaukee,Wisconsin,Public
+769,TransUnion,TRU,Business Services,Financial Data Services,no,no,no,yes,13,no,no,no,13200,15499.5,"$3,831 ",2.3,-206.2,-176.5,11105.1,Christopher A. Cartwright,U.S.,Chicago,Illinois,Public
+770,NCR Voyix,VYX,Technology,Computer Software,no,no,no,no,-296,no,no,no,15500,1822.4,"$3,830,000 ",-51.2,-423,-805,4990,David Wilkinson,U.S.,Atlanta,Georgia,Public
+771,Akamai Technologies,AKAM,Technology,Internet Services and Retailing,yes,yes,no,yes,28,no,no,no,10281,16663.3,"$3,812 ",5.4,547.6,4.6,9900,F. Thomson Leighton,U.S.,Cambridge,Massachusetts,Public
+772,Trimble,TRMB,Technology,"Electronics, Electrical Equip.",yes,no,no,yes,19,no,no,no,12700,15812.4,"$3,799 ",3.3,311.3,-30.8,9539.3,Robert G. Painter,U.S.,Westminster,Colorado,Public
+773,Medical Mutual of Ohio,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,yes,50,no,no,no,3084,,"$3,796 ",8.7,65.9,103.6,2787.4,Steven C. Glass,U.S.,Cleveland,Ohio,Private
+774,AMN Healthcare Services,AMN,Health Care,Health Care: Pharmacy and Other Services,yes,no,yes,no,-146,no,no,no,3585,2368.4,"$3,789 ",-27.7,210.7,-52.6,2924.4,Caroline S. Grace,U.S.,Dallas,Texas,Public
+775,Mettler-Toledo International,MTD,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,no,-17,no,no,no,16650,28473.6,"$3,788 ",-3.4,788.8,-9.6,3355.6,Patrick Kaltenbach,U.S.,Columbus,Ohio,Public
+776,ScanSource,SCSC,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,yes,no,no,41,no,yes,no,2300,1108.5,"$3,788 ",7.3,89.8,1.1,2068.2,Michael L. Baur,U.S.,Greenville,South Carolina,Public
+777,LCI Industries,LCII,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,-143,no,no,no,11700,3131.6,"$3,785 ",-27.3,64.2,-83.7,2959.3,Jason D. Lippert,U.S.,Elkhart,Indiana,Public
+778,Cboe Global Markets,CBOE,Financials,Securities,yes,no,no,yes,-31,no,no,no,1647,19398.5,"$3,774 ",-4.7,761.4,224,7487.5,Fredric J. Tomczyk,U.S.,Chicago,Illinois,Public
+779,Diebold Nixdorf,DBD,Technology,"Computers, Office Equipment",no,no,no,no,50,no,no,no,21000,1293.8,"$3,761 ",8.7,,,4162,Octavio Marquez,U.S.,North Canton,Ohio,Public
+780,ChampionX,CHX,Energy,"Oil and Gas Equipment, Services",yes,no,no,no,-8,no,no,no,7100,6858.6,"$3,758 ",-1.3,314.2,102.8,3241.7,Sivasankaran Somasundaram,U.S.,The Woodlands,Texas,Public
+781,Corpay,CPAY,Business Services,Financial Data Services,yes,no,no,yes,50,no,no,no,10500,22169.7,"$3,758 ",9.6,981.9,2.9,15476.3,Ronald F. Clarke,U.S.,Atlanta,Georgia,Public
+782,iHeartMedia,IHRT,Media,Entertainment,no,no,no,no,-21,no,no,no,9990,313.1,"$3,751,000 ",-4.1,-1102.7,,6952.6,Robert W. Pittman,U.S.,San Antonio,Texas,Public
+783,Travel + Leisure,TNL,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,25,no,yes,no,19000,3477.7,"$3,750,000 ",5.1,396,10.9,6738,Michael D. Brown,U.S.,Orlando,Florida,Public
+784,Dream Finders Homes,DFH,Engineering & Construction,Homebuilders,yes,yes,no,yes,59,no,no,no,1236,4078.5,"$3,749 ",12.2,295.9,12.8,2562.4,Patrick O. Zalupski,U.S.,Jacksonville,Florida,Public
+785,Boyd Gaming,BYD,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,26,no,no,no,16129,6466.3,"$3,739 ",5.2,620,-3,6273.1,Keith E. Smith,U.S.,Las Vegas,Nevada,Public
+786,NLV Financial,,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,0,no,no,no,1370,,"$3,735,000 ",59.6,217.4,64.3,45472.1,Mehran Assadi,U.S.,Montpelier,Vermont,Private
+787,Ensign Group,ENSG,Health Care,Health Care: Medical Facilities,yes,no,no,yes,102,no,no,no,35300,7080.1,"$3,729 ",23.3,209.4,-6.8,4177.5,Barry R. Port,U.S.,San Juan Capistrano,California,Public
+788,Sally Beauty Holdings,SBH,Retailing,Specialty Retailers: Other,yes,no,yes,no,-20,no,no,no,20000,1302.7,"$3,728 ",-2.3,184.6,0.6,2725.3,Denise A. Paulonis,U.S.,Denton,Texas,Public
+789,Conduent,CNDT,Business Services,Diversified Outsourcing Services,no,no,no,no,-26,no,no,no,59000,709.7,"$3,722,000 ",-3.5,-296,,3162,Clifford A. Skelton,U.S.,Florham Park,New Jersey,Public
+790,Sylvamo,SLVM,Materials,Forest and Paper Products,yes,no,no,no,-63,no,no,no,6500,2559.8,"$3,721,000 ",-10.3,253,114.4,2872,Jean-Michel Ribi?ras,U.S.,Memphis,Tennessee,Public
+791,Tri Pointe Homes,TPH,Engineering & Construction,Homebuilders,yes,no,no,no,-81,no,yes,no,1438,3710.3,"$3,715 ",-14.6,343.7,-40.3,4914.6,Douglas F. Bauer,U.S.,Incline Village,Nevada,Public
+792,EnerSys,ENS,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,49,no,no,no,11350,3817.7,"$3,709 ",10.5,175.8,22.2,3616.7,David M. Shaffer,U.S.,Reading,Pennsylvania,Public
+793,Incyte,INCY,Health Care,Pharmaceuticals,yes,no,no,yes,39,no,no,no,2524,12791.3,"$3,696 ",8.9,597.6,75.4,6782.1,Herv? Hoppenot,U.S.,Wilmington,Delaware,Public
+794,Century Communities,CCS,Engineering & Construction,Homebuilders,yes,yes,no,yes,-99,no,no,no,1650,3066.9,"$3,692 ",-18.1,259.2,-50.6,4139.4,Dale Francescon,U.S.,Greenwood Village,Colorado,Public
+795,Rithm Capital,RITM,Financials,Real estate,yes,no,no,yes,-112,no,no,no,6570,5392.8,"$3,692 ",-19.9,622.3,-34.8,35311.8,Michael Nierenberg,U.S.,New York,New York,Public
+796,Euronet Worldwide,EEFT,Business Services,Financial Data Services,yes,yes,no,yes,43,no,no,no,10000,5032.9,"$3,688,000 ",9.8,279.7,21.1,5894.4,Michael J. Brown,U.S.,Leawood,Kansas,Public
+797,Hawaiian Electric Industries,HE,Energy,Utilities: Gas and Electric,yes,no,no,no,-13,no,no,no,3652,1243.1,"$3,682 ",-1.6,199.2,-17.4,17243.8,Scott W.H. Seu,U.S.,Honolulu,Hawaii,Public
+798,DraftKings,DKNG,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",no,yes,no,yes,0,no,no,no,4400,39447.3,"$3,665 ",63.6,-802.1,,3944.9,Jason D. Robins,U.S.,Boston,Massachusetts,Public
+799,IDEXX Laboratories,IDXX,Health Care,Medical Products and Equipment,yes,no,no,yes,36,no,no,no,11000,44843.4,"$3,661,000 ",8.7,845,24.4,3259.9,Jonathan J. Mazelsky,U.S.,Westbrook,Maine,Public
+800,MYR Group,MYRG,Engineering & Construction,Engineering & Construction,yes,no,no,yes,93,no,no,no,9000,2958.7,"$3,644 ",21.1,91,9.1,1578.7,Richard S. Swartz,U.S.,Thornton,Colorado,Public
+801,Deckers Outdoor,DECK,Apparel,Apparel,yes,no,no,yes,72,no,no,no,4200,24160.5,"$3,627 ",15.1,516.8,14.4,2556.2,Stefano Caroti,U.S.,Goleta,California,Public
+802,DexCom,DXCM,Health Care,Medical Products and Equipment,yes,no,no,yes,103,no,no,no,9550,53471,"$3,622 ",24.5,541.5,58.7,6264.5,Kevin R. Sayer,U.S.,San Diego,California,Public
+803,MKS Instruments,MKSI,Technology,Semiconductors and Other Electronic Components,no,no,no,no,11,no,no,no,10100,8918.4,"$3,622,000 ",2.1,-1841,-652.9,9118,John T.C. Lee,U.S.,Andover,Massachusetts,Public
+804,VICI Properties,VICI,Financials,Real estate,yes,no,no,yes,160,no,no,no,28,31075.1,"$3,612,000 ",38.9,2513.5,124.9,44059.8,Edward B. Pitoniak,U.S.,New York,New York,Public
+805,Cooper Cos.,COO,Health Care,Medical Products and Equipment,yes,no,no,yes,45,no,no,no,15000,20165.8,"$3,593 ",8.6,294.2,-23.7,11658.9,Albert G. White III,U.S.,San Ramon,California,Public
+806,Frontier Group Holdings,ULCC,Transportation,Airlines,no,no,no,yes,40,no,no,no,7214,1811.6,"$3,589,000 ",7.9,-11,,4993,Barry L. Biffle,U.S.,Denver,Colorado,Public
+807,Qorvo,QRVO,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-131,no,no,no,8500,11086.7,"$3,569 ",-23.2,103.2,-90,6691.9,Robert A. Bruggeworth,U.S.,Greensboro,North Carolina,Public
+808,Five Below,FIVE,Retailing,Specialty Retailers: Other,yes,no,no,yes,72,no,no,no,14500,10018.5,"$3,559 ",15.7,301.1,15.1,3872,Kenneth R. Bull,U.S.,Philadelphia,Pennsylvania,Public
+809,TreeHouse Foods,THS,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,-132,no,no,no,7400,2097.9,"$3,553 ",-23.4,53.1,,4106.6,Steven T. Oakland,U.S.,Oak Brook,Illinois,Public
+810,Scotts Miracle-Gro,SMG,Chemicals,Chemicals,no,no,no,no,-54,no,no,no,6375,4228.7,"$3,551 ",-9.5,-380.1,,3413.7,James S. Hagedorn,U.S.,Marysville,Ohio,Public
+811,Atlassian,TEAM,Technology,Computer Software,no,yes,no,yes,105,no,no,yes,10726,50612.9,"$3,535 ",26.1,-486.8,,4106.8,Michael Cannon-Brookes,U.S.,San Francisco,California,Public
+812,Entegris,ENTG,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,43,no,no,no,8000,21184.1,"$3,524 ",7.4,180.7,-13.5,8812.6,Bertrand Loy,U.S.,Billerica,Massachusetts,Public
+813,Atkore,ATKR,Industrials,"Electronics, Electrical Equip.",yes,no,no,yes,-54,no,no,no,5208,6999.2,"$3,519 ",-10.1,689.9,-24.5,2935,William E. Waltz,U.S.,Harvey,Illinois,Public
+814,H.B. Fuller,FUL,Chemicals,Chemicals,yes,no,yes,yes,-33,no,no,no,7200,4345,"$3,511 ",-6.4,144.9,-19.6,4723.6,Celeste B. Mastin,U.S.,St. Paul,Minnesota,Public
+815,Granite Construction,GVA,Engineering & Construction,Engineering & Construction,yes,no,no,yes,38,no,yes,no,4100,2512.1,"$3,509 ",6.3,43.6,-47.7,2813.5,Kyle T. Larkin,U.S.,Watsonville,California,Public
+816,Winnebago Industries,WGO,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,-162,no,no,no,6250,2165.9,"$3,491 ",-29.6,215.9,-44.7,2432.4,Michael J. Happe,U.S.,Eden Prairie,Minnesota,Public
+817,FTI Consulting,FCN,Business Services,Diversified Outsourcing Services,yes,no,no,yes,71,no,no,no,7990,7472.3,"$3,489 ",15.2,274.9,16.7,3325.9,Steven H. Gunby,U.S.,Washington,District Of Columbia,Public
+818,AptarGroup,ATR,Materials,"Packaging, Containers",yes,no,no,yes,29,no,no,no,13800,9520.6,"$3,488 ",5,284.5,18.9,4451.9,Stephan B. Tanda,U.S.,Crystal Lake,Illinois,Public
+819,Columbia Sportswear,COLM,Apparel,Apparel,yes,no,no,yes,8,no,no,no,10070,4854.2,"$3,487 ",0.7,251.4,-19.3,2939,Timothy P. Boyle,U.S.,Portland,Oregon,Public
+820,Roku,ROKU,Media,Entertainment,no,yes,no,no,55,no,no,no,3150,9353.3,"$3,485 ",11.5,-709.6,,4261.8,Anthony J. Wood,U.S.,San Jose,California,Public
+821,Civitas Resources,CIVI,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-46,no,no,no,516,7668.5,"$3,479 ",-8.2,784.3,-37.2,14097.3,M. Christopher Doyle,U.S.,Denver,Colorado,Public
+822,H&R Block,HRB,Financials,Diversified Financials,yes,no,no,yes,6,no,no,no,39200,6851.9,"$3,472 ",0.3,553.7,,3072.3,Jeffrey J. Jones II,U.S.,Kansas City,Missouri,Public
+823,Alpha Metallurgical Resources,AMR,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-91,no,no,no,4160,4307.6,"$3,471 ",-15.4,722,-50.2,2406.1,Charles Andrew Eidson,U.S.,Bristol,Tennessee,Public
+824,Patrick Industries,PATK,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,-165,no,no,no,10000,2674,"$3,468,000 ",-29,142.9,-56.5,2562.4,Andy L. Nemeth,U.S.,Elkhart,Indiana,Public
+825,Murphy Oil,MUR,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-73,no,no,no,725,6972.7,"$3,460 ",-12,661.6,-31.4,9766.7,Roger W. Jenkins,U.S.,Houston,Texas,Public
+826,Synovus Financial,SNV,Financials,Commercial Banks,yes,no,no,no,163,no,no,no,4798,5865.5,"$3,454 ",39,543.7,-28.3,59809.5,Kevin S. Blair,U.S.,Columbus,Georgia,Public
+827,Cracker Barrel Old Country Store,CBRL,"Hotels, Restaurants & Leisure",Food Services,yes,no,yes,yes,31,no,no,no,77000,1614.7,"$3,443 ",5.4,99.1,-24.9,2218.1,Julie Felss Masino,U.S.,Lebanon,Tennessee,Public
+828,Cheesecake Factory,CAKE,"Hotels, Restaurants & Leisure",Food Services,yes,yes,no,yes,24,no,no,yes,47900,1847.8,"$3,440 ",4.1,101.4,135,2840.4,David M. Overton,U.S.,Calabasas Hills,California,Public
+829,CNX Resources,CNX,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,0,no,no,no,470,3632.4,"$3,435 ",172.4,1720.7,,8626.7,Nicholas J. DeIuliis,U.S.,Canonsburg,Pennsylvania,Public
+830,Chefs' Warehouse,CHEF,Wholesalers,Wholesalers: Food and Grocery,yes,yes,no,yes,131,no,no,no,4873,1499.2,"$3,434 ",31.4,34.6,24.6,1705.3,Christopher Pappas,U.S.,Ridgefield,Connecticut,Public
+831,Donaldson,DCI,Industrials,Industrial Machinery,yes,no,no,no,20,no,no,no,13000,8989.2,"$3,431 ",3.8,358.8,7.8,2770.5,Tod E. Carpenter,U.S.,Minneapolis,Minnesota,Public
+832,Mueller Industries,MLI,Industrials,Industrial Machinery,yes,no,no,no,-88,no,no,no,4509,6126.3,"$3,420 ",-14.1,602.9,-8.4,2759.3,Gregory L. Christopher,U.S.,Collierville,Tennessee,Public
+833,MRC Global,MRC,Wholesalers,Wholesalers: Diversified,yes,no,no,no,4,no,no,no,2800,1060.8,"$3,412,000 ",1.5,114,52,1886,Robert J. Saltiel Jr.,U.S.,Houston,Texas,Public
+834,Chart Industries,GTLS,Industrials,Industrial Machinery,yes,no,yes,yes,0,no,no,no,11637,6964,"$3,411 ",111.6,47.3,97.1,9102.4,Jillian C. Evanko,U.S.,Ball Ground,Georgia,Public
+835,Alight,ALIT,Business Services,Diversified Outsourcing Services,no,no,no,no,39,no,no,no,18000,5545.4,"$3,410,000 ",8.9,-345,,10782,Stephan D. Scholl,U.S.,Lincolnshire,Illinois,Public
+836,Vishay Intertechnology,VSH,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-14,no,no,no,23500,3118.6,"$3,402,000 ",-2.7,323.8,-24.5,4239.9,Joel Smejkal,U.S.,Malvern,Pennsylvania,Public
+837,Range Resources,RRC,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-111,no,no,no,548,8352.5,"$3,374 ",-18.6,871.1,-26.4,7203.9,Dennis L. Degner,U.S.,Fort Worth,Texas,Public
+838,Valley National Bancorp,VLY,Financials,Commercial Banks,yes,no,no,no,0,no,no,no,3749,4050.7,"$3,365 ",54.1,498.5,-12.4,60935,Ira D. Robbins,U.S.,New York,New York,Public
+839,Match Group,MTCH,Technology,Internet Services and Retailing,yes,no,no,no,30,no,no,no,2610,9723.5,"$3,365 ",5.5,651.5,80,4507.9,Bernard Kim,U.S.,Dallas,Texas,Public
+840,Gen Digital,GEN,Technology,Computer Software,yes,no,no,yes,79,no,no,no,3700,14266.8,"$3,338,000 ",19.4,1349,61.4,15947,Vincent Pilette,U.S.,Tempe,Arizona,Public
+841,Wintrust Financial,WTFC,Financials,Commercial Banks,yes,no,no,yes,0,no,no,no,5521,6417.1,"$3,327 ",50.7,622.6,22.2,56259.9,Timothy S. Crane,U.S.,Rosemont,Illinois,Public
+842,Moog,MOG.A,Aerospace & Defense,Aerospace & Defense,yes,no,no,no,44,no,no,no,13500,5306.8,"$3,319 ",9.3,171,10.2,3808,Patrick J. Roche,U.S.,East Aurora,New York,Public
+843,First Solar,FSLR,Energy,Energy,yes,no,no,yes,115,no,no,no,6700,18068,"$3,319 ",26.7,830.8,,10365.1,Mark R. Widmar,U.S.,Tempe,Arizona,Public
+844,Central Garden & Pet,CENT,Household Products,Household and Personal Products,yes,no,yes,no,0,no,no,no,6500,2435.1,"$3,310 ",-0.9,125.6,-17.4,3378.6,Mary Beth Springer,U.S.,Walnut Creek,California,Public
+845,Green Plains,GPRE,Energy,Energy,no,no,no,yes,-52,no,no,no,921,1494.6,"$3,296 ",-10,-93.4,,1939.3,Todd A. Becker,U.S.,Omaha,Nebraska,Public
+846,Werner Enterprises,WERN,Transportation,"Trucking, Truck Leasing",yes,no,no,no,8,no,no,no,13809,2482.9,"$3,284 ",-0.2,112.4,-53.4,3157.9,Derek J. Leathers,U.S.,Omaha,Nebraska,Public
+847,AppLovin,APP,Technology,Computer Software,yes,yes,no,yes,67,no,no,no,1731,22795.6,"$3,283 ",16.5,356.7,,5359.2,Adam Foroughi,U.S.,Palo Alto,California,Public
+848,ITT,ITT,Industrials,Industrial Machinery,yes,no,no,yes,47,no,no,no,10600,11168.1,"$3,283,000 ",9.9,410.5,11.9,3932.6,Luca Savi,U.S.,Stamford,Connecticut,Public
+849,Herc Holdings,HRI,Business Services,Equipment Leasing,yes,no,no,yes,86,no,no,no,7200,4773,"$3,282,000 ",19.8,347,5.2,7061,Lawrence H. Silber,U.S.,Bonita Springs,Florida,Public
+850,Gray Television,GTN,Media,Entertainment,no,no,no,yes,-58,no,no,no,9649,634.8,"$3,281,000 ",-10.7,-76,-116.7,10640,Patrick D. LaPlatney/Hilton H. Howell Jr.,U.S.,Atlanta,Georgia,Public
+851,IDEX,IEX,Industrials,Industrial Machinery,yes,no,no,no,20,no,no,no,8800,18469.6,"$3,274 ",2.9,596.1,1.6,5865.2,Eric D. Ashleman,U.S.,Northbrook,Illinois,Public
+852,Boston Properties,BXP,Financials,Real estate,yes,no,no,yes,26,no,no,no,836,10254.4,"$3,274 ",5.3,190.2,-77.6,26026.1,Owen D. Thomas,U.S.,Boston,Massachusetts,Public
+853,Pitney Bowes,PBI,Technology,Computer Software,no,no,no,no,-38,no,no,no,10500,764.4,"$3,266 ",-7.7,-385.6,-1143.9,4272.2,Jason C. Dies,U.S.,Stamford,Connecticut,Public
+854,Steelcase,SCS,Household Products,"Home Equipment, Furnishings",yes,no,yes,no,75,no,yes,no,12250,1494,"$3,233 ",16.6,35.3,782.5,2202.8,Sara E. Armbruster,U.S.,Grand Rapids,Michigan,Public
+855,Sun Communities,SUI,Financials,Real estate,no,no,no,no,44,no,no,no,6757,15996.9,"$3,225 ",8.6,-213.3,-188.1,16940.7,Gary A. Shiffman,U.S.,Southfield,Michigan,Public
+856,AdaptHealth,AHCO,Health Care,Wholesalers: Health Care,no,no,yes,no,42,no,no,no,10700,1529.8,"$3,200 ",7.7,-678.9,-1079.4,4508.7,Suzanne Foster,U.S.,Plymouth Meeting,Pennsylvania,Public
+857,Vertex Energy,VTNR,Energy,Petroleum Refining,no,yes,no,no,54,no,no,no,481,130.9,"$3,185 ",10.7,-71.5,,854.6,Benjamin P. Cowart,U.S.,Houston,Texas,Public
+858,Genesis Energy,GEL,Energy,Pipelines,yes,no,no,yes,64,no,no,no,2137,1361.8,"$3,177,000 ",13.9,117.7,56,7018.8,Grant E. Sims,U.S.,Houston,Texas,Public
+859,Jackson Financial,JXN,Financials,"Insurance: Life, Health (stock)",yes,no,yes,no,-577,no,no,no,3428,5120,"$3,159,000 ",-78.3,934,-83.6,330255,Laura L. Prieskorn,U.S.,Lansing,Michigan,Public
+860,FirstCash Holdings,FCFS,Retailing,Specialty Retailers: Other,yes,no,no,yes,78,no,no,no,19000,5753.1,"$3,152 ",15.5,219.3,-13.5,4289.9,Rick L. Wessel,U.S.,Fort Worth,Texas,Public
+861,Cal-Maine Foods,CALM,"Food, Beverages & Tobacco",Food Production,yes,no,no,no,0,no,no,no,2896,2882.6,"$3,146 ",77,758,471.4,1954.5,Sherman L. Miller,U.S.,Ridgeland,Mississippi,Public
+862,Arch Resources,ARCH,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-75,no,no,no,3404,2933.8,"$3,146 ",-15.5,464,-65.1,2484.2,Paul A. Lang,U.S.,St. Louis,Missouri,Public
+863,Avient,AVNT,Chemicals,Chemicals,yes,no,no,no,-194,no,no,no,9300,3960.5,"$3,143 ",-33.5,75.7,-89.2,5968.5,Ashish K. Khandpur,U.S.,Avon Lake,Ohio,Public
+864,Cano Health,,Health Care,Health Care: Medical Facilities,no,no,no,no,70,no,no,no,2700,1.2,"$3,138 ",14.6,-594.4,,1013.7,Mark Kent,U.S.,Miami,Florida,Private
+865,BlueLinx Holdings,BXC,Wholesalers,Wholesalers: Diversified,yes,no,no,no,-166,no,no,no,1990,1126.6,"$3,136 ",-29.5,48.5,-83.6,1537.6,Shyam K. Reddy,U.S.,Marietta,Georgia,Public
+866,Sinclair,SBGI,Media,Entertainment,no,no,no,no,-112,no,no,no,7300,856.7,"$3,134,000 ",-20.2,-291,-111,6085,Christopher S. Ripley,U.S.,Hunt Valley,Maryland,Public
+867,BOK Financial,BOKF,Financials,Commercial Banks,yes,no,no,yes,0,no,no,no,4966,5945.7,"$3,132 ",53.9,530.7,2,49824.8,Stacy C. Kymes,U.S.,Tulsa,Oklahoma,Public
+868,Permian Resources,PR,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,0,no,no,no,461,13631.1,"$3,121 ",46.4,476.3,-7.5,14965.6,William M. Hickey III/James H. Walter,U.S.,Midland,Texas,Public
+869,PACS Group,PACS,Health Care,Health Care: Medical Facilities,yes,yes,no,no,0,no,no,no,32433,,"$3,112 ",28.5,112.9,-25,3512.7,Jason  Murray,U.S.,Farmington,Utah,Public
+870,Coinbase Global,COIN,Financials,Securities,yes,yes,no,no,-2,no,no,no,3416,64232,"$3,108 ",-2.7,94.9,,206983,Brian Armstrong,U.S.,Wilmington,Delaware,Public
+871,Western Midstream Partners,WES,Energy,Pipelines,yes,no,no,yes,-11,no,no,no,1377,13526.2,"$3,107 ",-4.5,1022.2,-16,12471.6,Michael P. Ure,U.S.,The Woodlands,Texas,Public
+872,Federated Mutual Insurance,,Financials,Insurance: Property and Casualty (Mutual),yes,no,no,yes,40,no,no,no,2922,,"$3,099 ",8.4,422.8,3.6,12190,Nicholas R. Lower,U.S.,Owatonna,Minnesota,Private
+873,G-III Apparel Group,GIII,Apparel,Apparel,yes,no,no,no,-8,no,no,no,4050,1317.6,"$3,098 ",-4,176.2,,2681.2,Morris Goldfarb,U.S.,New York,New York,Public
+874,Vontier,VNT,Technology,"Electronics, Electrical Equip.",yes,no,no,no,-4,no,no,no,8000,6980.9,"$3,095 ",-2.8,376.9,-6.1,4294,Mark D. Morelli,U.S.,Raleigh,North Carolina,Public
+875,Matson,MATX,Transportation,Shipping,yes,no,no,yes,-163,no,no,no,4315,3876.4,"$3,095 ",-28.7,297.1,-72.1,4294.6,Matthew J. Cox,U.S.,Honolulu,Hawaii,Public
+876,Kirby,KEX,Transportation,Shipping,yes,no,no,yes,48,no,no,no,5450,5573.5,"$3,092 ",11,222.9,82.3,5722.2,David W. Grzebinski,U.S.,Houston,Texas,Public
+877,Kaiser Aluminum,KALU,Materials,Metals,yes,no,no,no,-47,no,no,no,4000,1431.2,"$3,087,000 ",-9.9,47.2,,2267.4,Keith A. Harvey,U.S.,Franklin,Tennessee,Public
+878,Vista Outdoor,VSTO,Business Services,"Toys, Sporting Goods",no,no,no,yes,7,no,no,no,7000,1906.1,"$3,080 ",1.2,-9.7,-102.1,2798.9,Jason  Vanderbrink /Eric  Nyman,U.S.,Anoka,Minnesota,Public
+879,Designer Brands,DBI,Retailing,Specialty Retailers: Apparel,yes,no,no,no,-30,no,no,no,14000,625.6,"$3,075,000 ",-7.3,29.1,-82.1,2076.2,Douglas M. Howe,U.S.,Columbus,Ohio,Public
+880,Rollins,ROL,Business Services,Diversified Outsourcing Services,yes,no,no,yes,66,no,no,no,19031,22419.4,"$3,073 ",14,435,18,2595.5,Jerry E. Gahlhoff Jr.,U.S.,Atlanta,Georgia,Public
+881,Advanced Drainage Systems,WMS,Materials,"Building Materials, Glass",yes,no,no,yes,49,no,no,no,5870,13368.7,"$3,071 ",10.9,507.1,86.9,2901.1,D. Scott Barbour,U.S.,Hilliard,Ohio,Public
+882,Cinemark Holdings,CNK,Media,Entertainment,yes,no,no,yes,111,no,no,no,17888,2188.3,"$3,067 ",24.9,188.2,,4836.8,Sean Gamble,U.S.,Plano,Texas,Public
+883,CrowdStrike,CRWD,Technology,Computer Software,yes,yes,no,yes,0,no,no,yes,7925,77540.7,"$3,056 ",36.3,89.3,,6646.5,George R. Kurtz,U.S.,Austin,Texas,Public
+884,Pinterest,PINS,Technology,Internet Services and Retailing,no,no,no,yes,33,no,no,no,4014,23540.4,"$3,055 ",9,-35.6,,3594.4,William J. Ready,U.S.,San Francisco,California,Public
+885,Instacart,CART,Retailing,Internet Services and Retailing,no,no,yes,no,0,no,no,no,3380,9937.7,"$3,042,000 ",19.2,-1622,-479,4727,Fidji Simo,U.S.,San Francisco,California,Public
+886,Hillenbrand,HI,Industrials,Industrial Machinery,yes,no,yes,no,16,no,no,no,10400,3527.9,"$3,040 ",3.4,569.7,172.7,5547.7,Kimberly K. Ryan,U.S.,Batesville,Indiana,Public
+887,Allison Transmission Holdings,ALSN,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,44,no,no,no,3700,7110.6,"$3,035,000 ",9.6,673,26.7,5025,David S. Graziosi,U.S.,Indianapolis,Indiana,Public
+888,RH,RH,Retailing,Specialty Retailers: Other,yes,no,no,no,-86,no,no,no,5645,6378.6,"$3,029 ",-15.6,127.6,-75.9,4143.9,Gary G. Friedman,U.S.,Corte Madera,California,Public
+889,Brookdale Senior Living,BKD,Health Care,Health Care: Medical Facilities,no,no,yes,no,24,no,no,no,30600,1251.5,"$3,016 ",6.7,-189,,5573.4,Lucinda M. Baier,U.S.,Brentwood,Tennessee,Public
+890,QuidelOrtho,QDEL,Health Care,Medical Products and Equipment,no,no,no,yes,-31,no,no,no,7100,3204.8,"$2,998 ",-8.2,-10.1,-101.8,8563.1,Brian J. Blaser,U.S.,San Diego,California,Public
+891,Trinity Industries,TRN,Transportation,Transportation Equipment,yes,no,yes,yes,0,no,no,no,9480,2279.8,"$2,983 ",50.9,106,76.4,8906.5,E. Jean Savage,U.S.,Dallas,Texas,Public
+892,Teleflex,TFX,Health Care,Medical Products and Equipment,yes,no,no,no,29,no,no,no,14500,10642.8,"$2,975 ",6.6,356.3,-1.9,7532.5,Liam J. Kelly,U.S.,Wayne,Pennsylvania,Public
+893,HEICO,HEI,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,0,no,no,no,9600,23341.3,"$2,968 ",34.4,403.6,14.8,7195.1,Laurans A. Mendelson,U.S.,Hollywood,Florida,Public
+894,Bruker,BRKR,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,yes,86,no,no,no,9707,12932.8,"$2,965 ",17.1,427.2,44,4249.9,Frank H. Laukien,U.S.,Billerica,Massachusetts,Public
+895,Carlyle Group,CG,Financials,Securities,no,no,no,yes,-195,no,no,no,2200,16986.8,"$2,964 ",-33.2,-608.4,-149.7,21176,Harvey M. Schwartz,U.S.,Washington,District Of Columbia,Public
+896,Energizer Holdings,ENR,Household Products,Household and Personal Products,yes,no,no,no,-12,no,no,no,5080,2113.3,"$2,960 ",-3,140.5,,4509.6,Mark S. LaVigne,U.S.,St. Louis,Missouri,Public
+897,Quad/Graphics,QUAD,Media,"Publishing, Printing",no,no,no,no,-31,no,no,no,13150,277.6,"$2,958 ",-8.1,-55.4,-695.7,1509.7,J. Joel Quadracci,U.S.,Sussex,Wisconsin,Public
+898,Rackspace Technology,RXT,Technology,Internet Services and Retailing,no,no,no,no,-21,no,no,no,5800,347.2,"$2,957 ",-5.3,-837.8,,4096.2,Amar Maletira,U.S.,San Antonio,Texas,Public
+899,Waters,WAT,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,no,-2,no,no,no,7900,20379.3,"$2,956 ",-0.5,642.2,-9.3,4626.9,Udit Batra,U.S.,Milford,Massachusetts,Public
+900,West Pharmaceutical Services,WST,Health Care,Medical Products and Equipment,yes,no,no,no,8,no,no,no,10600,28968.1,"$2,950 ",2.2,593.4,1.3,3829.5,Eric M. Green,U.S.,Exton,Pennsylvania,Public
+901,Carter's,CRI,Apparel,Apparel,yes,no,no,no,-34,no,no,no,15230,3089.2,"$2,946 ",-8.3,232.5,-7,2378.6,Michael D. Casey,U.S.,Atlanta,Georgia,Public
+902,NeueHealth,NEUE,Health Care,Health Care: Insurance and Managed Care,no,no,no,no,-355,no,no,no,1252,52.4,"$2,938 ",-53.9,-1151.5,,1225.5,G. Mike Mikan,U.S.,Doral,Florida,Public
+903,SkyWest,SKYW,Transportation,Airlines,yes,no,no,no,-9,no,no,no,12296,2788.3,"$2,935 ",-2.3,34.3,-52.9,7026.3,Russell A. Childs,U.S.,St. George,Utah,Public
+904,Acadia Healthcare,ACHC,Health Care,Health Care: Medical Facilities,no,no,no,yes,58,no,no,no,20250,7322.1,"$2,929 ",12.2,-21.7,-107.9,5358.8,Christopher H. Hunter,U.S.,Franklin,Tennessee,Public
+905,Revvity,RVTY,Health Care,Medical Products and Equipment,yes,no,no,no,-223,no,no,no,11500,12970.1,"$2,927 ",-36.5,693.1,21.8,13564.7,Prahlad R. Singh,U.S.,Waltham,Massachusetts,Public
+906,Portland General Electric,POR,Energy,Utilities: Gas and Electric,yes,no,yes,no,46,no,no,no,2842,4251.3,"$2,923,000 ",10.4,228,-2.1,11208,Maria M. Pope,U.S.,Portland,Oregon,Public
+907,Woodward,WWD,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,0,no,no,no,8800,9293.2,"$2,915 ",22.3,232.4,35.3,4010.2,Charles Blankenship Jr.,U.S.,Fort Collins,Colorado,Public
+908,TEGNA,TGNA,Media,Entertainment,yes,no,no,no,-52,no,no,no,6200,2631,"$2,911 ",-11.2,476.7,-24.4,7000.1,Michael Steib,U.S.,Tysons,Virginia,Public
+909,Sabre,SABR,Retailing,Internet Services and Retailing,no,no,no,no,70,no,no,no,6232,918.4,"$2,908 ",14.6,-527.6,,4672.2,Kurt J. Ekert,U.S.,Southlake,Texas,Public
+910,Light & Wonder,LNW,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,0,no,no,no,6500,9170.7,"$2,902,000 ",0.7,163,-95.6,5552,Matthew R. Wilson,U.S.,Las Vegas,Nevada,Public
+911,Vail Resorts,MTN,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,yes,yes,70,no,no,no,32100,8460.4,"$2,889 ",14.4,268.1,-22.9,5947.8,Kirsten A. Lynch,U.S.,Broomfield,Colorado,Public
+912,Radius Recycling,RDUS,Materials,Metals,no,no,yes,no,-88,no,no,no,3353,588.7,"$2,882 ",-17.3,-25.8,-115.3,1715.9,Tamara L. Lundgren,U.S.,Portland,Oregon,Public
+913,PennyMac Financial Services,PFSI,Financials,Diversified Financials,yes,no,no,no,52,no,no,no,3914,4593.5,"$2,882 ",10.9,144.7,-69.6,18844.6,David A. Spector,U.S.,Westlake Village,California,Public
+914,Saia,SAIA,Transportation,"Trucking, Truck Leasing",yes,no,no,yes,6,no,no,no,14000,15554,"$2,881 ",3.2,354.9,-0.7,2583.6,Frederick J. Holzgrefe III,U.S.,Johns Creek,Georgia,Public
+915,Equity Residential,EQR,Financials,Real estate,yes,no,no,no,21,no,no,no,2400,23953.6,"$2,874,000 ",5.1,835.4,7.5,20034.6,Mark J. Parrell,U.S.,Chicago,Illinois,Public
+916,Helmerich & Payne,HP,Energy,"Oil and Gas Equipment, Services",yes,no,no,no,0,no,no,no,7100,4156.6,"$2,872 ",39.5,434.1,6143.3,4382,John W. Lindsay,U.S.,Tulsa,Oklahoma,Public
+917,Korn Ferry,KFY,Business Services,Diversified Outsourcing Services,yes,no,no,no,36,no,no,no,10697,3431.4,"$2,864 ",8.3,209.5,-35.8,3574.4,Gary D. Burnison,U.S.,Los Angeles,California,Public
+918,PC Connection,CNXN,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,no,no,yes,-42,no,no,no,2703,1738.1,"$2,851 ",-8.8,83.3,-6.7,1188.4,Timothy J. McGrath,U.S.,Merrimack,New Hampshire,Public
+919,Curtiss-Wright,CW,Aerospace & Defense,Aerospace & Defense,yes,no,yes,yes,56,no,no,no,8600,9797.4,"$2,845 ",11.3,354.5,20.4,4621,Lynn M. Bamford,U.S.,Davidson,North Carolina,Public
+920,SLM,SLM,Financials,Diversified Financials,yes,no,no,yes,0,no,no,no,1740,4801.4,"$2,839 ",20,581.4,24,29169.5,Jonathan W. Witter,U.S.,Newark,Delaware,Public
+921,Benchmark Electronics,BHE,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,-12,no,no,no,12703,1073.6,"$2,839,000 ",-1.6,64.3,-5.7,2274.8,Jeffrey W. Benck,U.S.,Tempe,Arizona,Public
+922,American National Group,AEL,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,0,no,no,no,1020,4463.9,"$2,836,000 ",100.4,210.5,-82.8,79918.3,Anant Bhalla,U.S.,West Des Moines,Iowa,Private
+923,Pure Storage,PSTG,Technology,"Computers, Office Equipment",yes,no,no,yes,10,no,no,no,5600,16892.1,"$2,831 ",2.8,61.3,-16.1,3655.8,Charles H. Giancarlo,U.S.,Santa Clara,California,Public
+924,Knife River,KNF,Materials,"Building Materials, Glass",yes,no,no,no,0,no,no,no,4389,4589.9,"$2,830 ",,182.9,,2599.8,Brian R. Gray,U.S.,Bismarck,North Dakota,Public
+925,Caleres,CAL,Retailing,Specialty Retailers: Apparel,yes,no,no,no,-25,no,no,no,7150,1456.7,"$2,817 ",-5.1,171.4,-5.7,1804.7,John W. Schmidt,U.S.,St. Louis,Missouri,Public
+926,BrightView Holdings,BV,Business Services,Diversified Outsourcing Services,no,no,no,no,1,no,no,no,20700,1123.4,"$2,816,000 ",1.5,-7.7,-155,3352.2,Dale A. Asplund,U.S.,Blue Bell,Pennsylvania,Public
+927,Cooper-Standard Holdings,CPS,Motor Vehicles & Parts,Motor Vehicles & Parts,no,no,no,no,55,no,no,no,21500,284.8,"$2,816 ",11.5,-202,,1872.3,Jeffrey S. Edwards,U.S.,Northville,Michigan,Public
+928,Primerica,PRI,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,12,no,no,no,3150,8777.3,"$2,816 ",3.5,576.6,54.6,15027.7,Glenn J. Williams,U.S.,Duluth,Georgia,Public
+929,F5,FFIV,Technology,Network and Other Communications Equipment,yes,no,no,no,16,no,no,no,6492,11149.1,"$2,813 ",4.4,394.9,22.6,5248.3,Fran?ois Locoh-Donou,U.S.,Seattle,Washington,Public
+930,Matador Resources,MTDR,Energy,"Mining, Crude-Oil Production",yes,yes,no,yes,-48,no,no,no,395,8331.6,"$2,807 ",-8.2,846.1,-30.3,7727,Joseph Wm. Foran,U.S.,Dallas,Texas,Public
+931,Snowflake,SNOW,Technology,Internet Services and Retailing,no,no,no,yes,0,no,no,no,7004,54006.7,"$2,807 ",35.9,-836.1,,8223.4,Sridhar Ramaswamy,U.S.,Bozeman,Montana,Public
+932,Viasat,VSAT,Technology,Network and Other Communications Equipment,yes,yes,no,no,-9,no,no,no,6800,2267,"$2,803 ",0.6,1084.8,,7730.3,Mark D. Dankberg,U.S.,Carlsbad,California,Public
+933,California Resources,CRC,Energy,"Mining, Crude-Oil Production",yes,no,no,no,9,no,no,no,970,3788.8,"$2,801,000 ",3.5,564,7.6,3998,Francisco J. Leon,U.S.,Long Beach,California,Public
+934,Peloton Interactive,PTON,"Hotels, Restaurants & Leisure","Toys, Sporting Goods",no,no,yes,no,-131,no,no,no,3541,1572,"$2,800 ",-21.8,-1261.7,,2769.1,Karen Boone/Christopher Bruzzo,U.S.,New York,New York,Public
+935,Roblox,RBLX,Media,Entertainment,no,yes,no,yes,0,no,no,no,2457,24115.9,"$2,799 ",25.8,-1151.9,,6168.1,David Baszucki,U.S.,San Mateo,California,Public
+936,Installed Building Products,IBP,Engineering & Construction,Homebuilders,yes,no,no,yes,14,no,no,no,10600,7339.2,"$2,779 ",4.1,243.7,9.1,1981.3,Jeffrey W. Edwards,U.S.,Columbus,Ohio,Public
+937,First National of Nebraska,FINN,Financials,Commercial Banks,yes,no,no,no,0,no,no,no,4799,3265.1,"$2,778 ",40.6,227.4,-29.5,31285.9,Clarkson D. Lauritzen,U.S.,Omaha,Nebraska,Public
+938,Guess,GES,Retailing,Specialty Retailers: Apparel,yes,no,no,no,10,no,no,no,12000,1689.9,"$2,777 ",3.3,198.2,32.5,2590,Carlos E. Alberini,U.S.,Los Angeles,California,Public
+939,ESAB,ESAB,Industrials,Industrial Machinery,yes,no,no,no,28,no,no,no,9000,6671.5,"$2,775 ",7,205.3,-8.3,3828.6,Shyam P. Kambeyanda,U.S.,North Bethesda,Maryland,Public
+940,Amica Mutual Insurance,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,23,no,no,no,3597,,"$2,773 ",6.6,-218.4,,6668,Edmiund Shallcross III,U.S.,Lincoln,Rhode Island,Private
+941,AvalonBay Communities,AVB,Financials,Real estate,yes,no,no,yes,27,no,no,no,3009,26383.6,"$2,768 ",6.7,928.8,-18.3,20678.2,Benjamin W. Schall,U.S.,Arlington,Virginia,Public
+942,DocuSign,DOCU,Technology,Computer Software,yes,no,no,no,41,no,no,no,6840,12232.5,"$2,762 ",9.8,74,,2971.3,Allan C. Thygesen,U.S.,San Francisco,California,Public
+943,Titan Machinery,TITN,Retailing,Specialty Retailers: Other,yes,no,no,yes,0,no,no,no,3471,566.9,"$2,758 ",24.9,112.4,10.4,1992.3,Bryan J. Knutson,U.S.,West Fargo,North Dakota,Public
+944,ModivCare,MODV,Health Care,Health Care: Pharmacy and Other Services,no,no,no,yes,41,no,no,no,21200,332.9,"$2,756 ",9.7,-204.5,,1767.3,L. Heath Sampson,U.S.,Denver,Colorado,Public
+945,Hovnanian Enterprises,HOV,Engineering & Construction,Homebuilders,yes,no,no,no,-42,no,no,no,1715,956.7,"$2,756,000 ",-5.7,205.9,-8.7,2492.9,Ara K. Hovnanian,U.S.,Matawan,New Jersey,Public
+946,Etsy,ETSY,Retailing,Internet Services and Retailing,yes,no,no,no,26,no,no,no,2420,8142.8,"$2,748 ",7.1,307.6,,2685.4,Joshua G. Silverman,U.S.,Brooklyn,New York,Public
+947,Adams Resources & Energy,AE,Energy,Petroleum Refining,yes,no,no,no,-111,no,no,no,741,74.4,"$2,745 ",-18.5,0.2,-93.9,361.3,Kevin J. Roycraft,U.S.,Houston,Texas,Public
+948,Surgery Partners,SGRY,Health Care,Health Care: Medical Facilities,no,no,no,yes,30,no,no,no,12000,3776.7,"$2,743 ",8,-11.9,,6876.7,J. Eric  Evans,U.S.,Brentwood,Tennessee,Public
+949,Columbia Banking System,COLB,Financials,Commercial Banks,yes,no,no,yes,0,no,no,no,5114,4050.2,"$2,743 ",103.6,348.7,3.6,52173.6,Clint E. Stein,U.S.,Tacoma,Washington,Public
+950,Verisk,VRSK,Business Services,Financial Data Services,yes,no,no,yes,-63,no,no,no,7500,33801.3,"$2,728 ",-10.1,614.6,-35.6,4366.1,Lee M. Shavel,U.S.,Jersey City,New Jersey,Public
+951,MasterBrand,MBC,Materials,"Building Materials, Glass",yes,no,no,no,0,no,no,no,12307,2380,"$2,726 ",,182,,2381.7,R. David Banyard Jr.,U.S.,Beachwood,Ohio,Public
+952,Hawaiian Holdings,HA,Transportation,Airlines,no,no,no,yes,2,no,no,no,7362,690.8,"$2,716 ",2.8,-260.5,,3733.5,Peter R. Ingram,U.S.,Honolulu,Hawaii,Public
+953,AMC Networks,AMCX,Media,Entertainment,yes,no,yes,no,-74,no,no,no,1900,528.4,"$2,712 ",-12.4,215.5,2737.3,4969.8,Kristin A. Dolan,U.S.,New York,New York,Public
+954,SBA Communications,SBAC,Financials,Real estate,yes,no,no,no,1,no,no,no,1787,23427.2,"$2,712 ",3,501.8,8.8,10178.4,Brendan T. Cavanagh,U.S.,Boca Raton,Florida,Public
+955,Americold Realty Trust,COLD,Financials,Real estate,no,no,no,no,-51,no,no,no,14632,7071.9,"$2,703 ",-7.3,-336.2,,7869.3,George F. Chappelle Jr.,U.S.,Atlanta,Georgia,Public
+956,NewMarket,NEU,Chemicals,Chemicals,yes,no,no,no,-24,no,no,no,2000,6085.6,"$2,698 ",-2.4,388.9,39.1,2308.9,Thomas E. Gottwald,U.S.,Richmond,Virginia,Public
+957,Park Hotels & Resorts,PK,Financials,Real estate,yes,no,no,no,30,no,no,no,90,3682.3,"$2,698,000 ",7.9,97,-40.1,9419,Thomas J. Baltimore Jr.,U.S.,Tysons,Virginia,Public
+958,Alexandria Real Estate Equities,ARE,Financials,Real estate,yes,no,no,no,0,no,no,no,568,22555.2,"$2,690 ",19.2,103.6,-80.1,36771.4,Peter M. Moglia,U.S.,Pasadena,California,Public
+959,Griffon,GFF,Materials,"Building Materials, Glass",yes,no,no,no,-67,no,no,no,5700,3763,"$2,685 ",-10.8,77.6,,2418.9,Ronald J. Kramer,U.S.,New York,New York,Public
+960,Air Lease,AL,Business Services,Equipment Leasing,yes,no,no,yes,0,no,no,no,163,5728.7,"$2,685,000 ",15.9,614.6,,30452.3,John L. Plueger,U.S.,Los Angeles,California,Public
+961,UL Solutions,ULS,Business Services,Diversified Outsourcing Services,yes,no,yes,yes,0,no,no,no,15063,,"$2,678,000 ",6.3,260,-11.3,2736,Jennifer F. Scanlon,U.S.,Northbrook,Illinois,Public
+962,Teradyne,TER,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-90,no,no,no,6500,17260,"$2,676 ",-15.2,448.8,-37.3,3486.8,Gregory S. Smith,U.S.,North Reading,Massachusetts,Public
+963,OGE Energy,OGE,Energy,Utilities: Gas and Electric,yes,no,no,yes,-130,no,no,no,2329,6871.3,"$2,674 ",-20.8,416.8,-37.4,12790.7,Sean  Trauschke,U.S.,Oklahoma City,Oklahoma,Public
+964,Bio-Rad Laboratories,BIO,Technology,"Scientific,Photographic and  Control Equipment",no,no,no,no,-46,no,no,no,8030,9794,"$2,671 ",-4.7,-637.3,,12299.1,Norman D. Schwartz,U.S.,Hercules,California,Public
+965,Spire,SR,Energy,Utilities: Gas and Electric,yes,no,no,yes,0,no,no,no,3589,3374.3,"$2,666 ",21.3,217.5,-1.5,10313.6,Steven L. Lindsey,U.S.,St. Louis,Missouri,Public
+966,Gannett,GCI,Media,"Publishing, Printing",no,no,no,no,-65,no,no,no,12800,363.1,"$2,664 ",-9.6,-27.8,,2181.2,Michael E. Reed,U.S.,McLean,Virginia,Public
+967,Stericycle,SRCL,Business Services,Waste Management,no,no,yes,no,-23,no,no,no,13948,4882.9,"$2,659 ",-1.7,-21.4,-138.2,5352.6,Cindy J. Miller,U.S.,Bannockburn,Illinois,Public
+968,Cullen/Frost Bankers,CFR,Financials,Commercial Banks,yes,no,no,yes,0,no,no,no,5495,7228.9,"$2,646 ",40.7,598,3.3,50845,Phillip D. Green,U.S.,San Antonio,Texas,Public
+969,Extra Space Storage,EXR,Financials,Real estate,yes,no,no,yes,0,no,no,no,7618,31101.5,"$2,645 ",32.7,803.2,-6.7,27456.3,Joseph D. Margolis,U.S.,Salt Lake City,Utah,Public
+970,REV Group,REVG,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,0,no,no,no,6724,1144.3,"$2,638,000 ",13.1,45.3,198,1410.4,Mark A. Skonieczny,U.S.,Brookfield,Wisconsin,Public
+971,ProFrac Holding,ACDC,Energy,"Oil and Gas Equipment, Services",no,yes,no,no,26,no,no,no,2949,1334.2,"$2,630,000 ",8.4,-97.7,-206.8,3070.7,Ladd  Wilks,U.S.,Willow Park,Texas,Public
+972,Nordson,NDSN,Industrials,Industrial Machinery,yes,no,no,yes,-3,no,no,no,7900,15701.6,"$2,629 ",1.5,487.5,-5,5251.8,Sundaram Nagarajan,U.S.,Westlake,Ohio,Public
+973,Summit Materials,SUM,Materials,"Building Materials, Glass",yes,no,yes,yes,25,no,no,no,5300,7767.1,"$2,620 ",8.6,285.9,5,5149.6,Anne P. Noonan,U.S.,Denver,Colorado,Public
+974,Valvoline,VVV,Chemicals,Chemicals,yes,no,yes,yes,-221,no,no,no,10250,5778.5,"$2,618 ",-33.4,1419.7,234.6,2889.9,Lori A. Flees,U.S.,Lexington,Kentucky,Public
+975,Kontoor Brands,KTB,Apparel,Apparel,yes,no,no,no,-19,no,no,no,13700,3359.5,"$2,608 ",-0.9,231,-5.9,1645.4,Scott H. Baxter,U.S.,Greensboro,North Carolina,Public
+976,Skyline Champion,SKY,Engineering & Construction,Homebuilders,yes,no,no,no,0,no,no,no,7700,4909.6,"$2,607 ",18.1,401.8,62,1562.7,Mark J. Yost,U.S.,Troy,Michigan,Public
+977,Teladoc Health,TDOC,Health Care,Health Care: Pharmacy and Other Services,no,no,yes,no,22,no,no,no,5208,2522.3,"$2,602 ",8.1,-220.4,,4392.4,Charles Divita III,U.S.,Purchase,New York,Public
+978,Louisiana-Pacific,LPX,Materials,"Building Materials, Glass",yes,no,no,no,-261,no,no,no,4100,6067.6,"$2,581,000 ",-40.1,178,-83.6,2437,W. Bradley Southern,U.S.,Nashville,Tennessee,Public
+979,Universal,UVV,"Food, Beverages & Tobacco",Tobacco,yes,no,no,yes,0,no,no,no,19600,1270.9,"$2,570 ",22.2,124.1,43.3,2639.2,George C. Freeman III,U.S.,Richmond,Virginia,Public
+980,Consol Energy,CEIX,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,0,no,no,no,2020,2480,"$2,569 ",22.2,655.9,40.5,2675,James A. Brock,U.S.,Canonsburg,Pennsylvania,Public
+981,Encore Wire,,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-91,no,no,no,1629,4147.7,"$2,568 ",-14.9,372.4,-48.1,1967.9,Daniel L. Jones,U.S.,McKinney,Texas,Private
+982,Playtika Holding,PLTK,Media,Entertainment,yes,yes,no,no,-22,no,no,no,3600,2613.1,"$2,567,000 ",-1.9,235,-14.6,3175,Robert Antokol,U.S.,Henderson,Nevada,Public
+983,Alliance Resource Partners,ARLP,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,17,no,no,no,3595,2567.6,"$2,567 ",6.7,630.1,7.5,2788.4,Joseph W. Craft III,U.S.,Tulsa,Oklahoma,Public
+984,Envista Holdings,NVST,Health Care,Medical Products and Equipment,no,no,no,yes,-14,no,no,no,12800,3674.3,"$2,567 ",-0.6,-100.2,-141.2,6605.1,Paul Keel,U.S.,Brea,California,Public
+985,Shift4 Payments,FOUR,Business Services,Financial Data Services,yes,yes,no,yes,0,no,no,no,3030,5694.7,"$2,565 ",28.7,86.2,14.8,3387.8,Jared Isaacman,U.S.,Center Valley,Pennsylvania,Public
+986,Talen Energy,TLNE,Energy,Energy,no,no,no,no,0,no,no,no,2000,5569.4,"$2,554,000 ",-17.3,,,7121,Mark  McFarland,U.S.,Houston,Texas,Public
+987,Carpenter Technology,CRS,Materials,Metals,yes,no,no,yes,0,no,no,no,4500,3529,"$2,550 ",38.9,56.4,,3053.9,Tony R. Thene,U.S.,Philadelphia,Pennsylvania,Public
+988,WEX,WEX,Business Services,Financial Data Services,yes,no,yes,yes,0,no,no,no,7200,9913.3,"$2,548,000 ",8.4,266.6,32.3,13882.1,Melissa D. Smith,U.S.,Portland,Maine,Public
+989,Old National Bancorp,ONB,Financials,Commercial Banks,yes,no,no,no,0,no,no,no,3940,5096,"$2,540 ",37,582,35.9,49089.8,James C. Ryan III,U.S.,Evansville,Indiana,Public
+990,AGNC Investment,AGNC,Financials,Real estate,yes,no,no,yes,0,no,no,no,53,6887.3,"$2,538,000 ",,155,,71596,Peter J. Federico,U.S.,Bethesda,Maryland,Public
+991,Wabash National,WNC,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,-5,no,no,no,6667,1349.9,"$2,536,000 ",1.4,231.3,106,1362.8,Brent L. Yeagy,U.S.,Lafayette,Indiana,Public
+992,MSCI,MSCI,Business Services,Financial Data Services,yes,no,no,yes,0,no,no,no,5794,44400.8,"$2,528,000 ",12.5,1148.6,31.9,5518.2,Henry A. Fernandez,U.S.,New York,New York,Public
+993,Stagwell,STGW,Business Services,"Advertising, marketing",yes,yes,no,no,-46,no,no,no,10250,1670.4,"$2,527,000 ",-6,0.1,-99.5,3767,Mark Penn,U.S.,New York,New York,Public
+994,Mativ Holdings,MATV,Chemicals,Chemicals,no,no,yes,no,0,no,no,no,5400,1018.1,"$2,516,000 ",16.1,-309.5,,2642.4,Julie A. Schertell,U.S.,Alpharetta,Georgia,Public
+995,Belden,BDC,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-36,no,no,no,8000,3804.9,"$2,512,000 ",-4.1,242.8,-4.7,3240.2,Ashish Chand,U.S.,St. Louis,Missouri,Public
+996,Allegiant Travel,ALGT,Transportation,Airlines,yes,no,no,yes,0,no,no,no,6686,1375.3,"$2,509,000 ",9,117.6,4617,4869.4,Maurice J. Gallagher Jr.,U.S.,Las Vegas,Nevada,Public
+997,Dropbox,DBX,Technology,Computer Software,yes,yes,no,no,0,no,no,no,2693,8358.8,"$2,501,000 ",7.6,453.6,-18,2983.5,Andrew W. Houston,U.S.,San Francisco,California,Public
+998,Exact Sciences,EXAS,Health Care,Pharmaceuticals,no,no,no,yes,0,no,no,no,6550,12536.5,"$2,499,000 ",19.9,-204.1,,6471.3,Kevin T. Conroy,U.S.,Madison,Wisconsin,Public
+999,BWX Technologies,BWXT,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,0,no,no,no,7800,9380.2,"$2,496,000 ",11.8,245.8,3.2,2747.1,Rex D. Geveden,U.S.,Lynchburg,Virginia,Public
+1000,Clear Channel Outdoor Hldgs.,CCO,Business Services,"Advertising, marketing",no,no,no,no,-10,no,no,no,3900,798.1,"$2,489,000 ",0.3,-310.9,,4722.5,Scott R. Wells,U.S.,San Antonio,Texas,Public
