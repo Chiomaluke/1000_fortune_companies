@@ -1,1 +1,0 @@
-print ("1000 fortune companies in USA in 2024")
