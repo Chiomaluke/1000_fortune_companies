@@ -70,7 +70,7 @@ where FemaleCEO='no'
 SELECT Top 10 Company, Sector, Industry, Revenue, RevenuePercentChange
 FROM fortune_companies
 ORDER BY CAST(REPLACE(RevenuePercentChange, '%', '') AS FLOAT) DESC
-
+```
 
 ### Insights
 Top 5 Sectors by Revenue:
